@@ -1,0 +1,399 @@
+Campaign ID,Interest 1,Interest 2,Campaign_Date,Age Group,Gender,impressions,clicks,spent,total_conversion,approved_conversion
+567,fitness,skiing,24/03/2020,20-24,Female,7350,1,1.4,2,1
+567,keeping fit,sports,27/03/2020,20-24,Male,17861,2,1.8,2,0
+567,gym,sports,24/03/2020,25-29,Female,693,0,0.0,1,0
+567,gym,sports,11/03/2020,25-29,Male,4259,1,1.3,1,0
+567,weight-training,cycling,29/03/2020,35-49,Female,4133,1,1.3,1,1
+567,keeping fit,cycling,02/03/2020,35-49,Male,1915,0,0.0,1,1
+567,weight-training,sports,21/03/2020,40-45,Female,15615,3,4.8,1,0
+567,fitness,swimming,24/03/2020,40-45,Male,10951,1,1.3,1,1
+568,fitness,sports,16/03/2020,20-24,Female,2355,1,1.5,1,0
+568,gym,swimming,03/03/2020,25-29,Female,9502,3,3.2,1,0
+568,gym,running,21/03/2020,25-29,Male,1224,0,0.0,1,0
+568,gym,sports,03/03/2020,30-34,Male,735,0,0.0,1,0
+568,gym,cycling,28/03/2020,35-49,Female,5117,0,0.0,1,0
+568,weight-training,skiing,10/03/2020,35-49,Male,5120,0,0.0,1,0
+568,gym,skiing,21/03/2020,40-45,Female,14669,7,10.3,1,1
+568,gym,swimming,02/03/2020,40-45,Male,1241,0,0.0,1,1
+569,gym,running,10/03/2020,20-24,Female,2305,1,0.6,1,0
+569,keeping fit,swimming,11/03/2020,20-24,Male,1024,0,0.0,1,1
+569,gym,running,12/03/2020,25-29,Female,4627,1,1.7,1,0
+569,gym,sports,26/03/2020,25-29,Male,21026,4,4.6,2,1
+569,keeping fit,running,27/03/2020,30-34,Male,1422,0,0.0,1,1
+569,keeping fit,cycling,03/03/2020,35-49,Female,7132,2,2.6,1,0
+569,gym,cycling,27/03/2020,35-49,Male,12190,2,3.0,1,0
+569,weight-training,sports,30/03/2020,40-45,Female,12193,2,3.1,1,1
+569,keeping fit,swimming,12/03/2020,40-45,Male,3332,0,0.0,1,1
+570,keeping fit,skiing,27/03/2020,20-24,Female,559,0,0.0,1,0
+570,keeping fit,sports,06/03/2020,20-24,Male,7440,2,3.0,1,1
+570,gym,swimming,30/03/2020,25-29,Female,19113,4,5.5,1,0
+570,keeping fit,skiing,02/03/2020,25-29,Male,10976,2,1.7,1,1
+570,weight-training,swimming,20/03/2020,30-34,Female,2861,0,0.0,1,0
+570,weight-training,sports,14/03/2020,30-34,Male,1398,0,0.0,1,1
+570,fitness,sports,14/03/2020,35-49,Female,23817,7,8.5,1,1
+570,keeping fit,skiing,14/03/2020,35-49,Male,47224,12,15.8,1,0
+570,weight-training,skiing,12/03/2020,40-45,Female,2283,1,1.5,1,0
+570,fitness,cycling,10/03/2020,40-45,Male,2182,1,1.5,1,1
+571,keeping fit,cycling,13/03/2020,20-24,Female,2654,0,0.0,1,1
+571,keeping fit,sports,20/03/2020,20-24,Male,57665,14,18.1,1,1
+571,weight-training,sports,07/03/2020,25-29,Female,3091,1,1.6,1,1
+571,weight-training,sports,21/03/2020,25-29,Male,5014,1,1.2,1,0
+571,weight-training,running,06/03/2020,30-34,Female,38726,7,9.2,1,0
+571,gym,skiing,04/03/2020,30-34,Male,1473,0,0.0,1,0
+571,keeping fit,running,07/03/2020,35-49,Female,1186,0,0.0,1,0
+571,weight-training,running,28/03/2020,35-49,Male,5369,1,1.5,1,0
+571,keeping fit,running,10/03/2020,40-45,Female,22221,7,9.4,1,1
+571,fitness,jogging,02/03/2020,40-45,Male,1185,0,0.0,1,0
+572,gym,sports,18/03/2020,20-24,Female,13019,5,7.0,1,0
+572,gym,swimming,27/03/2020,20-24,Male,2508,1,1.2,1,0
+572,gym,cycling,02/03/2020,25-29,Female,5864,2,2.8,1,1
+572,fitness,swimming,03/03/2020,25-29,Male,2783,1,1.6,1,0
+572,fitness,running,11/03/2020,30-34,Female,3812,1,1.1,2,1
+572,fitness,jogging,26/03/2020,30-34,Male,11199,4,5.7,1,1
+572,weight-training,running,14/03/2020,35-49,Female,292,0,0.0,1,0
+572,fitness,skiing,15/03/2020,35-49,Male,17572,7,9.4,1,0
+572,fitness,running,02/03/2020,40-45,Female,1448,0,0.0,1,1
+573,weight-training,sports,20/03/2020,20-24,Female,1772,0,0.0,1,1
+573,weight-training,jogging,06/03/2020,20-24,Male,13329,4,5.6,1,1
+573,keeping fit,jogging,21/03/2020,25-29,Male,13659,3,3.8,1,0
+573,gym,sports,24/03/2020,30-34,Female,739,0,0.0,1,1
+573,fitness,running,21/03/2020,30-34,Male,605,0,0.0,1,0
+573,gym,sports,30/03/2020,35-49,Female,1030,0,0.0,1,0
+573,gym,cycling,24/03/2020,35-49,Male,5374,1,1.0,4,0
+573,keeping fit,running,14/03/2020,40-45,Female,790,0,0.0,1,1
+573,weight-training,swimming,15/03/2020,40-45,Male,962,0,0.0,1,0
+574,weight-training,cycling,12/03/2020,20-24,Female,4423,1,1.5,1,1
+574,keeping fit,sports,17/03/2020,20-24,Male,12382,2,2.8,1,1
+574,gym,sports,12/03/2020,25-29,Female,2938,1,1.4,1,1
+574,fitness,cycling,15/03/2020,25-29,Male,239,0,0.0,1,0
+574,weight-training,jogging,28/03/2020,30-34,Male,591,0,0.0,1,0
+574,weight-training,skiing,15/03/2020,35-49,Female,10332,4,5.8,1,0
+574,keeping fit,running,10/03/2020,35-49,Male,8259,3,4.0,1,0
+574,weight-training,swimming,29/03/2020,40-45,Female,12158,3,4.4,1,0
+574,fitness,running,30/03/2020,40-45,Male,7709,2,1.3,2,0
+575,keeping fit,jogging,07/03/2020,20-24,Female,834,0,0.0,1,0
+575,weight-training,cycling,12/03/2020,20-24,Male,1299,0,0.0,2,0
+575,weight-training,sports,03/03/2020,25-29,Female,371,0,0.0,1,0
+575,gym,cycling,23/03/2020,25-29,Male,10466,3,4.1,1,0
+575,fitness,skiing,14/03/2020,30-34,Female,839,0,0.0,1,0
+575,gym,skiing,04/03/2020,30-34,Male,5576,1,1.5,1,1
+575,keeping fit,sports,15/03/2020,35-49,Female,4010,0,0.0,1,0
+575,fitness,swimming,16/03/2020,35-49,Male,39337,7,10.0,1,1
+575,keeping fit,swimming,10/03/2020,40-45,Female,1635,0,0.0,1,0
+576,gym,swimming,04/03/2020,20-24,Female,1631,0,0.0,1,0
+576,fitness,cycling,04/03/2020,20-24,Male,13479,3,4.3,1,0
+576,fitness,running,13/03/2020,25-29,Female,57022,13,20.3,3,3
+576,keeping fit,sports,11/03/2020,25-29,Male,5453,1,1.4,1,1
+576,fitness,swimming,21/03/2020,30-34,Female,11803,3,4.4,1,0
+576,keeping fit,running,21/03/2020,30-34,Male,4259,1,1.6,1,1
+576,keeping fit,skiing,21/03/2020,35-49,Female,1554,0,0.0,1,0
+576,weight-training,cycling,29/03/2020,35-49,Male,5323,1,1.3,1,1
+576,keeping fit,cycling,18/03/2020,40-45,Female,5024,1,1.4,1,1
+576,gym,sports,11/03/2020,40-45,Male,104648,24,33.3,4,2
+577,keeping fit,jogging,07/03/2020,20-24,Female,8504,3,3.3,1,1
+577,fitness,sports,06/03/2020,20-24,Male,20277,6,8.1,1,0
+577,weight-training,skiing,07/03/2020,25-29,Female,12403,4,5.2,1,1
+577,fitness,running,11/03/2020,25-29,Male,498,0,0.0,1,1
+577,gym,skiing,22/03/2020,30-34,Female,652,0,0.0,0,0
+577,fitness,cycling,21/03/2020,35-49,Male,1357,0,0.0,1,1
+577,weight-training,running,01/03/2020,40-45,Female,1393,0,0.0,1,0
+577,gym,sports,24/03/2020,40-45,Male,648,0,0.0,1,0
+578,gym,skiing,20/03/2020,20-24,Female,708,0,0.0,1,1
+578,weight-training,running,25/03/2020,20-24,Male,6907,2,2.3,1,0
+578,weight-training,running,07/03/2020,25-29,Female,39035,13,19.3,1,0
+578,weight-training,skiing,25/03/2020,25-29,Male,926,0,0.0,1,0
+578,weight-training,jogging,13/03/2020,30-34,Female,4412,1,1.5,1,0
+578,fitness,skiing,03/03/2020,30-34,Male,9965,3,4.1,1,0
+578,fitness,skiing,11/03/2020,35-49,Male,73634,23,33.0,1,0
+578,gym,cycling,03/03/2020,40-45,Female,69708,20,31.3,1,0
+578,fitness,skiing,12/03/2020,40-45,Male,530,0,0.0,1,0
+579,fitness,running,30/03/2020,20-24,Female,14257,6,8.8,1,0
+579,fitness,sports,25/03/2020,20-24,Male,20362,5,9.1,1,1
+579,keeping fit,jogging,12/03/2020,25-29,Female,12215,4,6.3,1,0
+579,gym,running,09/03/2020,25-29,Male,85412,28,38.6,2,1
+579,gym,swimming,20/03/2020,30-34,Female,2338,1,0.2,1,0
+579,fitness,running,03/03/2020,30-34,Male,2522,0,0.0,1,0
+579,fitness,jogging,21/03/2020,35-49,Female,3587,0,0.0,1,0
+579,weight-training,sports,30/03/2020,35-49,Male,1273,0,0.0,1,0
+579,weight-training,jogging,28/03/2020,40-45,Female,3891,1,1.1,1,0
+579,weight-training,skiing,18/03/2020,40-45,Male,1888,0,0.0,1,0
+580,keeping fit,sports,06/03/2020,20-24,Female,1895,0,0.0,1,0
+580,fitness,swimming,16/03/2020,20-24,Male,715,0,0.0,1,0
+580,gym,skiing,16/03/2020,25-29,Female,11199,2,2.7,1,0
+580,gym,skiing,23/03/2020,25-29,Male,5676,2,3.0,1,0
+580,fitness,sports,21/03/2020,30-34,Female,1415,0,0.0,1,0
+580,gym,skiing,09/03/2020,30-34,Male,2148,1,1.6,1,1
+580,keeping fit,sports,17/03/2020,35-49,Female,45401,10,14.1,1,0
+580,fitness,swimming,16/03/2020,35-49,Male,7478,2,2.9,1,1
+580,fitness,swimming,26/03/2020,40-45,Female,4919,1,1.6,1,0
+580,fitness,swimming,08/03/2020,40-45,Male,533,0,0.0,1,1
+581,fitness,jogging,25/03/2020,20-24,Female,1447,0,0.0,1,1
+581,weight-training,skiing,04/03/2020,20-24,Male,17553,3,4.6,1,0
+581,keeping fit,skiing,10/03/2020,25-29,Female,3343,1,0.5,1,0
+581,keeping fit,running,26/03/2020,30-34,Female,523,0,0.0,1,0
+581,fitness,jogging,12/03/2020,30-34,Male,1873,0,0.0,1,0
+581,weight-training,sports,02/03/2020,35-49,Female,34740,7,13.4,1,1
+581,keeping fit,swimming,25/03/2020,35-49,Male,658,0,0.0,1,0
+581,gym,sports,12/03/2020,40-45,Female,1539,0,0.0,1,0
+581,weight-training,running,12/03/2020,40-45,Male,3010,1,0.9,1,1
+582,keeping fit,sports,10/03/2020,20-24,Female,27081,9,10.8,1,1
+582,gym,running,24/03/2020,20-24,Male,20233,4,5.6,3,0
+582,gym,cycling,05/03/2020,25-29,Female,147159,36,58.2,3,1
+582,keeping fit,jogging,25/03/2020,25-29,Male,21664,7,10.6,1,1
+582,keeping fit,jogging,23/03/2020,30-34,Female,9112,4,5.5,1,1
+582,gym,cycling,20/03/2020,30-34,Male,542,0,0.0,1,0
+582,gym,cycling,01/03/2020,35-49,Female,402,0,0.0,1,1
+582,fitness,running,13/03/2020,35-49,Male,1338,0,0.0,1,0
+582,keeping fit,swimming,03/03/2020,40-45,Male,46150,15,20.2,1,1
+583,fitness,skiing,21/03/2020,20-24,Female,493821,116,176.4,4,1
+583,weight-training,sports,20/03/2020,20-24,Male,92011,27,34.4,2,1
+583,keeping fit,swimming,09/03/2020,25-29,Female,12956,4,5.5,1,1
+583,gym,skiing,15/03/2020,25-29,Male,529,0,0.0,1,0
+583,keeping fit,sports,25/03/2020,30-34,Female,944,1,1.4,1,0
+583,fitness,swimming,18/03/2020,30-34,Male,111090,38,52.0,5,1
+583,keeping fit,sports,22/03/2020,35-49,Female,7208,2,3.2,1,0
+583,fitness,running,28/03/2020,35-49,Male,1746,0,0.0,1,0
+583,fitness,jogging,10/03/2020,40-45,Female,2474,0,0.0,2,2
+583,weight-training,jogging,23/03/2020,40-45,Male,12489,2,2.0,1,0
+584,fitness,sports,07/03/2020,20-24,Female,8032,1,0.6,2,0
+584,gym,jogging,11/03/2020,20-24,Male,472,0,0.0,1,1
+584,gym,jogging,18/03/2020,25-29,Female,792,0,0.0,1,1
+584,fitness,swimming,30/03/2020,25-29,Male,4607,1,1.1,1,1
+584,gym,swimming,22/03/2020,30-34,Female,13355,2,3.2,1,1
+584,keeping fit,running,07/03/2020,35-49,Female,2936,0,0.0,1,0
+584,fitness,skiing,28/03/2020,35-49,Male,2793,1,1.0,1,1
+584,keeping fit,cycling,16/03/2020,40-45,Female,1032,0,0.0,1,0
+584,keeping fit,swimming,05/03/2020,40-45,Male,1662,0,0.0,1,1
+585,gym,sports,04/03/2020,20-24,Female,4016,2,1.5,1,1
+585,keeping fit,running,22/03/2020,20-24,Male,14843,3,2.9,1,1
+585,weight-training,skiing,06/03/2020,25-29,Female,9674,3,4.6,1,1
+585,keeping fit,running,21/03/2020,25-29,Male,12186,2,2.7,1,0
+585,fitness,running,03/03/2020,30-34,Female,673,0,0.0,1,0
+585,fitness,swimming,17/03/2020,35-49,Female,370,0,0.0,1,1
+585,fitness,swimming,06/03/2020,40-45,Female,450,0,0.0,1,1
+585,keeping fit,jogging,18/03/2020,40-45,Male,2077,0,0.0,1,1
+586,weight-training,skiing,04/03/2020,20-24,Female,31393,8,11.0,1,1
+586,keeping fit,skiing,18/03/2020,20-24,Male,8410,2,2.4,1,1
+586,weight-training,swimming,02/03/2020,25-29,Female,25884,5,7.4,1,0
+586,keeping fit,sports,05/03/2020,25-29,Male,608,0,0.0,1,1
+586,fitness,skiing,24/03/2020,30-34,Female,28488,10,9.3,1,0
+586,keeping fit,sports,02/03/2020,35-49,Female,10126,3,4.6,1,0
+586,weight-training,jogging,06/03/2020,35-49,Male,22572,5,8.5,1,0
+586,fitness,skiing,27/03/2020,40-45,Female,1955,0,0.0,1,1
+587,weight-training,cycling,17/03/2020,20-24,Female,493,0,0.0,1,0
+587,keeping fit,jogging,07/03/2020,20-24,Male,1491,0,0.0,1,1
+587,weight-training,jogging,27/03/2020,25-29,Male,1495,0,0.0,1,1
+587,gym,running,01/03/2020,30-34,Female,512,0,0.0,0,0
+587,weight-training,running,21/03/2020,30-34,Male,4868,2,2.4,1,0
+587,keeping fit,skiing,24/03/2020,35-49,Female,6585,2,3.0,1,0
+587,keeping fit,running,18/03/2020,35-49,Male,10164,2,3.7,1,1
+587,keeping fit,sports,13/03/2020,40-45,Female,11182,4,4.4,1,0
+587,gym,running,05/03/2020,40-45,Male,1238,0,0.0,1,0
+588,fitness,cycling,28/03/2020,20-24,Female,34127,8,13.1,1,0
+588,fitness,cycling,11/03/2020,20-24,Male,29466,7,10.8,2,0
+588,weight-training,skiing,25/03/2020,25-29,Female,38759,9,10.8,1,0
+588,fitness,sports,23/03/2020,25-29,Male,41720,10,12.1,1,1
+588,keeping fit,skiing,22/03/2020,30-34,Female,18602,5,8.9,1,0
+588,gym,skiing,27/03/2020,30-34,Male,83929,21,27.7,4,1
+588,gym,running,01/03/2020,35-49,Female,25194,6,7.3,1,0
+588,weight-training,jogging,29/03/2020,35-49,Male,78627,19,26.5,1,0
+588,gym,sports,06/03/2020,40-45,Female,102695,25,39.4,3,0
+588,fitness,sports,14/03/2020,40-45,Male,82827,24,47.9,3,0
+589,keeping fit,swimming,07/03/2020,20-24,Female,9240,3,6.0,1,0
+589,gym,running,04/03/2020,20-24,Male,7706,2,2.4,1,0
+589,keeping fit,sports,04/03/2020,25-29,Female,7821,4,6.3,1,1
+589,fitness,cycling,13/03/2020,25-29,Male,1363,0,0.0,1,1
+589,gym,skiing,13/03/2020,30-34,Female,3569,0,0.0,1,1
+589,gym,running,13/03/2020,30-34,Male,119063,34,53.2,1,0
+589,weight-training,jogging,19/03/2020,35-49,Female,99078,23,35.8,2,0
+589,fitness,skiing,06/03/2020,35-49,Male,452398,114,180.2,1,0
+589,gym,running,15/03/2020,40-45,Female,191223,48,76.4,1,0
+589,fitness,running,28/03/2020,40-45,Male,22216,6,9.5,1,0
+590,gym,jogging,19/03/2020,20-24,Female,48291,11,18.0,1,0
+590,weight-training,swimming,06/03/2020,20-24,Male,27559,8,13.4,1,0
+590,keeping fit,sports,09/03/2020,25-29,Female,10194,4,4.6,2,1
+590,gym,jogging,05/03/2020,25-29,Male,1168,0,0.0,1,1
+590,fitness,jogging,22/03/2020,30-34,Female,40126,16,25.9,1,0
+590,fitness,skiing,09/03/2020,30-34,Male,3659,1,0.5,1,1
+590,weight-training,jogging,14/03/2020,35-49,Female,3200,0,0.0,1,0
+590,weight-training,skiing,25/03/2020,35-49,Male,7550,1,1.7,1,1
+590,keeping fit,skiing,11/03/2020,40-45,Female,45397,15,25.4,1,1
+590,gym,swimming,09/03/2020,40-45,Male,23086,2,3.3,1,1
+591,weight-training,sports,15/03/2020,20-24,Female,16425,1,1.5,1,0
+591,fitness,running,22/03/2020,20-24,Male,43756,5,5.4,0,0
+591,fitness,sports,23/03/2020,25-29,Male,9982,0,0.0,1,0
+591,gym,cycling,01/03/2020,30-34,Female,175389,55,81.6,1,0
+591,fitness,skiing,23/03/2020,30-34,Male,7015,0,0.0,1,0
+591,keeping fit,cycling,30/03/2020,35-49,Female,12706,3,5.0,1,1
+591,fitness,cycling,06/03/2020,35-49,Male,70702,20,31.7,1,0
+591,keeping fit,sports,29/03/2020,40-45,Female,63927,16,25.5,2,0
+591,fitness,swimming,08/03/2020,40-45,Male,15105,3,4.3,1,0
+592,fitness,skiing,18/03/2020,20-24,Female,8774,1,1.8,1,0
+592,weight-training,running,05/03/2020,20-24,Male,14459,1,1.4,1,0
+592,weight-training,jogging,29/03/2020,25-29,Female,21596,2,2.8,1,0
+592,fitness,sports,08/03/2020,25-29,Male,66765,8,11.0,1,0
+592,fitness,swimming,20/03/2020,30-34,Male,1369,0,0.0,1,1
+592,keeping fit,skiing,21/03/2020,35-49,Female,26910,5,7.2,1,0
+592,gym,cycling,27/03/2020,35-49,Male,506,0,0.0,1,0
+592,weight-training,cycling,15/03/2020,40-45,Female,11988,3,4.3,1,0
+592,fitness,cycling,29/03/2020,40-45,Male,19353,6,9.5,1,1
+593,gym,running,03/03/2020,20-24,Female,10960,2,2.9,1,0
+593,weight-training,jogging,16/03/2020,20-24,Male,33491,6,10.6,2,1
+593,gym,jogging,19/03/2020,25-29,Female,20083,2,3.2,2,1
+593,keeping fit,sports,06/03/2020,25-29,Male,8817,0,0.0,1,1
+593,keeping fit,swimming,01/03/2020,30-34,Female,15466,1,1.0,1,0
+593,fitness,cycling,17/03/2020,30-34,Male,27072,3,4.4,1,0
+593,gym,jogging,25/03/2020,35-49,Female,15753,1,0.6,1,1
+593,keeping fit,skiing,07/03/2020,35-49,Male,3523,1,1.8,1,1
+593,weight-training,swimming,10/03/2020,40-45,Female,7745,0,0.0,1,0
+593,fitness,skiing,25/03/2020,40-45,Male,18709,2,3.3,1,0
+594,keeping fit,sports,05/03/2020,20-24,Female,8022,0,0.0,2,1
+594,weight-training,sports,19/03/2020,20-24,Male,7966,1,1.2,1,1
+594,gym,jogging,27/03/2020,25-29,Female,4132,0,0.0,1,1
+594,weight-training,sports,12/03/2020,30-34,Female,12785,3,4.7,2,1
+594,fitness,sports,11/03/2020,30-34,Male,8213,1,1.4,1,1
+594,fitness,cycling,17/03/2020,35-49,Female,545,0,0.0,1,1
+594,fitness,skiing,16/03/2020,35-49,Male,2479,1,1.3,1,0
+594,fitness,skiing,08/03/2020,40-45,Female,3812,2,3.0,1,0
+594,fitness,skiing,14/03/2020,40-45,Male,1609,0,0.0,1,0
+595,keeping fit,skiing,05/03/2020,20-24,Female,10257,3,3.6,1,1
+595,gym,sports,28/03/2020,20-24,Male,12356,4,6.3,1,0
+595,fitness,swimming,08/03/2020,25-29,Female,7410,1,1.2,1,0
+595,weight-training,swimming,19/03/2020,25-29,Male,140098,28,46.6,1,0
+595,weight-training,sports,04/03/2020,30-34,Female,107021,20,34.4,1,0
+595,weight-training,swimming,16/03/2020,30-34,Male,2797,1,1.3,1,0
+595,gym,skiing,13/03/2020,35-49,Female,16461,6,9.2,1,0
+595,weight-training,jogging,15/03/2020,35-49,Male,17488,5,7.7,1,0
+595,keeping fit,skiing,17/03/2020,40-45,Female,9750,2,1.5,1,1
+596,weight-training,running,05/03/2020,20-24,Female,1136,0,0.0,1,1
+596,weight-training,cycling,16/03/2020,20-24,Male,4333,1,0.2,1,1
+596,fitness,running,14/03/2020,25-29,Male,6260,0,0.0,1,0
+596,weight-training,sports,08/03/2020,30-34,Female,6359,0,0.0,1,0
+596,keeping fit,running,24/03/2020,35-49,Female,2383,0,0.0,1,1
+596,gym,jogging,25/03/2020,35-49,Male,11292,3,5.4,1,1
+596,gym,skiing,08/03/2020,40-45,Female,12729,4,5.8,1,0
+596,fitness,sports,04/03/2020,40-45,Male,1898,0,0.0,1,1
+597,gym,skiing,03/03/2020,20-24,Female,1882,0,0.0,1,1
+597,weight-training,running,28/03/2020,20-24,Male,2883,1,1.0,1,1
+597,fitness,swimming,15/03/2020,25-29,Female,3989,1,1.3,1,0
+597,keeping fit,skiing,09/03/2020,25-29,Male,19603,4,5.3,1,1
+597,keeping fit,running,16/03/2020,30-34,Female,3047,1,1.4,1,0
+597,keeping fit,swimming,30/03/2020,30-34,Male,3029,1,1.0,1,1
+597,fitness,cycling,24/03/2020,35-49,Female,3490,1,1.3,1,1
+597,gym,jogging,23/03/2020,35-49,Male,2479,0,0.0,1,0
+597,keeping fit,skiing,10/03/2020,40-45,Female,19581,7,10.4,2,0
+597,fitness,jogging,14/03/2020,40-45,Male,19537,5,6.1,1,0
+598,keeping fit,swimming,08/03/2020,20-24,Female,59433,12,19.7,3,0
+598,keeping fit,running,12/03/2020,20-24,Male,157534,33,56.2,2,0
+598,gym,running,11/03/2020,25-29,Female,1781,0,0.0,1,1
+598,weight-training,sports,16/03/2020,25-29,Male,23769,4,6.0,1,0
+598,weight-training,skiing,08/03/2020,30-34,Female,7101,0,0.0,1,0
+598,gym,skiing,08/03/2020,30-34,Male,4726,1,1.8,1,1
+598,gym,running,09/03/2020,35-49,Female,5209,1,1.0,2,0
+598,gym,jogging,11/03/2020,35-49,Male,13473,3,2.6,3,0
+598,gym,skiing,13/03/2020,40-45,Female,500,0,0.0,1,1
+598,fitness,sports,10/03/2020,40-45,Male,4616,1,1.4,1,0
+599,weight-training,cycling,09/03/2020,20-24,Female,3279,0,0.0,1,0
+599,keeping fit,sports,24/03/2020,20-24,Male,3288,0,0.0,1,0
+599,fitness,running,07/03/2020,25-29,Female,14615,4,6.1,1,0
+599,keeping fit,sports,10/03/2020,25-29,Male,56615,12,19.9,2,0
+599,fitness,running,17/03/2020,30-34,Female,11735,3,4.5,1,1
+599,fitness,running,22/03/2020,30-34,Male,15910,5,6.8,1,0
+599,fitness,skiing,17/03/2020,35-49,Female,11446,2,3.1,1,1
+599,fitness,cycling,24/03/2020,35-49,Male,4595,0,0.0,1,0
+599,fitness,cycling,27/03/2020,40-45,Female,4871,0,0.0,1,0
+599,keeping fit,running,10/03/2020,40-45,Male,3199,0,0.0,1,0
+600,fitness,jogging,24/03/2020,20-24,Female,9388,2,3.1,1,0
+600,fitness,swimming,20/03/2020,20-24,Male,17954,6,7.5,2,1
+600,weight-training,running,21/03/2020,25-29,Female,2755,0,0.0,1,0
+600,keeping fit,jogging,29/03/2020,25-29,Male,8152,1,1.0,1,0
+600,fitness,jogging,17/03/2020,30-34,Female,74542,19,34.2,1,0
+600,fitness,running,25/03/2020,30-34,Male,6699,2,3.1,1,0
+600,keeping fit,swimming,16/03/2020,35-49,Female,11911,4,4.0,1,0
+600,weight-training,cycling,30/03/2020,35-49,Male,10090,2,2.7,1,1
+600,weight-training,cycling,11/03/2020,40-45,Female,1273,0,0.0,1,1
+600,weight-training,jogging,11/03/2020,40-45,Male,24188,5,8.2,1,0
+601,fitness,cycling,05/03/2020,20-24,Female,2214,0,0.0,1,0
+601,weight-training,skiing,21/03/2020,20-24,Male,9735,4,4.1,1,1
+601,keeping fit,running,19/03/2020,25-29,Female,1371,0,0.0,1,1
+601,keeping fit,swimming,25/03/2020,25-29,Male,10750,4,5.4,1,0
+601,gym,jogging,16/03/2020,30-34,Female,7629,1,0.7,1,1
+601,weight-training,sports,28/03/2020,30-34,Male,4608,0,0.0,1,0
+601,weight-training,running,07/03/2020,35-49,Female,3732,0,0.0,1,0
+601,gym,skiing,02/03/2020,35-49,Male,7453,1,1.7,1,1
+601,weight-training,running,17/03/2020,40-45,Female,41785,14,19.1,1,0
+601,fitness,running,01/03/2020,40-45,Male,8077,2,3.6,1,1
+602,gym,jogging,01/03/2020,20-24,Female,5602,1,1.6,1,0
+602,keeping fit,jogging,23/03/2020,20-24,Male,6184,2,2.8,1,1
+602,gym,swimming,30/03/2020,25-29,Male,1738,0,0.0,1,0
+602,gym,swimming,09/03/2020,30-34,Female,112460,25,41.3,1,0
+602,fitness,cycling,17/03/2020,30-34,Male,4414,0,0.0,1,0
+602,gym,swimming,10/03/2020,35-49,Female,14670,7,9.4,1,0
+602,keeping fit,skiing,05/03/2020,35-49,Male,33144,9,13.4,1,0
+602,keeping fit,sports,05/03/2020,40-45,Female,4397,1,0.9,1,0
+602,fitness,swimming,18/03/2020,40-45,Male,1006,0,0.0,1,0
+603,fitness,jogging,04/03/2020,20-24,Female,89527,24,32.3,1,0
+603,fitness,cycling,01/03/2020,20-24,Male,2459,0,0.0,1,0
+603,keeping fit,skiing,25/03/2020,25-29,Female,7116,2,1.7,1,1
+603,gym,swimming,02/03/2020,25-29,Male,8613,1,0.9,2,0
+603,gym,swimming,21/03/2020,30-34,Female,9730,1,1.4,1,0
+603,weight-training,swimming,09/03/2020,30-34,Male,51816,8,10.2,2,1
+603,gym,swimming,30/03/2020,35-49,Female,27289,3,4.4,1,0
+603,fitness,cycling,22/03/2020,35-49,Male,20409,4,3.8,1,0
+603,fitness,running,24/03/2020,40-45,Female,8044,1,1.1,1,0
+603,gym,sports,27/03/2020,40-45,Male,15645,4,5.3,1,0
+604,weight-training,running,29/03/2020,20-24,Female,2466,0,0.0,2,2
+604,weight-training,running,10/03/2020,20-24,Male,11611,3,4.0,1,1
+604,fitness,swimming,16/03/2020,25-29,Female,9375,3,4.0,1,0
+604,fitness,swimming,04/03/2020,25-29,Male,4402,1,1.3,1,1
+604,fitness,cycling,08/03/2020,30-34,Female,8469,2,3.1,1,0
+604,gym,skiing,08/03/2020,30-34,Male,5823,1,1.4,1,1
+604,weight-training,skiing,15/03/2020,35-49,Female,2549,0,0.0,1,0
+604,fitness,running,15/03/2020,35-49,Male,25817,4,6.0,1,0
+604,weight-training,swimming,01/03/2020,40-45,Female,1961,0,0.0,1,0
+605,gym,cycling,03/03/2020,20-24,Male,2554,0,0.0,1,0
+605,keeping fit,skiing,03/03/2020,25-29,Female,4971,1,1.2,1,1
+605,fitness,cycling,29/03/2020,30-34,Female,1030,0,0.0,1,1
+605,fitness,skiing,03/03/2020,30-34,Male,162341,56,77.1,3,0
+605,fitness,running,17/03/2020,35-49,Female,24542,7,9.3,1,0
+605,gym,cycling,21/03/2020,35-49,Male,2879,0,0.0,1,1
+605,keeping fit,sports,19/03/2020,40-45,Female,13621,3,4.1,1,0
+606,fitness,running,14/03/2020,20-24,Female,6175,1,1.4,2,1
+606,fitness,skiing,28/03/2020,20-24,Male,2963,0,0.0,1,0
+606,weight-training,jogging,01/03/2020,25-29,Female,9076,1,1.4,1,1
+606,keeping fit,jogging,30/03/2020,25-29,Male,20941,4,5.9,1,1
+606,weight-training,jogging,21/03/2020,30-34,Female,3462,0,0.0,1,0
+606,keeping fit,cycling,17/03/2020,30-34,Male,4073,0,0.0,1,1
+606,weight-training,sports,16/03/2020,35-49,Female,3745,0,0.0,1,0
+606,keeping fit,running,30/03/2020,35-49,Male,830,0,0.0,1,0
+606,keeping fit,swimming,24/03/2020,40-45,Female,2912,0,0.0,1,0
+606,keeping fit,cycling,11/03/2020,40-45,Male,17167,5,6.9,1,0
+607,weight-training,jogging,21/03/2020,20-24,Female,24491,7,9.5,1,0
+607,weight-training,swimming,20/03/2020,20-24,Male,44699,13,17.3,2,0
+607,weight-training,jogging,09/03/2020,25-29,Female,6469,2,1.3,1,0
+607,keeping fit,sports,17/03/2020,25-29,Male,16053,3,4.1,1,1
+607,fitness,cycling,10/03/2020,30-34,Female,54724,12,17.9,1,1
+607,gym,skiing,21/03/2020,30-34,Male,4706,1,1.2,1,0
+607,weight-training,jogging,02/03/2020,35-49,Female,8316,3,4.6,1,1
+607,weight-training,skiing,10/03/2020,35-49,Male,5794,2,2.3,1,0
+607,weight-training,skiing,22/03/2020,40-45,Female,4813,1,1.0,1,0
+607,gym,swimming,09/03/2020,40-45,Male,85285,26,36.1,1,0
+608,keeping fit,jogging,20/03/2020,20-24,Female,5839,1,1.4,1,0
+608,gym,sports,10/03/2020,20-24,Male,5859,1,1.5,1,0
+608,keeping fit,swimming,09/03/2020,25-29,Female,164118,41,59.1,1,0
+608,fitness,sports,04/03/2020,25-29,Male,18234,6,7.8,1,0
+608,weight-training,swimming,25/03/2020,30-34,Male,2755,0,0.0,1,0
+608,keeping fit,swimming,12/03/2020,35-49,Female,73676,20,28.5,1,0
+608,gym,running,10/03/2020,35-49,Male,18421,7,10.1,1,0
+608,keeping fit,skiing,17/03/2020,40-45,Female,164754,49,68.0,2,1
+608,weight-training,sports,27/03/2020,40-45,Male,7449,1,1.6,1,1
+609,weight-training,jogging,05/03/2020,20-24,Female,6424,1,0.5,1,0
+609,fitness,skiing,06/03/2020,20-24,Male,2086,0,0.0,1,0
+609,keeping fit,sports,30/03/2020,25-29,Female,6016,0,0.0,1,0
+609,gym,jogging,21/03/2020,25-29,Male,6412,1,1.4,1,0
+609,fitness,cycling,21/03/2020,30-34,Female,5040,1,1.4,1,0
+609,gym,skiing,05/03/2020,30-34,Male,1772,0,0.0,1,0
+609,weight-training,cycling,15/03/2020,35-49,Female,1783,0,0.0,1,0
+609,weight-training,cycling,08/03/2020,35-49,Male,8200,3,3.9,1,0
+609,fitness,sports,01/03/2020,40-45,Female,115896,38,49.4,1,0
+609,weight-training,swimming,23/03/2020,40-45,Male,10186,1,1.2,1,1
