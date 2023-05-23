@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl'?> 
+<class>
+	<student>
+	<name> santosh </name>
+	<id> 1 </id>
+	<branch> BA </branch>
+	<cgpa> 7 </cgpa>
+	</student>
+	<student>
+	<name> Darshan </name>
+	<id> 5 </id>
+	<branch> IT </branch>
+	<cgpa> 9 </cgpa>
+	</student>
+	<student>
+	<name> Rahul </name>
+	<id> 6 </id>
+	<branch> science </branch>
+	<cgpa> 10 </cgpa>
+	</student>
+</class>
