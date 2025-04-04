@@ -1,0 +1,12 @@
+﻿SalesTerritoryKey,SalesTerritoryAlternateKey,SalesTerritoryRegion,SalesTerritoryCountry,SalesTerritoryGroup
+1,1/1/1900,Northwest,United States,North America
+2,1/2/1900,Northeast,United States,North America
+3,1/3/1900,Central,United States,North America
+4,1/4/1900,Southwest,United States,North America
+5,1/5/1900,Southeast,United States,North America
+6,1/6/1900,Canada,Canada,North America
+7,1/7/1900,France,France,Europe
+8,1/8/1900,Germany,Germany,Europe
+9,1/9/1900,Australia,Australia,Pacific
+10,1/10/1900,United Kingdom,United Kingdom,Europe
+11,1/0/1900,NA,NA,NA
