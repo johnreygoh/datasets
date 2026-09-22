@@ -1,0 +1,1001 @@
+ticket_id,account_id,contact_channel,issue_category,reported_date,resolution_time_hours,first_contact_resolved,satisfaction_score
+1,1,Mobile App,Power Outage,3/31/2026 0:36,13.2,No,2
+2,2,Phone,Move In/Out,8/4/2026 3:16,7.6,Yes,1
+3,3,Phone,Water Leak,4/19/2026 9:21,4.3,Yes,1
+4,4,Mobile App,Water Leak,4/7/2026 9:57,14.8,No,5
+5,5,Website,Move In/Out,6/20/2026 10:27,3.5,Yes,2
+6,6,Mobile App,High Bill,5/19/2026 17:46,19.3,No,5
+7,7,Website,Water Leak,9/30/2025 7:02,22.5,No,2
+8,8,Mobile App,Water Leak,12/24/2025 14:28,22.2,Yes,4
+9,9,Website,Power Outage,10/3/2025 7:17,23.7,No,3
+10,10,Mobile App,Move In/Out,7/22/2026 20:57,14.2,No,2
+11,11,Phone,Power Outage,11/15/2025 1:17,6.2,Yes,2
+12,12,Website,Power Outage,5/8/2026 23:41,15.2,Yes,2
+13,13,Website,Move In/Out,4/8/2026 10:15,15.9,No,5
+14,14,Mobile App,Move In/Out,7/24/2026 4:50,2.7,Yes,4
+15,15,Mobile App,Water Leak,4/29/2026 21:45,18.5,No,3
+16,16,Website,Move In/Out,8/17/2026 7:50,23.2,Yes,5
+17,17,Mobile App,Move In/Out,7/2/2026 8:22,0,No,3
+18,18,Mobile App,Water Leak,6/28/2026 21:30,1.9,Yes,5
+19,19,Website,Move In/Out,5/30/2026 4:51,4.5,No,1
+20,20,Mobile App,Power Outage,9/6/2026 5:08,20.6,Yes,1
+21,21,Phone,Move In/Out,8/30/2026 6:15,9.5,Yes,5
+22,22,Website,Move In/Out,6/23/2026 6:43,6.8,Yes,4
+23,23,Phone,High Bill,4/24/2026 23:16,15.4,No,2
+24,24,Mobile App,High Bill,3/2/2026 14:15,0.3,Yes,2
+25,25,Website,Water Leak,10/15/2025 23:18,12.1,Yes,5
+26,26,Mobile App,Water Leak,5/1/2026 20:45,22.3,Yes,2
+27,27,Mobile App,Move In/Out,7/16/2026 5:37,0.3,Yes,4
+28,28,Phone,Power Outage,4/9/2026 21:43,12.6,No,2
+29,29,Phone,Water Leak,1/1/2026 20:54,9.7,No,2
+30,30,Mobile App,Move In/Out,1/3/2026 17:40,2.1,Yes,3
+31,31,Mobile App,Move In/Out,8/12/2026 2:07,22.3,Yes,3
+32,32,Phone,High Bill,7/11/2026 5:25,16.9,No,4
+33,33,Mobile App,High Bill,1/22/2026 12:50,20.1,No,2
+34,34,Mobile App,Move In/Out,7/2/2026 17:03,21.7,No,1
+35,35,Phone,High Bill,7/13/2026 16:23,12,No,1
+36,36,Phone,Power Outage,12/24/2025 16:27,13.5,Yes,4
+37,37,Mobile App,High Bill,1/25/2026 0:58,4.5,Yes,3
+38,38,Phone,High Bill,1/22/2026 12:41,6.5,Yes,4
+39,39,Mobile App,Water Leak,10/17/2025 0:52,13.9,No,4
+40,40,Phone,High Bill,6/2/2026 12:39,9.3,No,4
+41,41,Mobile App,Move In/Out,1/18/2026 8:34,5.9,Yes,4
+42,42,Phone,High Bill,9/3/2026 16:07,12.7,No,2
+43,43,Phone,Power Outage,1/23/2026 5:59,2.5,Yes,2
+44,44,Website,Water Leak,12/26/2025 4:32,7.3,No,3
+45,45,Website,High Bill,3/17/2026 3:57,11.1,Yes,1
+46,46,Website,Water Leak,4/23/2026 14:38,12.6,No,5
+47,47,Website,Power Outage,3/15/2026 17:37,20.6,No,2
+48,48,Mobile App,High Bill,7/9/2026 21:54,19.2,Yes,3
+49,49,Mobile App,Power Outage,10/15/2025 0:14,13.1,No,1
+50,50,Website,Power Outage,11/12/2025 17:18,7.2,Yes,3
+51,51,Website,Power Outage,5/13/2026 4:11,6.3,Yes,5
+52,52,Phone,High Bill,2/7/2026 12:01,18.1,Yes,2
+53,53,Phone,Move In/Out,10/4/2025 11:23,12.4,Yes,3
+54,54,Mobile App,High Bill,6/20/2026 16:52,19,No,4
+55,55,Website,Power Outage,10/25/2025 8:41,2.6,No,2
+56,56,Mobile App,Water Leak,3/27/2026 5:22,16.7,Yes,1
+57,57,Mobile App,Move In/Out,9/24/2025 16:27,6.1,Yes,3
+58,58,Mobile App,Water Leak,6/13/2026 19:26,13.2,Yes,4
+59,59,Mobile App,High Bill,10/12/2025 13:48,17.5,Yes,2
+60,60,Mobile App,High Bill,2/16/2026 10:51,24,Yes,5
+61,61,Website,Water Leak,5/23/2026 20:58,18.5,Yes,2
+62,62,Phone,High Bill,5/12/2026 0:34,3.2,Yes,2
+63,63,Phone,Water Leak,11/2/2025 14:08,8.1,Yes,2
+64,64,Phone,High Bill,7/16/2026 12:06,0.8,Yes,4
+65,65,Mobile App,Move In/Out,6/29/2026 18:07,22.6,No,1
+66,66,Mobile App,High Bill,10/24/2025 0:20,15.5,No,1
+67,67,Phone,Power Outage,4/8/2026 19:18,14,Yes,3
+68,68,Website,Power Outage,7/2/2026 20:22,14.6,No,3
+69,69,Mobile App,Power Outage,12/13/2025 7:29,14,No,4
+70,70,Mobile App,High Bill,11/30/2025 9:29,0.5,No,2
+71,71,Mobile App,Power Outage,10/11/2025 15:57,15.8,No,2
+72,72,Website,Water Leak,12/11/2025 6:22,3.6,Yes,3
+73,73,Phone,Move In/Out,4/6/2026 22:41,3.7,No,1
+74,74,Phone,High Bill,2/2/2026 8:32,3.7,Yes,5
+75,75,Website,Move In/Out,7/30/2026 23:19,14.5,Yes,3
+76,76,Phone,Move In/Out,6/6/2026 16:37,23,No,3
+77,77,Mobile App,High Bill,5/4/2026 11:28,13.8,Yes,1
+78,78,Mobile App,Water Leak,11/11/2025 5:43,0.3,Yes,3
+79,79,Mobile App,Power Outage,2/6/2026 10:45,13.7,Yes,5
+80,80,Phone,High Bill,2/13/2026 23:04,19.5,Yes,3
+81,81,Mobile App,Power Outage,7/28/2026 0:09,0.7,No,2
+82,82,Phone,High Bill,1/24/2026 4:30,3.2,No,4
+83,83,Mobile App,High Bill,5/23/2026 1:49,14.7,Yes,2
+84,84,Phone,Power Outage,4/3/2026 2:18,0.3,Yes,5
+85,85,Website,Water Leak,4/13/2026 7:44,2.2,Yes,4
+86,86,Website,Power Outage,2/7/2026 4:23,16.1,Yes,4
+87,87,Mobile App,Move In/Out,7/18/2026 0:13,23.8,No,4
+88,88,Phone,Water Leak,2/21/2026 10:55,8.6,Yes,2
+89,89,Mobile App,Move In/Out,5/2/2026 7:05,21,Yes,3
+90,90,Mobile App,Power Outage,4/19/2026 20:27,1.1,No,3
+91,91,Website,Water Leak,6/21/2026 13:43,18.6,No,4
+92,92,Website,Move In/Out,9/27/2025 23:14,0.8,No,3
+93,93,Website,Water Leak,12/7/2025 14:44,13.8,Yes,3
+94,94,Mobile App,High Bill,7/17/2026 14:20,13.8,No,3
+95,95,Mobile App,Power Outage,1/30/2026 12:09,22.4,Yes,3
+96,96,Website,High Bill,10/3/2025 20:13,20.2,No,1
+97,97,Mobile App,Water Leak,7/25/2026 22:54,16.5,No,4
+98,98,Mobile App,Power Outage,1/8/2026 20:16,4.8,No,5
+99,99,Phone,Move In/Out,3/6/2026 5:18,10.7,Yes,3
+100,100,Phone,Water Leak,10/26/2025 21:47,4,No,3
+101,101,Phone,Water Leak,12/27/2025 3:14,5.5,Yes,3
+102,102,Phone,Move In/Out,7/2/2026 19:25,5.2,No,5
+103,103,Phone,High Bill,6/21/2026 7:59,14.2,No,2
+104,104,Website,Move In/Out,8/19/2026 1:54,9.6,Yes,1
+105,105,Website,Power Outage,2/23/2026 20:11,12.8,Yes,1
+106,106,Phone,Move In/Out,4/9/2026 1:57,5.1,Yes,4
+107,107,Website,High Bill,2/10/2026 23:09,21.2,Yes,1
+108,108,Website,Water Leak,7/31/2026 5:22,21.3,No,4
+109,109,Website,Power Outage,11/22/2025 6:34,0,No,3
+110,110,Website,Move In/Out,3/1/2026 15:36,7.4,Yes,3
+111,111,Phone,High Bill,5/28/2026 17:12,22.3,Yes,1
+112,112,Website,High Bill,10/30/2025 16:12,16.5,Yes,2
+113,113,Phone,Water Leak,11/24/2025 18:56,18,Yes,1
+114,114,Mobile App,Power Outage,9/5/2026 12:00,7.7,No,4
+115,115,Website,Power Outage,12/9/2025 12:23,5.5,No,1
+116,116,Mobile App,Power Outage,4/24/2026 16:29,12.2,Yes,4
+117,117,Website,Power Outage,10/15/2025 4:41,10.4,No,5
+118,118,Website,Water Leak,5/16/2026 16:59,8.5,Yes,5
+119,119,Mobile App,Water Leak,11/10/2025 4:15,13.6,No,3
+120,120,Website,High Bill,8/22/2026 19:57,11.5,No,5
+121,121,Website,High Bill,10/22/2025 14:44,7.1,Yes,5
+122,122,Mobile App,High Bill,5/7/2026 22:07,0.8,No,3
+123,123,Mobile App,Water Leak,4/29/2026 9:33,17,Yes,2
+124,124,Mobile App,Water Leak,12/13/2025 14:00,1.1,No,2
+125,125,Website,Move In/Out,4/5/2026 2:26,23.5,Yes,1
+126,126,Website,High Bill,1/8/2026 8:20,23.1,Yes,3
+127,127,Phone,Move In/Out,8/20/2026 16:33,6.2,Yes,3
+128,128,Website,Move In/Out,3/24/2026 14:03,11.7,Yes,2
+129,129,Mobile App,High Bill,4/22/2026 7:15,17.6,No,5
+130,130,Phone,Move In/Out,11/22/2025 14:45,10.9,No,1
+131,131,Phone,High Bill,4/22/2026 20:27,11.5,Yes,1
+132,132,Phone,High Bill,6/23/2026 7:44,20.8,No,3
+133,133,Mobile App,Move In/Out,11/7/2025 17:28,13.7,No,3
+134,134,Phone,Move In/Out,3/4/2026 6:43,16.8,Yes,5
+135,135,Mobile App,High Bill,3/27/2026 14:18,5,No,3
+136,136,Mobile App,Water Leak,9/30/2025 0:40,10.6,No,5
+137,137,Website,Water Leak,12/2/2025 14:27,21.2,No,1
+138,138,Website,High Bill,5/24/2026 23:28,15.2,No,3
+139,139,Website,High Bill,3/16/2026 4:54,13.2,No,4
+140,140,Phone,Power Outage,7/20/2026 23:16,14.4,No,3
+141,141,Website,Move In/Out,2/16/2026 7:14,14.2,No,4
+142,142,Phone,High Bill,7/21/2026 21:32,22.9,No,4
+143,143,Website,Move In/Out,6/28/2026 17:12,20.2,No,4
+144,144,Website,Move In/Out,8/18/2026 7:40,22.6,Yes,3
+145,145,Website,Move In/Out,10/24/2025 3:55,20.7,No,3
+146,146,Phone,Water Leak,10/14/2025 6:46,2.4,Yes,3
+147,147,Website,Power Outage,10/7/2025 4:31,1.1,Yes,2
+148,148,Mobile App,Power Outage,3/25/2026 6:53,2.9,Yes,2
+149,149,Phone,Water Leak,8/24/2026 10:46,4.6,No,1
+150,150,Phone,Power Outage,5/4/2026 2:18,1.4,Yes,1
+151,151,Phone,Power Outage,8/16/2026 20:49,5.7,No,3
+152,152,Website,Move In/Out,10/20/2025 3:28,13.6,Yes,4
+153,153,Phone,Water Leak,12/28/2025 9:06,11.3,No,4
+154,154,Mobile App,Water Leak,8/30/2026 19:17,14,Yes,2
+155,155,Phone,Power Outage,8/16/2026 10:34,18.4,Yes,4
+156,156,Website,Power Outage,12/4/2025 12:10,15.1,No,5
+157,157,Website,Power Outage,2/15/2026 23:02,7.2,Yes,5
+158,158,Mobile App,High Bill,8/20/2026 4:16,19.8,No,3
+159,159,Phone,Water Leak,5/29/2026 6:59,16.3,Yes,1
+160,160,Mobile App,Power Outage,1/28/2026 7:25,8.6,No,3
+161,161,Phone,Move In/Out,1/31/2026 4:02,1.5,Yes,4
+162,162,Mobile App,Move In/Out,3/3/2026 8:27,23.3,Yes,1
+163,163,Mobile App,High Bill,10/14/2025 17:07,13.7,No,2
+164,164,Mobile App,High Bill,4/4/2026 20:51,19.1,No,3
+165,165,Mobile App,High Bill,11/15/2025 3:35,21.2,Yes,2
+166,166,Phone,Move In/Out,12/30/2025 0:06,0.3,Yes,3
+167,167,Website,Move In/Out,11/16/2025 17:53,2,No,5
+168,168,Website,Power Outage,1/26/2026 9:31,1.9,No,1
+169,169,Phone,High Bill,12/1/2025 1:57,8.4,Yes,5
+170,170,Phone,High Bill,5/22/2026 17:35,2.7,Yes,5
+171,171,Phone,Water Leak,12/29/2025 11:48,8.3,Yes,4
+172,172,Mobile App,Power Outage,11/9/2025 14:16,11.8,Yes,1
+173,173,Mobile App,Move In/Out,10/29/2025 16:38,19.9,Yes,3
+174,174,Mobile App,Power Outage,9/22/2025 19:33,12.5,Yes,1
+175,175,Website,Power Outage,4/6/2026 3:34,12.9,No,4
+176,176,Phone,Power Outage,3/6/2026 6:56,11.1,No,2
+177,177,Phone,High Bill,4/14/2026 2:39,14.2,No,3
+178,178,Website,Move In/Out,4/16/2026 2:04,5.7,No,5
+179,179,Website,Move In/Out,2/11/2026 11:13,9.9,No,1
+180,180,Mobile App,Power Outage,8/20/2026 22:30,5.4,No,5
+181,181,Mobile App,Move In/Out,5/30/2026 16:36,11.6,Yes,3
+182,182,Mobile App,Water Leak,10/20/2025 5:05,19.3,Yes,5
+183,183,Website,Power Outage,11/18/2025 23:21,11.3,Yes,2
+184,184,Mobile App,High Bill,3/2/2026 14:41,16.1,Yes,5
+185,185,Website,Move In/Out,7/15/2026 15:21,20.4,No,3
+186,186,Website,Move In/Out,6/4/2026 6:13,2.4,No,2
+187,187,Mobile App,Move In/Out,11/29/2025 4:45,20.4,No,2
+188,188,Phone,High Bill,5/15/2026 13:07,10.5,No,2
+189,189,Phone,Power Outage,12/19/2025 9:53,9.9,Yes,1
+190,190,Phone,High Bill,2/22/2026 18:48,22.2,Yes,2
+191,191,Phone,High Bill,8/23/2026 21:20,10.8,Yes,5
+192,192,Mobile App,High Bill,11/4/2025 18:33,4.7,Yes,5
+193,193,Phone,Water Leak,8/12/2026 15:51,7.9,Yes,5
+194,194,Website,Move In/Out,1/31/2026 11:37,21.4,No,5
+195,195,Phone,Move In/Out,4/7/2026 16:49,18.4,No,4
+196,196,Mobile App,Move In/Out,9/29/2025 17:41,17.2,No,3
+197,197,Website,Move In/Out,3/13/2026 20:43,13.6,No,1
+198,198,Website,High Bill,12/26/2025 12:43,12.3,Yes,4
+199,199,Mobile App,Power Outage,6/6/2026 22:36,17.9,Yes,3
+200,200,Mobile App,Move In/Out,4/20/2026 19:35,16.1,No,3
+201,201,Phone,Power Outage,2/22/2026 15:52,17.1,No,5
+202,202,Website,Water Leak,12/31/2025 20:14,13.1,Yes,4
+203,203,Mobile App,Power Outage,11/16/2025 11:56,13.9,No,5
+204,204,Website,Power Outage,4/25/2026 0:46,3.1,Yes,1
+205,205,Mobile App,Move In/Out,6/17/2026 2:48,3,No,4
+206,206,Phone,Water Leak,10/27/2025 12:05,13.3,No,4
+207,207,Phone,High Bill,4/18/2026 3:51,15.1,No,2
+208,208,Mobile App,High Bill,2/1/2026 18:17,15.9,No,1
+209,209,Phone,Water Leak,5/11/2026 16:14,16.1,No,4
+210,210,Phone,Power Outage,12/8/2025 17:44,11.9,Yes,4
+211,211,Mobile App,Power Outage,5/16/2026 6:38,4.7,Yes,4
+212,212,Phone,Water Leak,11/29/2025 11:45,1.6,Yes,3
+213,213,Phone,High Bill,3/27/2026 11:50,19.6,No,1
+214,214,Website,Move In/Out,4/14/2026 22:35,14,Yes,2
+215,215,Phone,Power Outage,10/17/2025 21:19,14.4,Yes,2
+216,216,Website,Power Outage,7/25/2026 5:09,23.5,No,5
+217,217,Website,Water Leak,9/3/2026 7:55,0.3,No,5
+218,218,Phone,Move In/Out,5/28/2026 10:04,16.6,Yes,5
+219,219,Mobile App,High Bill,12/6/2025 8:59,2.6,No,1
+220,220,Phone,Power Outage,4/8/2026 10:32,15.3,Yes,4
+221,221,Mobile App,High Bill,7/3/2026 4:16,0.8,Yes,2
+222,222,Mobile App,Power Outage,11/23/2025 23:06,4.4,No,3
+223,223,Phone,Power Outage,7/25/2026 23:33,10.6,No,4
+224,224,Phone,Water Leak,9/3/2026 5:33,7.6,Yes,1
+225,225,Website,Move In/Out,11/20/2025 3:12,23.3,No,2
+226,226,Website,Water Leak,10/4/2025 6:06,0.8,No,3
+227,227,Mobile App,Water Leak,12/10/2025 0:15,0.9,Yes,4
+228,228,Phone,High Bill,2/16/2026 12:12,13.3,Yes,4
+229,229,Website,Move In/Out,2/24/2026 20:05,14.8,No,3
+230,230,Website,Move In/Out,4/25/2026 4:46,11.3,No,5
+231,231,Mobile App,Move In/Out,10/26/2025 19:10,8.5,No,1
+232,232,Phone,Power Outage,6/3/2026 6:47,8.1,No,1
+233,233,Mobile App,Power Outage,11/5/2025 21:47,3,No,5
+234,234,Mobile App,Power Outage,10/18/2025 2:19,15.1,Yes,2
+235,235,Phone,Water Leak,5/10/2026 19:22,9.2,No,1
+236,236,Phone,Move In/Out,4/30/2026 6:42,19.3,No,2
+237,237,Mobile App,Water Leak,6/22/2026 9:13,11.5,No,3
+238,238,Website,Move In/Out,11/4/2025 16:28,14.3,No,4
+239,239,Phone,Move In/Out,9/25/2025 5:55,4.6,No,2
+240,240,Website,High Bill,6/15/2026 19:10,13.1,No,4
+241,241,Website,Water Leak,3/31/2026 1:12,18.2,No,1
+242,242,Website,Power Outage,11/14/2025 2:07,3.6,Yes,1
+243,243,Website,Water Leak,4/14/2026 15:51,15.6,Yes,4
+244,244,Mobile App,Move In/Out,3/28/2026 22:52,11.2,No,1
+245,245,Mobile App,Move In/Out,2/28/2026 18:30,21.6,Yes,5
+246,246,Phone,Power Outage,3/29/2026 5:20,0.1,Yes,2
+247,247,Mobile App,High Bill,10/28/2025 14:17,22.3,Yes,5
+248,248,Website,Water Leak,8/11/2026 18:54,23.4,Yes,3
+249,249,Phone,Power Outage,1/3/2026 5:37,16.2,No,3
+250,250,Website,Water Leak,10/17/2025 13:56,14.5,No,1
+251,251,Phone,High Bill,10/5/2025 4:03,3.7,Yes,4
+252,252,Phone,Power Outage,6/14/2026 16:29,2.6,Yes,3
+253,253,Website,Power Outage,6/8/2026 1:29,4.1,Yes,1
+254,254,Website,Move In/Out,7/4/2026 1:41,0.8,No,4
+255,255,Website,Water Leak,5/27/2026 23:36,21.3,No,3
+256,256,Website,Water Leak,12/18/2025 3:47,8.7,Yes,2
+257,257,Mobile App,Power Outage,5/26/2026 20:45,10.9,Yes,2
+258,258,Phone,Move In/Out,12/5/2025 17:31,22.6,No,5
+259,259,Phone,High Bill,3/27/2026 4:41,14.5,Yes,4
+260,260,Phone,High Bill,6/29/2026 12:17,12.4,Yes,3
+261,261,Phone,Power Outage,8/8/2026 17:10,16.8,Yes,4
+262,262,Phone,Water Leak,4/19/2026 4:17,18.3,No,4
+263,263,Phone,High Bill,3/25/2026 1:47,3.2,No,1
+264,264,Phone,Power Outage,1/8/2026 10:43,11.3,No,2
+265,265,Website,Water Leak,5/29/2026 21:20,16.3,No,2
+266,266,Mobile App,Water Leak,9/19/2026 19:05,2.7,Yes,2
+267,267,Mobile App,Power Outage,5/23/2026 23:34,18.2,No,5
+268,268,Mobile App,Power Outage,5/8/2026 17:19,20.9,No,3
+269,269,Phone,High Bill,6/10/2026 5:39,9.1,No,4
+270,270,Mobile App,Water Leak,3/20/2026 1:50,3.3,No,3
+271,271,Phone,Water Leak,5/15/2026 16:44,13.8,Yes,4
+272,272,Mobile App,Power Outage,6/3/2026 12:13,19.1,Yes,4
+273,273,Website,Move In/Out,6/18/2026 21:38,24,No,2
+274,274,Phone,Move In/Out,8/29/2026 8:25,11.1,No,5
+275,275,Mobile App,Water Leak,1/12/2026 23:20,13,Yes,3
+276,276,Mobile App,High Bill,3/3/2026 13:06,17.9,Yes,3
+277,277,Website,Move In/Out,2/12/2026 2:10,9.7,No,5
+278,278,Website,Power Outage,5/24/2026 8:28,16.2,Yes,1
+279,279,Phone,Move In/Out,9/3/2026 0:30,9.3,Yes,2
+280,280,Mobile App,Move In/Out,11/29/2025 9:51,19,Yes,2
+281,281,Website,Power Outage,12/12/2025 19:37,20.2,No,2
+282,282,Website,High Bill,6/23/2026 5:25,21,Yes,5
+283,283,Website,High Bill,3/12/2026 5:46,6.8,No,2
+284,284,Website,High Bill,8/8/2026 11:52,10.1,No,3
+285,285,Mobile App,Power Outage,6/14/2026 20:55,5.3,Yes,5
+286,286,Website,Move In/Out,10/3/2025 20:36,8.9,No,4
+287,287,Website,Water Leak,6/10/2026 17:45,4.1,No,2
+288,288,Website,High Bill,6/17/2026 10:34,11.2,Yes,1
+289,289,Phone,Power Outage,2/16/2026 4:54,15.7,Yes,2
+290,290,Phone,Power Outage,12/8/2025 5:53,8.1,Yes,5
+291,291,Mobile App,High Bill,11/4/2025 13:48,12.6,No,2
+292,292,Phone,Water Leak,10/15/2025 1:38,12,Yes,3
+293,293,Mobile App,High Bill,1/1/2026 18:08,5.3,Yes,1
+294,294,Phone,Power Outage,7/5/2026 1:33,23,No,3
+295,295,Phone,Power Outage,12/3/2025 9:20,0.9,No,2
+296,296,Mobile App,Power Outage,12/9/2025 0:43,11.4,Yes,1
+297,297,Mobile App,High Bill,7/18/2026 0:57,9.9,Yes,5
+298,298,Website,Power Outage,12/19/2025 8:16,23.4,No,2
+299,299,Website,Water Leak,2/14/2026 20:20,22.3,Yes,2
+300,300,Website,Water Leak,11/15/2025 7:12,23.8,Yes,3
+301,301,Website,Power Outage,10/3/2025 1:44,3.7,No,5
+302,302,Phone,Move In/Out,1/2/2026 4:12,23.7,Yes,1
+303,303,Website,Move In/Out,1/28/2026 4:45,16.6,Yes,3
+304,304,Website,High Bill,7/14/2026 20:56,9.5,Yes,2
+305,305,Website,Water Leak,11/19/2025 8:39,16.9,No,5
+306,306,Phone,High Bill,4/30/2026 22:38,19.2,Yes,4
+307,307,Website,Water Leak,5/29/2026 3:01,2.5,No,3
+308,308,Phone,Power Outage,11/3/2025 10:41,4.9,Yes,1
+309,309,Phone,High Bill,10/17/2025 14:25,23.4,No,4
+310,310,Mobile App,Move In/Out,5/5/2026 21:21,2.2,No,1
+311,311,Phone,Move In/Out,11/29/2025 13:18,15.7,No,3
+312,312,Mobile App,Move In/Out,7/21/2026 21:23,6.2,Yes,2
+313,313,Website,Water Leak,6/10/2026 21:46,23.2,Yes,4
+314,314,Mobile App,Power Outage,7/18/2026 3:47,23.8,No,4
+315,315,Phone,Move In/Out,11/5/2025 23:21,14.9,No,5
+316,316,Mobile App,High Bill,8/28/2026 9:25,19.5,Yes,1
+317,317,Phone,Power Outage,7/13/2026 0:01,9.3,Yes,1
+318,318,Phone,High Bill,9/22/2025 11:49,17.8,Yes,3
+319,319,Phone,High Bill,1/2/2026 18:26,7.8,Yes,5
+320,320,Mobile App,Water Leak,3/27/2026 1:27,0.1,No,4
+321,321,Website,Water Leak,9/2/2026 2:43,21.7,Yes,5
+322,322,Website,High Bill,6/27/2026 9:31,14.7,Yes,2
+323,323,Mobile App,Water Leak,2/27/2026 22:28,4.3,Yes,2
+324,324,Website,High Bill,9/23/2025 2:04,24,Yes,3
+325,325,Website,Water Leak,11/11/2025 10:34,10.4,No,4
+326,326,Website,Water Leak,7/28/2026 6:37,22.6,No,4
+327,327,Website,Water Leak,4/4/2026 4:19,7,Yes,4
+328,328,Mobile App,High Bill,9/2/2026 3:40,4.4,Yes,2
+329,329,Website,Power Outage,10/11/2025 18:04,19.2,No,1
+330,330,Phone,Power Outage,7/6/2026 3:14,1.1,No,3
+331,331,Mobile App,Water Leak,7/29/2026 7:14,19.1,No,5
+332,332,Mobile App,Move In/Out,8/7/2026 10:09,19.4,No,1
+333,333,Mobile App,High Bill,8/19/2026 21:58,0.9,No,2
+334,334,Mobile App,Water Leak,5/27/2026 5:18,14.2,Yes,1
+335,335,Mobile App,High Bill,4/21/2026 12:48,20.5,No,3
+336,336,Website,Move In/Out,12/13/2025 0:31,13.3,Yes,1
+337,337,Website,Water Leak,4/24/2026 12:00,5.4,No,2
+338,338,Phone,Move In/Out,1/18/2026 1:00,3,No,4
+339,339,Website,Water Leak,8/9/2026 4:25,7.9,No,3
+340,340,Mobile App,Power Outage,10/12/2025 23:44,20.9,Yes,2
+341,341,Phone,Power Outage,6/23/2026 3:21,6.9,No,5
+342,342,Website,Water Leak,3/18/2026 4:20,21,No,3
+343,343,Mobile App,Water Leak,8/20/2026 22:12,1.9,Yes,5
+344,344,Phone,Water Leak,12/14/2025 14:57,13.5,No,2
+345,345,Mobile App,High Bill,5/28/2026 2:57,14.8,Yes,4
+346,346,Website,Water Leak,5/25/2026 4:11,10.5,No,1
+347,347,Website,Move In/Out,2/11/2026 2:40,16.1,No,3
+348,348,Mobile App,High Bill,2/12/2026 6:52,17.1,No,4
+349,349,Phone,High Bill,1/11/2026 1:15,12.5,Yes,5
+350,350,Website,High Bill,9/16/2026 4:47,1.5,No,1
+351,351,Phone,Power Outage,3/10/2026 8:52,19.6,No,5
+352,352,Mobile App,High Bill,3/2/2026 17:03,23.5,Yes,1
+353,353,Website,High Bill,1/11/2026 11:55,6.7,No,4
+354,354,Phone,High Bill,8/25/2026 0:08,19.3,Yes,1
+355,355,Mobile App,Power Outage,10/19/2025 1:08,16.1,No,3
+356,356,Phone,Power Outage,12/28/2025 3:01,6,No,4
+357,357,Mobile App,Power Outage,6/5/2026 14:20,10.3,No,2
+358,358,Website,Move In/Out,11/6/2025 7:49,9,No,1
+359,359,Website,Power Outage,9/17/2026 19:32,6.2,No,5
+360,360,Mobile App,Water Leak,2/28/2026 20:51,9.1,Yes,3
+361,361,Mobile App,Power Outage,8/27/2026 23:18,13.8,Yes,1
+362,362,Mobile App,High Bill,10/21/2025 17:06,8.6,Yes,4
+363,363,Mobile App,Move In/Out,12/13/2025 1:42,19.6,Yes,1
+364,364,Website,High Bill,5/14/2026 16:17,22.5,Yes,1
+365,365,Phone,Water Leak,8/16/2026 0:47,0.4,No,5
+366,366,Phone,Move In/Out,1/8/2026 23:07,0.5,Yes,3
+367,367,Mobile App,Power Outage,10/4/2025 17:16,18.7,No,2
+368,368,Website,Power Outage,7/24/2026 0:59,4.8,Yes,2
+369,369,Website,Power Outage,9/7/2026 5:31,8,No,5
+370,370,Website,High Bill,7/27/2026 16:14,2.4,No,1
+371,371,Website,High Bill,8/27/2026 6:23,22.6,Yes,5
+372,372,Phone,Power Outage,2/16/2026 12:55,19.9,No,3
+373,373,Mobile App,Move In/Out,4/27/2026 8:36,18.1,Yes,1
+374,374,Mobile App,Move In/Out,12/1/2025 16:48,9.9,No,5
+375,375,Website,High Bill,10/7/2025 16:29,1,No,1
+376,376,Website,High Bill,1/10/2026 23:52,1.5,No,5
+377,377,Phone,Power Outage,7/30/2026 23:35,17,Yes,2
+378,378,Mobile App,High Bill,2/2/2026 17:27,20,Yes,1
+379,379,Phone,Power Outage,11/23/2025 7:36,13.6,No,4
+380,380,Website,High Bill,7/15/2026 7:37,2.6,No,2
+381,381,Website,Power Outage,3/18/2026 5:47,9.6,Yes,1
+382,382,Phone,Move In/Out,10/16/2025 5:09,23.6,No,2
+383,383,Phone,Power Outage,5/14/2026 10:18,13,Yes,1
+384,384,Phone,High Bill,3/9/2026 4:03,22.4,Yes,1
+385,385,Website,Water Leak,1/25/2026 3:38,23.9,No,4
+386,386,Website,High Bill,6/10/2026 14:44,13.3,No,5
+387,387,Mobile App,Power Outage,10/25/2025 3:21,3.5,Yes,5
+388,388,Website,Water Leak,9/22/2025 22:45,16.4,Yes,4
+389,389,Mobile App,Power Outage,4/16/2026 5:07,1.8,No,4
+390,390,Mobile App,Move In/Out,9/28/2025 2:23,11,No,4
+391,391,Phone,Move In/Out,1/24/2026 3:52,15.6,No,1
+392,392,Website,High Bill,1/1/2026 13:17,9.3,No,3
+393,393,Website,Power Outage,2/5/2026 11:47,20.7,No,1
+394,394,Mobile App,Water Leak,12/17/2025 9:58,9.3,Yes,5
+395,395,Website,Move In/Out,12/26/2025 10:38,11.2,Yes,3
+396,396,Website,High Bill,12/9/2025 15:24,15.7,Yes,1
+397,397,Phone,Power Outage,3/15/2026 14:27,8.6,No,1
+398,398,Website,Move In/Out,8/25/2026 0:42,2.3,Yes,4
+399,399,Mobile App,Power Outage,7/1/2026 22:15,18.4,Yes,2
+400,400,Website,Water Leak,9/7/2026 19:49,4.1,Yes,1
+401,401,Mobile App,Water Leak,1/10/2026 13:27,18.2,No,5
+402,402,Phone,Power Outage,4/30/2026 15:01,11.2,No,2
+403,403,Website,Move In/Out,10/9/2025 3:49,4.6,Yes,3
+404,404,Website,Power Outage,1/18/2026 6:22,14.4,No,1
+405,405,Website,High Bill,12/24/2025 1:19,20.3,No,5
+406,406,Phone,Water Leak,5/9/2026 8:41,15,No,3
+407,407,Website,Move In/Out,8/26/2026 16:05,13.8,Yes,5
+408,408,Mobile App,Water Leak,1/6/2026 7:29,20.1,Yes,2
+409,409,Phone,Move In/Out,11/17/2025 21:45,2,No,4
+410,410,Website,High Bill,12/31/2025 22:31,2.8,No,5
+411,411,Mobile App,Power Outage,6/24/2026 23:03,18.8,Yes,1
+412,412,Phone,High Bill,12/12/2025 4:32,4.1,No,4
+413,413,Mobile App,Power Outage,3/17/2026 18:23,15,No,4
+414,414,Mobile App,Power Outage,12/14/2025 11:22,20.3,No,5
+415,415,Website,Water Leak,3/9/2026 7:36,15.5,No,3
+416,416,Mobile App,Power Outage,7/6/2026 22:18,20.6,No,4
+417,417,Mobile App,Water Leak,3/29/2026 6:42,15,No,1
+418,418,Phone,Power Outage,8/23/2026 7:02,17.4,No,5
+419,419,Website,Water Leak,10/17/2025 11:59,11.5,No,3
+420,420,Mobile App,Power Outage,1/26/2026 0:05,23.8,No,4
+421,421,Mobile App,High Bill,5/22/2026 19:28,12.5,Yes,4
+422,422,Phone,Move In/Out,9/24/2025 1:11,11.7,No,3
+423,423,Website,Power Outage,11/17/2025 20:20,7.9,Yes,3
+424,424,Phone,Power Outage,12/10/2025 0:09,14,No,5
+425,425,Mobile App,Power Outage,6/8/2026 15:41,22.8,No,2
+426,426,Mobile App,Water Leak,5/9/2026 14:47,13.8,Yes,5
+427,427,Mobile App,Move In/Out,6/2/2026 11:51,3.9,No,4
+428,428,Website,Water Leak,9/15/2026 13:27,15.1,No,5
+429,429,Website,Water Leak,5/15/2026 5:42,20.1,Yes,4
+430,430,Phone,Power Outage,9/11/2026 7:23,12.7,No,2
+431,431,Website,High Bill,10/18/2025 1:09,18.6,No,5
+432,432,Phone,Power Outage,3/13/2026 0:10,12.9,No,4
+433,433,Website,High Bill,12/24/2025 2:02,1.9,Yes,2
+434,434,Mobile App,Water Leak,3/17/2026 4:59,16.1,No,4
+435,435,Phone,Move In/Out,2/21/2026 7:04,20.4,Yes,2
+436,436,Website,Move In/Out,6/29/2026 17:54,5.8,Yes,2
+437,437,Phone,Water Leak,4/8/2026 4:02,14.2,No,2
+438,438,Website,Move In/Out,2/21/2026 18:28,0.2,Yes,3
+439,439,Mobile App,Move In/Out,2/20/2026 20:55,18.6,No,1
+440,440,Mobile App,High Bill,1/16/2026 1:59,18.1,No,5
+441,441,Website,Power Outage,8/23/2026 23:44,4.5,Yes,3
+442,442,Website,Power Outage,5/24/2026 12:25,11.2,No,2
+443,443,Phone,Move In/Out,8/24/2026 6:36,21.7,Yes,1
+444,444,Mobile App,High Bill,5/28/2026 20:26,0.1,Yes,2
+445,445,Phone,Water Leak,4/11/2026 11:04,3.2,No,5
+446,446,Mobile App,Water Leak,7/8/2026 14:50,12.1,Yes,4
+447,447,Mobile App,High Bill,4/16/2026 14:10,17.7,No,2
+448,448,Website,Move In/Out,6/7/2026 5:19,11,No,4
+449,449,Website,High Bill,12/19/2025 21:20,5.9,No,3
+450,450,Phone,High Bill,12/25/2025 12:15,16.3,No,1
+451,451,Mobile App,High Bill,10/30/2025 16:38,18.3,No,4
+452,452,Mobile App,Power Outage,5/18/2026 23:25,12.9,Yes,3
+453,453,Mobile App,Power Outage,6/25/2026 6:24,1.3,No,2
+454,454,Website,Power Outage,9/20/2026 3:49,19.6,Yes,3
+455,455,Website,Move In/Out,6/3/2026 6:07,16.6,Yes,1
+456,456,Phone,High Bill,3/16/2026 3:01,3.8,Yes,5
+457,457,Website,Water Leak,2/12/2026 7:15,7.2,Yes,1
+458,458,Phone,Water Leak,7/26/2026 11:28,10,No,3
+459,459,Mobile App,Water Leak,8/27/2026 22:13,9.6,No,4
+460,460,Website,High Bill,7/13/2026 9:05,10.7,No,4
+461,461,Mobile App,Water Leak,3/19/2026 10:29,10.5,No,3
+462,462,Phone,Move In/Out,12/26/2025 7:09,6,No,3
+463,463,Phone,High Bill,3/27/2026 20:25,3.7,Yes,5
+464,464,Website,Power Outage,4/24/2026 2:34,16.7,Yes,2
+465,465,Phone,High Bill,4/1/2026 10:34,2.8,Yes,3
+466,466,Website,Water Leak,11/7/2025 9:09,12.4,Yes,2
+467,467,Website,Move In/Out,8/3/2026 2:16,18.2,Yes,2
+468,468,Mobile App,Water Leak,7/7/2026 3:56,10.7,No,5
+469,469,Website,Water Leak,1/6/2026 10:51,9.8,No,1
+470,470,Mobile App,Power Outage,3/14/2026 5:02,1.1,No,4
+471,471,Mobile App,Move In/Out,8/4/2026 7:20,1.4,No,4
+472,472,Mobile App,Power Outage,8/13/2026 5:30,15,No,4
+473,473,Website,Power Outage,7/25/2026 14:37,8.2,Yes,1
+474,474,Phone,Water Leak,4/28/2026 14:18,10.4,No,5
+475,475,Phone,Power Outage,10/14/2025 21:53,4.4,Yes,5
+476,476,Mobile App,Move In/Out,12/23/2025 6:39,16.3,Yes,3
+477,477,Mobile App,Power Outage,6/12/2026 2:50,8.6,No,1
+478,478,Mobile App,Move In/Out,10/4/2025 16:05,4.6,No,2
+479,479,Phone,Power Outage,7/12/2026 0:57,9.5,No,2
+480,480,Phone,Power Outage,11/17/2025 20:29,16.5,No,3
+481,481,Phone,Water Leak,5/4/2026 12:50,9.3,No,5
+482,482,Website,Power Outage,1/3/2026 6:46,19.3,No,2
+483,483,Website,High Bill,5/9/2026 22:15,10.3,No,2
+484,484,Website,Water Leak,12/10/2025 1:20,12.5,No,5
+485,485,Phone,Move In/Out,4/14/2026 12:34,9.5,No,2
+486,486,Mobile App,Move In/Out,11/9/2025 8:57,14.3,No,3
+487,487,Phone,Move In/Out,3/30/2026 18:31,20.1,No,5
+488,488,Mobile App,Power Outage,12/31/2025 3:55,3.9,No,1
+489,489,Phone,Water Leak,8/24/2026 11:16,10.5,Yes,5
+490,490,Website,Power Outage,5/15/2026 3:58,3.9,Yes,4
+491,491,Mobile App,Power Outage,11/29/2025 15:14,23.1,Yes,2
+492,492,Phone,High Bill,2/17/2026 10:45,6.3,Yes,1
+493,493,Website,High Bill,1/14/2026 5:24,20,No,4
+494,494,Website,High Bill,6/30/2026 10:07,18,Yes,5
+495,495,Phone,Power Outage,7/23/2026 7:44,23.1,No,5
+496,496,Website,Water Leak,5/5/2026 9:19,12.6,Yes,3
+497,497,Mobile App,Power Outage,12/18/2025 7:44,16.3,No,4
+498,498,Phone,High Bill,9/23/2025 0:21,9.6,No,1
+499,499,Website,High Bill,7/12/2026 5:01,8.4,No,5
+500,500,Website,High Bill,6/10/2026 10:51,1.8,Yes,1
+501,501,Phone,Power Outage,1/8/2026 10:42,15.2,No,2
+502,502,Website,Water Leak,10/24/2025 5:28,0.9,Yes,4
+503,503,Mobile App,Water Leak,4/29/2026 7:20,10.3,Yes,1
+504,504,Mobile App,High Bill,6/9/2026 8:23,15.9,No,3
+505,505,Mobile App,Move In/Out,11/29/2025 14:04,21.2,No,4
+506,506,Phone,High Bill,2/21/2026 0:18,8.9,Yes,4
+507,507,Website,Power Outage,9/29/2025 3:23,10.5,Yes,3
+508,508,Phone,Water Leak,12/7/2025 13:52,5,Yes,5
+509,509,Website,Water Leak,9/18/2026 12:42,11.5,No,2
+510,510,Mobile App,Water Leak,7/14/2026 13:28,6.9,Yes,3
+511,511,Website,High Bill,5/26/2026 19:29,11,Yes,4
+512,512,Website,Move In/Out,8/6/2026 7:06,8.5,Yes,4
+513,513,Website,Power Outage,1/2/2026 3:09,15.3,No,5
+514,514,Phone,High Bill,12/5/2025 23:28,15.2,Yes,4
+515,515,Phone,High Bill,8/29/2026 3:41,10.7,Yes,5
+516,516,Website,Power Outage,10/16/2025 16:26,1.8,No,3
+517,517,Website,Water Leak,10/15/2025 19:05,13.3,Yes,1
+518,518,Mobile App,Power Outage,6/5/2026 21:01,8.1,No,1
+519,519,Website,High Bill,11/25/2025 23:22,9.6,Yes,3
+520,520,Website,Water Leak,6/4/2026 4:55,3.2,No,5
+521,521,Website,Power Outage,4/23/2026 18:45,10.4,Yes,1
+522,522,Phone,High Bill,8/24/2026 1:31,12.9,No,2
+523,523,Website,High Bill,9/3/2026 11:10,12.8,No,3
+524,524,Mobile App,Water Leak,10/19/2025 18:43,22.7,Yes,5
+525,525,Phone,Water Leak,9/11/2026 23:01,5.4,No,3
+526,526,Website,Power Outage,2/25/2026 0:04,11.8,Yes,3
+527,527,Mobile App,Power Outage,7/5/2026 17:59,8.8,No,1
+528,528,Website,Move In/Out,8/22/2026 16:46,17,Yes,3
+529,529,Mobile App,Power Outage,12/30/2025 23:12,20.5,Yes,5
+530,530,Mobile App,Water Leak,12/3/2025 16:39,20.1,No,3
+531,531,Phone,Water Leak,11/30/2025 14:58,8.2,Yes,4
+532,532,Mobile App,Move In/Out,12/24/2025 20:43,4.5,No,3
+533,533,Website,Power Outage,1/3/2026 12:31,21.2,Yes,3
+534,534,Website,High Bill,2/2/2026 15:15,1.9,Yes,3
+535,535,Phone,Power Outage,7/17/2026 23:38,3.5,No,1
+536,536,Website,High Bill,1/4/2026 18:23,19.2,No,5
+537,537,Phone,High Bill,12/22/2025 17:29,17.5,No,4
+538,538,Mobile App,Move In/Out,8/22/2026 13:54,15.3,Yes,5
+539,539,Phone,Water Leak,1/23/2026 13:30,13.4,Yes,2
+540,540,Phone,Water Leak,2/6/2026 3:37,16.3,No,4
+541,541,Phone,High Bill,11/9/2025 10:02,11.7,Yes,2
+542,542,Mobile App,Move In/Out,9/5/2026 8:15,14.7,No,4
+543,543,Mobile App,Power Outage,9/7/2026 13:35,17.7,No,1
+544,544,Mobile App,Move In/Out,12/11/2025 4:15,13.3,Yes,5
+545,545,Phone,Move In/Out,10/12/2025 2:36,9.2,Yes,1
+546,546,Phone,Water Leak,1/6/2026 10:24,23.8,Yes,2
+547,547,Mobile App,High Bill,11/4/2025 4:38,18.2,No,3
+548,548,Phone,Move In/Out,5/11/2026 5:15,2.1,Yes,2
+549,549,Mobile App,Power Outage,7/13/2026 13:10,6.2,Yes,4
+550,550,Phone,High Bill,11/30/2025 4:29,9.3,Yes,4
+551,551,Mobile App,High Bill,2/15/2026 4:18,18.9,Yes,4
+552,552,Website,Move In/Out,3/6/2026 19:58,1.2,No,4
+553,553,Phone,Move In/Out,11/2/2025 23:59,16.9,No,3
+554,554,Phone,High Bill,6/1/2026 6:20,18.4,Yes,5
+555,555,Website,Power Outage,7/2/2026 14:21,3.4,No,2
+556,556,Website,High Bill,8/6/2026 4:42,4.1,No,4
+557,557,Website,Move In/Out,6/9/2026 7:24,9.5,No,3
+558,558,Website,Power Outage,6/24/2026 15:20,12.1,Yes,2
+559,559,Phone,Power Outage,5/3/2026 11:12,0.1,Yes,2
+560,560,Mobile App,High Bill,7/15/2026 10:03,16.3,Yes,1
+561,561,Website,High Bill,10/10/2025 13:35,13.6,No,1
+562,562,Phone,Power Outage,10/7/2025 20:42,20.6,Yes,2
+563,563,Website,Power Outage,5/9/2026 14:52,6.7,Yes,4
+564,564,Mobile App,Move In/Out,10/19/2025 15:48,17.6,Yes,3
+565,565,Phone,Water Leak,8/24/2026 0:51,2.7,No,3
+566,566,Phone,Move In/Out,1/12/2026 3:52,16,Yes,1
+567,567,Mobile App,Power Outage,6/16/2026 7:31,23,No,1
+568,568,Phone,Power Outage,9/4/2026 18:46,2.6,No,2
+569,569,Mobile App,Water Leak,11/16/2025 10:33,13.4,Yes,2
+570,570,Mobile App,High Bill,12/6/2025 12:52,14.7,Yes,4
+571,571,Mobile App,Power Outage,8/15/2026 14:28,15.1,Yes,4
+572,572,Website,Water Leak,5/10/2026 16:27,22,No,4
+573,573,Phone,Power Outage,6/12/2026 9:17,15.3,No,3
+574,574,Phone,High Bill,7/10/2026 8:05,10.9,No,1
+575,575,Website,High Bill,11/14/2025 6:29,21,Yes,2
+576,576,Mobile App,High Bill,10/1/2025 10:08,16.2,No,3
+577,577,Phone,Water Leak,11/9/2025 3:48,15.6,Yes,2
+578,578,Phone,Move In/Out,9/25/2025 10:12,11.9,Yes,2
+579,579,Mobile App,Water Leak,1/25/2026 17:19,16.1,Yes,5
+580,580,Phone,Move In/Out,7/29/2026 8:59,8.5,No,5
+581,581,Mobile App,High Bill,9/12/2026 4:55,9.2,Yes,2
+582,582,Website,Water Leak,8/28/2026 16:52,18.2,No,2
+583,583,Mobile App,Power Outage,5/24/2026 6:56,9,No,2
+584,584,Website,Move In/Out,11/22/2025 21:10,14.8,Yes,4
+585,585,Mobile App,Water Leak,3/23/2026 15:19,18.8,No,1
+586,586,Website,Move In/Out,8/16/2026 0:21,20.2,Yes,3
+587,587,Phone,Power Outage,12/23/2025 23:42,14,No,4
+588,588,Phone,Power Outage,4/13/2026 14:30,11.8,No,3
+589,589,Website,Water Leak,7/4/2026 22:42,3.7,Yes,1
+590,590,Mobile App,Water Leak,7/24/2026 23:59,0.2,No,3
+591,591,Mobile App,Power Outage,5/16/2026 14:03,8.1,No,2
+592,592,Mobile App,Move In/Out,5/14/2026 19:18,7.7,No,3
+593,593,Website,Move In/Out,2/20/2026 0:49,14.8,Yes,2
+594,594,Website,Power Outage,5/24/2026 23:57,21.8,No,5
+595,595,Phone,High Bill,5/29/2026 17:30,15.1,Yes,1
+596,596,Website,High Bill,1/11/2026 3:30,14,No,2
+597,597,Website,Water Leak,10/29/2025 7:01,17.1,Yes,1
+598,598,Website,High Bill,11/8/2025 7:55,17.3,Yes,4
+599,599,Mobile App,High Bill,9/4/2026 3:59,15.9,No,2
+600,600,Mobile App,Power Outage,6/19/2026 21:09,6.9,Yes,2
+601,601,Website,Water Leak,11/13/2025 5:03,6.1,No,3
+602,602,Website,High Bill,12/8/2025 4:11,10,No,1
+603,603,Mobile App,Power Outage,7/14/2026 18:10,10,No,2
+604,604,Phone,Water Leak,3/7/2026 11:30,21.6,No,2
+605,605,Phone,High Bill,12/11/2025 15:29,20.5,No,3
+606,606,Website,Move In/Out,10/8/2025 21:19,5.9,Yes,3
+607,607,Mobile App,Move In/Out,5/19/2026 4:07,5.1,No,3
+608,608,Mobile App,High Bill,11/14/2025 11:29,16,Yes,1
+609,609,Website,High Bill,12/26/2025 17:03,21.8,Yes,5
+610,610,Mobile App,Move In/Out,10/7/2025 22:02,20.4,Yes,1
+611,611,Mobile App,High Bill,7/15/2026 16:40,16.5,Yes,2
+612,612,Mobile App,Power Outage,12/27/2025 14:27,6.4,No,1
+613,613,Phone,Power Outage,6/29/2026 17:49,1.9,Yes,5
+614,614,Website,Move In/Out,6/12/2026 1:56,13.7,No,2
+615,615,Phone,Water Leak,2/16/2026 10:12,15.2,No,3
+616,616,Phone,High Bill,1/20/2026 14:45,1.5,No,1
+617,617,Phone,Water Leak,9/28/2025 21:41,17.8,Yes,5
+618,618,Mobile App,Move In/Out,3/23/2026 11:19,20.4,Yes,2
+619,619,Phone,Move In/Out,5/22/2026 11:46,7.5,Yes,3
+620,620,Mobile App,High Bill,7/28/2026 17:02,3.8,No,3
+621,621,Mobile App,Water Leak,11/8/2025 16:21,6.9,No,5
+622,622,Website,Water Leak,2/10/2026 23:48,8.2,Yes,4
+623,623,Mobile App,Move In/Out,9/9/2026 21:49,7,Yes,4
+624,624,Website,Water Leak,7/24/2026 21:59,9.1,No,2
+625,625,Mobile App,Water Leak,9/12/2026 20:24,0,No,4
+626,626,Website,High Bill,1/20/2026 9:07,2.2,Yes,3
+627,627,Website,High Bill,10/12/2025 23:12,18.5,No,2
+628,628,Mobile App,High Bill,5/28/2026 5:37,4.3,Yes,4
+629,629,Mobile App,Move In/Out,7/3/2026 14:56,17.3,Yes,4
+630,630,Mobile App,Water Leak,3/17/2026 13:22,18.2,No,3
+631,631,Phone,Water Leak,5/29/2026 18:11,10,No,1
+632,632,Mobile App,Power Outage,3/2/2026 16:12,14.1,Yes,3
+633,633,Phone,Power Outage,8/13/2026 23:47,6.8,No,3
+634,634,Website,High Bill,3/27/2026 10:22,23.7,No,1
+635,635,Phone,Move In/Out,6/15/2026 1:50,4.5,Yes,3
+636,636,Website,Water Leak,9/24/2025 0:47,8.1,No,5
+637,637,Phone,Water Leak,7/9/2026 5:00,6.5,Yes,5
+638,638,Website,High Bill,10/6/2025 17:52,16.1,No,5
+639,639,Mobile App,Power Outage,6/2/2026 8:49,10.3,Yes,3
+640,640,Mobile App,Power Outage,1/10/2026 23:51,0.1,Yes,4
+641,641,Phone,Move In/Out,3/23/2026 11:43,11.8,No,5
+642,642,Phone,Water Leak,11/19/2025 14:30,4.4,No,1
+643,643,Mobile App,Power Outage,9/15/2026 0:42,5.4,No,1
+644,644,Mobile App,High Bill,11/13/2025 14:41,3.4,No,5
+645,645,Website,Power Outage,2/5/2026 19:06,0.2,No,5
+646,646,Mobile App,High Bill,11/19/2025 16:55,17.8,Yes,2
+647,647,Mobile App,Power Outage,9/28/2025 19:08,19.1,Yes,3
+648,648,Website,Power Outage,9/3/2026 18:20,13.4,No,3
+649,649,Phone,Power Outage,5/6/2026 23:27,20.7,Yes,3
+650,650,Phone,Power Outage,2/8/2026 20:54,22,No,3
+651,651,Phone,Move In/Out,8/17/2026 16:25,19.4,No,4
+652,652,Phone,High Bill,5/19/2026 15:59,12,No,1
+653,653,Website,Water Leak,2/23/2026 12:34,21.2,Yes,3
+654,654,Website,Move In/Out,9/29/2025 1:50,4.5,No,1
+655,655,Website,Power Outage,12/17/2025 5:24,3.1,No,3
+656,656,Mobile App,High Bill,1/29/2026 9:18,16.7,No,3
+657,657,Phone,Move In/Out,8/10/2026 2:00,19.8,No,2
+658,658,Website,Water Leak,3/17/2026 3:44,14.2,No,5
+659,659,Mobile App,High Bill,5/26/2026 4:58,19.5,Yes,5
+660,660,Website,High Bill,12/16/2025 20:20,17.8,Yes,5
+661,661,Mobile App,Power Outage,7/5/2026 20:04,10.6,Yes,3
+662,662,Phone,Water Leak,5/24/2026 23:22,21.1,Yes,2
+663,663,Mobile App,Move In/Out,10/15/2025 7:29,0.3,No,3
+664,664,Mobile App,High Bill,5/22/2026 22:10,21.3,Yes,3
+665,665,Phone,Power Outage,1/18/2026 23:09,20.7,No,5
+666,666,Website,Power Outage,8/24/2026 20:03,5,Yes,1
+667,667,Mobile App,Water Leak,10/2/2025 18:53,15.9,Yes,1
+668,668,Website,Power Outage,7/25/2026 7:26,4.7,No,1
+669,669,Website,Water Leak,7/1/2026 6:41,2.8,No,5
+670,670,Website,High Bill,1/14/2026 11:06,15.2,No,4
+671,671,Mobile App,High Bill,5/15/2026 10:09,10.8,Yes,4
+672,672,Website,Water Leak,12/11/2025 18:26,7.8,Yes,5
+673,673,Mobile App,High Bill,5/27/2026 11:05,16.7,No,4
+674,674,Website,Power Outage,4/14/2026 7:23,23.1,No,1
+675,675,Mobile App,Water Leak,12/10/2025 10:13,20.8,Yes,2
+676,676,Phone,High Bill,3/31/2026 18:36,6.6,No,2
+677,677,Phone,Power Outage,9/14/2026 7:05,8.3,No,2
+678,678,Website,Move In/Out,11/8/2025 0:26,15.5,No,5
+679,679,Website,High Bill,6/29/2026 12:32,23.2,No,4
+680,680,Phone,Move In/Out,7/2/2026 7:52,10.8,Yes,4
+681,681,Phone,Power Outage,5/28/2026 19:11,21.6,No,1
+682,682,Mobile App,Move In/Out,2/24/2026 15:53,8.9,Yes,2
+683,683,Website,Power Outage,7/2/2026 2:28,0.9,Yes,4
+684,684,Phone,Move In/Out,4/3/2026 19:33,15.6,Yes,4
+685,685,Phone,Water Leak,6/18/2026 14:02,7.4,Yes,1
+686,686,Phone,Water Leak,11/28/2025 0:00,14.4,Yes,4
+687,687,Mobile App,Water Leak,3/5/2026 0:25,11,Yes,5
+688,688,Phone,High Bill,1/3/2026 2:28,1.9,Yes,3
+689,689,Phone,Water Leak,12/9/2025 11:51,0.4,No,1
+690,690,Website,Move In/Out,9/22/2025 12:51,14.8,Yes,4
+691,691,Website,Power Outage,1/21/2026 9:10,3.4,No,2
+692,692,Mobile App,Water Leak,11/15/2025 8:12,2.7,No,1
+693,693,Phone,Move In/Out,5/25/2026 18:52,0.4,Yes,5
+694,694,Phone,Water Leak,11/22/2025 21:25,12.5,Yes,4
+695,695,Phone,Power Outage,2/6/2026 14:31,18.9,No,1
+696,696,Website,High Bill,5/27/2026 3:16,24,Yes,1
+697,697,Mobile App,Water Leak,11/6/2025 12:38,2.6,Yes,3
+698,698,Mobile App,Power Outage,12/9/2025 9:53,9.2,Yes,3
+699,699,Phone,Move In/Out,4/20/2026 10:23,19.6,Yes,2
+700,700,Phone,High Bill,9/1/2026 8:05,15.7,No,5
+701,701,Phone,Move In/Out,12/28/2025 23:27,5.5,Yes,4
+702,702,Phone,Move In/Out,7/18/2026 15:09,15.1,No,3
+703,703,Phone,Power Outage,3/4/2026 12:35,21.6,No,5
+704,704,Website,Move In/Out,8/24/2026 4:13,19.3,Yes,2
+705,705,Website,High Bill,1/1/2026 7:34,16.2,No,4
+706,706,Website,Water Leak,10/2/2025 21:49,11.1,No,3
+707,707,Mobile App,High Bill,6/4/2026 18:25,17.1,Yes,4
+708,708,Mobile App,Power Outage,12/24/2025 11:21,7.9,No,3
+709,709,Phone,Move In/Out,5/25/2026 6:20,0.9,Yes,3
+710,710,Mobile App,Move In/Out,9/12/2026 17:17,21.2,No,1
+711,711,Website,Water Leak,3/17/2026 13:16,10,No,3
+712,712,Website,High Bill,11/3/2025 7:39,22,No,3
+713,713,Phone,High Bill,1/20/2026 8:26,12.7,Yes,4
+714,714,Mobile App,High Bill,11/9/2025 7:54,3.9,No,1
+715,715,Phone,Water Leak,2/21/2026 21:13,19.5,No,3
+716,716,Mobile App,Power Outage,9/10/2026 18:17,0.2,No,3
+717,717,Phone,High Bill,4/2/2026 8:52,20,Yes,3
+718,718,Website,Water Leak,2/6/2026 0:13,17.1,No,2
+719,719,Phone,Power Outage,12/6/2025 10:16,23.9,No,4
+720,720,Website,High Bill,3/22/2026 23:18,21.6,No,1
+721,721,Phone,High Bill,10/31/2025 17:59,12.8,No,4
+722,722,Website,Move In/Out,8/8/2026 12:05,1.6,Yes,4
+723,723,Phone,Move In/Out,7/20/2026 8:51,1.7,Yes,4
+724,724,Website,High Bill,4/2/2026 23:15,12.8,Yes,4
+725,725,Website,Water Leak,9/3/2026 6:29,1.7,No,5
+726,726,Phone,Water Leak,10/2/2025 18:02,22.5,Yes,5
+727,727,Phone,High Bill,2/2/2026 20:06,13.2,No,3
+728,728,Website,Power Outage,7/24/2026 5:17,3,Yes,5
+729,729,Mobile App,Water Leak,11/18/2025 5:06,17.9,No,2
+730,730,Website,Move In/Out,11/18/2025 16:35,7.6,No,1
+731,731,Phone,Water Leak,6/21/2026 21:42,3,No,4
+732,732,Mobile App,Move In/Out,9/1/2026 20:42,18.2,Yes,5
+733,733,Mobile App,High Bill,9/8/2026 5:44,15.7,No,3
+734,734,Phone,Power Outage,2/3/2026 7:28,10.6,No,3
+735,735,Phone,Move In/Out,3/31/2026 13:43,23.4,Yes,5
+736,736,Website,Water Leak,12/21/2025 21:17,21.7,Yes,3
+737,737,Phone,Water Leak,8/8/2026 3:16,6,No,1
+738,738,Mobile App,High Bill,9/27/2025 4:24,1.1,Yes,4
+739,739,Website,High Bill,11/30/2025 6:06,15.4,Yes,5
+740,740,Phone,Water Leak,6/7/2026 6:55,14.5,No,2
+741,741,Mobile App,Power Outage,5/20/2026 10:42,16.7,Yes,4
+742,742,Mobile App,Power Outage,9/4/2026 15:15,17.1,Yes,5
+743,743,Website,Power Outage,8/1/2026 10:31,1.8,No,1
+744,744,Website,High Bill,6/14/2026 20:59,22.2,Yes,2
+745,745,Phone,High Bill,4/5/2026 6:50,14.3,Yes,5
+746,746,Mobile App,High Bill,7/15/2026 23:15,19.4,Yes,4
+747,747,Phone,High Bill,4/21/2026 17:22,19.3,No,5
+748,748,Phone,Water Leak,11/7/2025 23:20,6.7,Yes,1
+749,749,Website,Power Outage,2/17/2026 21:00,6.9,Yes,4
+750,750,Website,High Bill,1/28/2026 7:18,14.5,Yes,3
+751,751,Mobile App,High Bill,1/26/2026 3:29,5.2,Yes,1
+752,752,Website,High Bill,6/14/2026 19:42,20.6,No,3
+753,753,Phone,Water Leak,7/7/2026 13:24,11.6,Yes,3
+754,754,Website,Power Outage,3/26/2026 21:26,10.6,Yes,1
+755,755,Phone,High Bill,7/26/2026 23:31,7.2,No,1
+756,756,Website,Power Outage,10/1/2025 15:07,23.3,No,3
+757,757,Phone,Water Leak,6/3/2026 19:46,19.9,No,5
+758,758,Mobile App,Move In/Out,4/6/2026 18:28,17,Yes,1
+759,759,Website,Water Leak,10/4/2025 1:07,20.4,No,2
+760,760,Phone,High Bill,1/5/2026 18:43,1.1,No,3
+761,761,Phone,Power Outage,5/30/2026 20:36,10.2,Yes,5
+762,762,Website,Water Leak,7/28/2026 23:42,3.1,Yes,2
+763,763,Phone,Water Leak,10/7/2025 20:26,11.3,No,2
+764,764,Phone,High Bill,8/8/2026 6:26,2.9,Yes,4
+765,765,Phone,Power Outage,4/12/2026 15:09,14.7,No,5
+766,766,Mobile App,Water Leak,5/26/2026 3:26,16.9,No,1
+767,767,Phone,Power Outage,12/15/2025 3:40,16.8,No,3
+768,768,Website,Power Outage,10/18/2025 0:24,4.2,No,3
+769,769,Mobile App,Water Leak,11/25/2025 9:09,9.7,No,2
+770,770,Website,Water Leak,9/11/2026 12:34,16,Yes,1
+771,771,Website,Water Leak,2/17/2026 14:18,12,Yes,1
+772,772,Website,Power Outage,9/3/2026 13:48,0.2,Yes,1
+773,773,Phone,Move In/Out,9/17/2026 14:53,4.4,No,3
+774,774,Phone,Power Outage,7/28/2026 23:38,23.9,No,2
+775,775,Mobile App,Move In/Out,2/27/2026 1:22,13.8,No,4
+776,776,Phone,Move In/Out,12/25/2025 21:11,10.3,No,5
+777,777,Mobile App,Power Outage,4/10/2026 14:43,2.8,No,3
+778,778,Website,Power Outage,12/17/2025 8:16,13.8,No,2
+779,779,Website,Move In/Out,10/26/2025 10:39,17.4,No,1
+780,780,Mobile App,Power Outage,7/19/2026 12:42,7,No,2
+781,781,Mobile App,Water Leak,2/21/2026 8:28,12.1,No,5
+782,782,Website,High Bill,1/21/2026 6:35,9.5,No,3
+783,783,Website,Power Outage,10/17/2025 19:21,13.2,Yes,3
+784,784,Website,Water Leak,2/26/2026 13:47,11.1,Yes,3
+785,785,Mobile App,Power Outage,10/27/2025 13:18,11.6,No,5
+786,786,Website,Water Leak,12/28/2025 13:46,18.9,Yes,3
+787,787,Phone,Power Outage,3/24/2026 3:16,20.4,No,5
+788,788,Phone,High Bill,12/4/2025 14:11,6.2,No,1
+789,789,Phone,High Bill,11/20/2025 17:05,18,No,2
+790,790,Mobile App,High Bill,4/1/2026 11:59,14.8,No,2
+791,791,Mobile App,Water Leak,5/27/2026 5:43,4.3,No,3
+792,792,Website,Water Leak,11/26/2025 6:20,7.3,No,5
+793,793,Website,Water Leak,3/23/2026 4:15,9.3,No,5
+794,794,Phone,Power Outage,10/21/2025 16:13,16.8,Yes,2
+795,795,Mobile App,High Bill,2/4/2026 1:48,8.9,Yes,1
+796,796,Mobile App,Water Leak,5/9/2026 19:19,11.1,No,2
+797,797,Website,Move In/Out,7/29/2026 5:38,23.2,Yes,5
+798,798,Mobile App,Move In/Out,4/8/2026 4:37,11.3,Yes,4
+799,799,Mobile App,Water Leak,11/12/2025 12:22,3.5,No,5
+800,800,Phone,High Bill,2/28/2026 8:34,1.9,Yes,1
+801,801,Mobile App,Move In/Out,4/9/2026 9:03,14,No,5
+802,802,Website,Move In/Out,8/19/2026 11:42,6.5,No,1
+803,803,Phone,Power Outage,1/14/2026 14:46,12.7,No,3
+804,804,Phone,Move In/Out,8/6/2026 12:46,2.8,Yes,2
+805,805,Website,High Bill,8/9/2026 7:27,16.1,Yes,1
+806,806,Website,Power Outage,1/27/2026 12:19,20.8,Yes,1
+807,807,Website,Power Outage,6/23/2026 22:24,10.2,Yes,4
+808,808,Website,Move In/Out,4/18/2026 18:28,22.1,Yes,2
+809,809,Mobile App,Water Leak,6/29/2026 9:50,6.4,Yes,2
+810,810,Phone,High Bill,5/22/2026 3:14,11.3,No,2
+811,811,Website,Move In/Out,8/10/2026 9:19,11.8,No,2
+812,812,Mobile App,High Bill,9/10/2026 11:58,23.5,Yes,5
+813,813,Phone,Move In/Out,8/31/2026 15:48,10.8,Yes,5
+814,814,Phone,Power Outage,1/4/2026 22:53,18.8,No,4
+815,815,Website,Power Outage,1/27/2026 13:31,11.1,No,5
+816,816,Phone,High Bill,9/16/2026 17:10,4.5,No,4
+817,817,Website,High Bill,9/25/2025 13:43,3.8,Yes,2
+818,818,Phone,Power Outage,12/22/2025 22:26,7.7,Yes,1
+819,819,Website,Move In/Out,6/4/2026 15:49,20.1,Yes,1
+820,820,Mobile App,Move In/Out,10/7/2025 14:51,3.1,Yes,1
+821,821,Mobile App,Water Leak,7/27/2026 19:09,19.2,No,2
+822,822,Mobile App,Water Leak,1/19/2026 3:58,18.9,No,5
+823,823,Phone,High Bill,6/5/2026 13:18,9.9,No,3
+824,824,Phone,High Bill,1/4/2026 12:27,18.9,Yes,3
+825,825,Mobile App,Move In/Out,2/16/2026 9:58,7.4,Yes,2
+826,826,Phone,Water Leak,6/23/2026 3:52,16.1,No,1
+827,827,Phone,Move In/Out,5/16/2026 23:11,13.2,No,1
+828,828,Phone,High Bill,4/18/2026 13:10,0.8,Yes,1
+829,829,Mobile App,Power Outage,12/30/2025 3:12,20.9,No,3
+830,830,Phone,High Bill,4/3/2026 8:11,19.5,Yes,4
+831,831,Phone,Move In/Out,4/11/2026 1:10,13.4,Yes,3
+832,832,Phone,High Bill,12/12/2025 18:45,12,Yes,2
+833,833,Mobile App,Move In/Out,12/27/2025 6:54,4.5,No,3
+834,834,Website,Move In/Out,9/2/2026 23:03,3,Yes,3
+835,835,Phone,Move In/Out,9/29/2025 5:27,8.4,No,3
+836,836,Mobile App,Water Leak,4/24/2026 21:11,4.9,No,3
+837,837,Website,Power Outage,12/13/2025 22:28,17.4,Yes,1
+838,838,Phone,High Bill,7/1/2026 17:19,7.3,Yes,5
+839,839,Website,Move In/Out,9/7/2026 17:15,4.9,Yes,2
+840,840,Website,Move In/Out,9/16/2026 21:51,0.2,Yes,4
+841,841,Website,High Bill,8/16/2026 12:30,16.5,Yes,2
+842,842,Phone,Water Leak,6/4/2026 14:13,10.5,No,5
+843,843,Mobile App,High Bill,7/20/2026 2:44,21.3,No,4
+844,844,Phone,Water Leak,5/1/2026 7:07,10,No,5
+845,845,Mobile App,High Bill,6/21/2026 11:44,15.7,No,4
+846,846,Website,Move In/Out,4/17/2026 16:48,17,Yes,2
+847,847,Mobile App,Move In/Out,12/1/2025 7:40,20.4,No,1
+848,848,Mobile App,Move In/Out,10/17/2025 6:49,8.9,No,2
+849,849,Mobile App,Power Outage,7/29/2026 9:30,9.5,No,2
+850,850,Website,Move In/Out,8/7/2026 21:05,20.1,Yes,5
+851,851,Website,Move In/Out,10/6/2025 16:20,23.6,Yes,4
+852,852,Website,High Bill,12/20/2025 14:42,18.3,No,1
+853,853,Mobile App,High Bill,5/11/2026 17:27,23.4,Yes,2
+854,854,Phone,Water Leak,12/12/2025 5:49,19.7,Yes,4
+855,855,Phone,High Bill,3/25/2026 5:09,19.3,Yes,2
+856,856,Mobile App,High Bill,5/18/2026 20:34,21.4,No,2
+857,857,Website,High Bill,10/25/2025 22:43,8.7,No,4
+858,858,Phone,Move In/Out,10/11/2025 12:55,12.4,Yes,2
+859,859,Website,Power Outage,8/30/2026 14:25,21.2,Yes,5
+860,860,Mobile App,Water Leak,8/18/2026 23:17,22.5,Yes,1
+861,861,Website,High Bill,9/26/2025 15:48,9.7,Yes,5
+862,862,Phone,Power Outage,9/3/2026 12:44,9.2,No,2
+863,863,Phone,Water Leak,8/11/2026 6:50,2.8,No,3
+864,864,Mobile App,High Bill,11/13/2025 8:15,7.6,Yes,4
+865,865,Mobile App,Water Leak,1/29/2026 6:53,12.8,Yes,4
+866,866,Phone,Move In/Out,7/14/2026 20:14,2.5,No,3
+867,867,Mobile App,High Bill,9/20/2026 14:43,2.8,Yes,2
+868,868,Phone,High Bill,9/18/2026 12:36,22.2,Yes,4
+869,869,Mobile App,High Bill,5/5/2026 16:50,15.4,No,2
+870,870,Website,Move In/Out,5/26/2026 8:14,2.1,No,5
+871,871,Mobile App,Water Leak,4/29/2026 21:04,4.1,No,4
+872,872,Mobile App,Move In/Out,4/24/2026 11:28,13.8,No,2
+873,873,Phone,Power Outage,5/24/2026 5:16,10.2,No,3
+874,874,Mobile App,High Bill,7/3/2026 11:18,6.9,Yes,3
+875,875,Mobile App,Water Leak,7/30/2026 14:09,4.3,No,4
+876,876,Website,Move In/Out,4/23/2026 16:46,1.1,No,4
+877,877,Website,Water Leak,6/29/2026 12:06,15.6,No,1
+878,878,Website,Power Outage,6/28/2026 8:54,12.9,No,1
+879,879,Phone,High Bill,3/29/2026 15:55,9.1,Yes,1
+880,880,Mobile App,High Bill,12/8/2025 21:12,16.8,No,1
+881,881,Mobile App,Move In/Out,11/20/2025 9:45,23.4,No,3
+882,882,Mobile App,High Bill,12/10/2025 21:38,3,No,1
+883,883,Website,High Bill,5/31/2026 20:24,5.1,Yes,4
+884,884,Mobile App,High Bill,12/11/2025 14:06,10.6,No,3
+885,885,Website,High Bill,2/4/2026 7:42,21.4,Yes,5
+886,886,Phone,High Bill,2/21/2026 10:36,21.5,No,1
+887,887,Phone,High Bill,8/5/2026 2:04,14.4,Yes,2
+888,888,Mobile App,Water Leak,7/5/2026 9:36,18.9,Yes,2
+889,889,Website,Water Leak,10/29/2025 0:04,18.6,Yes,1
+890,890,Mobile App,Water Leak,5/5/2026 17:13,15.1,No,1
+891,891,Phone,Move In/Out,5/22/2026 7:51,18.1,No,5
+892,892,Website,Move In/Out,7/17/2026 0:12,0.3,Yes,3
+893,893,Mobile App,Move In/Out,8/31/2026 7:45,11.3,Yes,4
+894,894,Website,Move In/Out,12/4/2025 1:25,5.4,No,5
+895,895,Phone,Power Outage,7/30/2026 17:36,11.7,Yes,1
+896,896,Mobile App,Water Leak,5/25/2026 12:59,0.9,Yes,4
+897,897,Website,Water Leak,11/12/2025 21:33,9.7,Yes,3
+898,898,Phone,Power Outage,4/7/2026 18:36,12.7,Yes,2
+899,899,Phone,High Bill,10/11/2025 6:14,6.9,No,4
+900,900,Website,Move In/Out,8/13/2026 12:49,12.9,No,5
+901,901,Website,Move In/Out,6/14/2026 1:02,22.1,Yes,1
+902,902,Phone,Move In/Out,4/3/2026 14:05,2.4,No,4
+903,903,Phone,Move In/Out,3/22/2026 4:47,22,No,4
+904,904,Phone,High Bill,5/15/2026 1:02,15.3,No,1
+905,905,Mobile App,High Bill,12/20/2025 6:04,1.4,No,5
+906,906,Website,Move In/Out,2/12/2026 22:16,22.8,Yes,1
+907,907,Website,High Bill,4/14/2026 4:57,0.8,No,5
+908,908,Phone,Power Outage,6/23/2026 19:31,7.1,No,5
+909,909,Phone,Move In/Out,12/3/2025 9:56,14.4,Yes,5
+910,910,Website,Power Outage,3/15/2026 0:57,15.2,No,5
+911,911,Mobile App,Water Leak,7/28/2026 19:33,8.2,Yes,3
+912,912,Mobile App,Move In/Out,12/24/2025 0:57,5,Yes,5
+913,913,Phone,Move In/Out,3/3/2026 15:03,3.3,No,5
+914,914,Phone,Water Leak,5/10/2026 13:22,23.5,Yes,5
+915,915,Phone,High Bill,7/10/2026 14:35,4.1,No,4
+916,916,Mobile App,High Bill,10/9/2025 17:06,4.1,Yes,3
+917,917,Phone,Move In/Out,9/11/2026 22:32,17.5,No,3
+918,918,Website,Power Outage,9/10/2026 19:34,4.1,No,1
+919,919,Mobile App,High Bill,10/3/2025 13:26,10.1,Yes,3
+920,920,Website,Water Leak,2/6/2026 7:25,12.1,Yes,3
+921,921,Website,Water Leak,6/13/2026 10:36,21.7,Yes,3
+922,922,Mobile App,Move In/Out,9/27/2025 19:38,4.5,Yes,5
+923,923,Mobile App,High Bill,3/24/2026 4:18,13.2,Yes,2
+924,924,Website,Water Leak,5/14/2026 4:07,15.1,Yes,1
+925,925,Phone,Move In/Out,8/22/2026 22:59,22.6,No,3
+926,926,Phone,Water Leak,12/15/2025 16:39,16.6,No,3
+927,927,Mobile App,High Bill,6/16/2026 12:08,19.3,Yes,1
+928,928,Phone,Power Outage,10/16/2025 0:12,5.6,No,3
+929,929,Phone,High Bill,10/24/2025 19:53,22.1,Yes,5
+930,930,Mobile App,Power Outage,3/12/2026 22:59,13.8,Yes,3
+931,931,Phone,Water Leak,5/24/2026 19:52,3.3,No,2
+932,932,Phone,Power Outage,7/23/2026 1:36,6.4,No,5
+933,933,Phone,Water Leak,9/20/2026 22:28,4.1,No,4
+934,934,Mobile App,High Bill,8/28/2026 18:43,20.8,No,5
+935,935,Phone,Move In/Out,8/30/2026 4:13,14.8,No,5
+936,936,Phone,Water Leak,10/15/2025 0:15,20.2,No,3
+937,937,Website,Power Outage,2/1/2026 17:43,13.4,No,3
+938,938,Website,Water Leak,5/31/2026 8:47,16.2,Yes,1
+939,939,Phone,Water Leak,7/13/2026 19:23,0.2,Yes,5
+940,940,Phone,Move In/Out,5/28/2026 10:39,12.7,Yes,2
+941,941,Phone,Power Outage,2/18/2026 3:39,6.4,No,1
+942,942,Mobile App,Power Outage,3/7/2026 17:42,21.4,Yes,3
+943,943,Website,Move In/Out,5/6/2026 6:09,8.1,Yes,4
+944,944,Phone,Power Outage,8/9/2026 12:05,9,No,5
+945,945,Mobile App,Water Leak,1/25/2026 20:27,17.7,No,3
+946,946,Phone,High Bill,8/30/2026 12:57,12.4,Yes,5
+947,947,Website,Power Outage,1/17/2026 1:17,18.7,Yes,4
+948,948,Mobile App,Power Outage,6/2/2026 17:25,18.2,Yes,3
+949,949,Website,Water Leak,6/23/2026 4:38,13.2,Yes,4
+950,950,Website,Move In/Out,2/7/2026 14:31,11.7,Yes,4
+951,951,Website,High Bill,2/17/2026 10:47,2.3,Yes,3
+952,952,Website,Power Outage,8/31/2026 11:41,21.8,Yes,1
+953,953,Phone,Water Leak,8/7/2026 16:18,21.7,Yes,2
+954,954,Phone,Power Outage,1/31/2026 23:35,14.5,Yes,5
+955,955,Website,Water Leak,11/14/2025 3:38,7.1,Yes,2
+956,956,Website,High Bill,9/25/2025 14:36,12.7,No,5
+957,957,Website,High Bill,8/31/2026 23:26,16.6,No,3
+958,958,Phone,Move In/Out,2/17/2026 22:38,17.2,Yes,2
+959,959,Phone,Power Outage,1/4/2026 4:59,3,No,5
+960,960,Mobile App,Power Outage,4/7/2026 7:22,19.3,Yes,4
+961,961,Website,High Bill,6/21/2026 23:09,6.9,No,3
+962,962,Website,High Bill,6/10/2026 15:14,22.8,Yes,1
+963,963,Mobile App,Move In/Out,8/9/2026 22:22,14.2,Yes,5
+964,964,Phone,High Bill,9/29/2025 21:26,8.3,Yes,5
+965,965,Website,Water Leak,6/6/2026 3:22,3.8,Yes,5
+966,966,Mobile App,Power Outage,4/17/2026 6:34,9.8,No,2
+967,967,Mobile App,Move In/Out,6/24/2026 23:39,21.1,Yes,5
+968,968,Mobile App,Move In/Out,7/25/2026 2:52,17.2,Yes,5
+969,969,Website,Power Outage,10/23/2025 2:22,13.7,Yes,4
+970,970,Website,High Bill,10/2/2025 11:05,7.2,No,4
+971,971,Website,Power Outage,5/14/2026 22:17,12.9,No,5
+972,972,Mobile App,High Bill,6/29/2026 2:14,22.3,No,4
+973,973,Phone,Move In/Out,5/21/2026 20:28,22.8,No,4
+974,974,Phone,Power Outage,6/17/2026 17:19,12.9,No,4
+975,975,Mobile App,Move In/Out,1/9/2026 16:30,12.9,Yes,4
+976,976,Phone,Move In/Out,5/16/2026 15:51,7.4,Yes,3
+977,977,Phone,Power Outage,5/26/2026 0:19,22.5,No,3
+978,978,Phone,Power Outage,2/8/2026 12:27,10.9,No,3
+979,979,Phone,Move In/Out,12/22/2025 0:25,14.5,Yes,3
+980,980,Website,High Bill,7/26/2026 13:08,12.6,No,5
+981,981,Website,Water Leak,5/31/2026 6:58,11.2,Yes,1
+982,982,Mobile App,Power Outage,7/19/2026 5:06,8.5,No,5
+983,983,Phone,Move In/Out,12/19/2025 4:06,17.6,Yes,5
+984,984,Phone,Power Outage,11/15/2025 7:33,19.7,Yes,5
+985,985,Phone,Move In/Out,1/31/2026 10:04,8.9,No,1
+986,986,Website,Power Outage,10/29/2025 13:14,14,Yes,4
+987,987,Phone,Power Outage,2/25/2026 10:43,12.8,No,2
+988,988,Phone,Water Leak,10/20/2025 10:41,16.7,No,4
+989,989,Phone,High Bill,8/18/2026 9:46,10.5,Yes,2
+990,990,Website,Water Leak,12/30/2025 9:18,9.7,No,2
+991,991,Website,Move In/Out,6/21/2026 21:50,16.5,No,5
+992,992,Phone,Move In/Out,6/29/2026 18:19,3.9,Yes,2
+993,993,Phone,Power Outage,10/9/2025 9:02,22.2,No,4
+994,994,Website,Water Leak,6/15/2026 15:58,16.7,Yes,5
+995,995,Website,Move In/Out,10/20/2025 23:00,23.3,No,3
+996,996,Phone,High Bill,5/9/2026 6:06,17.5,Yes,3
+997,997,Website,Power Outage,10/19/2025 8:26,14.6,Yes,1
+998,998,Phone,High Bill,1/20/2026 21:52,14.2,No,2
+999,999,Mobile App,High Bill,3/7/2026 10:45,15.8,Yes,1
+1000,1000,Mobile App,High Bill,5/14/2026 19:40,20,Yes,5

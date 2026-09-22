@@ -1,0 +1,1001 @@
+incident_id,service_type,address,city,start_time,restoration_time,outage_duration_minutes,customers_affected,cause,weather_condition,crew_dispatched
+1,Water Pipeline,North Bay Boulevard,Navotas City,2/7/2024 23:18,4/24/2023 2:25,606,577,Equipment Age,High Wind,Yes
+2,Water Pipeline,Ermita District,City of Manila,11/24/2025 9:55,1/20/2024 15:47,1338,8711,Lightning,High Wind,No
+3,Electric Grid,Ermita District,City of Manila,7/25/2023 14:39,9/21/2024 15:20,515,1647,Equipment Age,High Wind,No
+4,Water Pipeline,North Bay Boulevard,Navotas City,7/4/2023 13:19,8/20/2024 11:07,1429,7265,Equipment Age,Clear,Yes
+5,Electric Grid,Ermita District,City of Manila,11/23/2024 17:42,2/21/2025 19:42,178,7999,Equipment Age,Heatwave,Yes
+6,Water Pipeline,North Bay Boulevard,Navotas City,4/24/2025 3:37,7/16/2025 0:44,1430,173,Pipe Burst,Heatwave,No
+7,Water Pipeline,North Bay Boulevard,Navotas City,2/7/2024 7:15,12/12/2024 13:18,256,4349,Equipment Age,High Wind,Yes
+8,Water Pipeline,Ermita District,City of Manila,4/8/2025 3:31,8/19/2024 23:43,767,1338,Fallen Tree Branch,Heatwave,Yes
+9,Water Pipeline,North Bay Boulevard,Navotas City,1/14/2026 13:28,3/9/2026 15:47,188,2799,Fallen Tree Branch,Clear,Yes
+10,Water Pipeline,North Bay Boulevard,Navotas City,4/15/2022 19:22,6/1/2025 15:37,769,2932,Pipe Burst,Heavy Rain,No
+11,Water Pipeline,North Bay Boulevard,Navotas City,6/28/2025 5:35,11/19/2022 2:40,568,3617,Pipe Burst,Heavy Rain,No
+12,Water Pipeline,North Bay Boulevard,Navotas City,6/8/2026 23:29,6/10/2023 5:02,319,2507,Pipe Burst,High Wind,Yes
+13,Electric Grid,North Bay Boulevard,Navotas City,5/31/2023 5:24,6/23/2025 5:21,836,6335,Equipment Age,Clear,Yes
+14,Water Pipeline,Ermita District,City of Manila,7/4/2022 6:04,8/22/2026 16:18,493,2306,Fallen Tree Branch,High Wind,No
+15,Water Pipeline,North Bay Boulevard,Navotas City,5/15/2022 4:52,3/22/2026 2:13,617,5060,Equipment Age,High Wind,Yes
+16,Water Pipeline,North Bay Boulevard,Navotas City,1/5/2025 18:17,10/20/2022 17:45,773,6233,Pipe Burst,High Wind,No
+17,Electric Grid,North Bay Boulevard,Navotas City,2/15/2026 11:11,6/19/2026 15:13,1029,9394,Lightning,Heavy Rain,No
+18,Electric Grid,Ermita District,City of Manila,8/21/2024 3:14,4/16/2026 13:14,1013,668,Pipe Burst,Heatwave,Yes
+19,Electric Grid,Ermita District,City of Manila,11/7/2024 12:14,8/23/2024 2:19,1017,9842,Fallen Tree Branch,Clear,No
+20,Water Pipeline,Ermita District,City of Manila,6/9/2024 21:50,5/31/2026 6:47,517,6361,Pipe Burst,Clear,No
+21,Water Pipeline,Ermita District,City of Manila,2/19/2024 20:33,10/8/2026 7:03,882,5830,Lightning,High Wind,Yes
+22,Electric Grid,North Bay Boulevard,Navotas City,1/20/2022 12:10,8/2/2026 2:53,1411,5334,Equipment Age,High Wind,Yes
+23,Electric Grid,Ermita District,City of Manila,3/16/2024 11:24,1/31/2022 20:17,768,2637,Pipe Burst,Heavy Rain,No
+24,Water Pipeline,North Bay Boulevard,Navotas City,12/27/2025 11:13,11/18/2026 9:53,712,4103,Fallen Tree Branch,Heatwave,Yes
+25,Water Pipeline,North Bay Boulevard,Navotas City,8/7/2023 1:46,4/21/2025 0:36,1169,6527,Equipment Age,Clear,No
+26,Electric Grid,North Bay Boulevard,Navotas City,12/21/2025 13:27,11/10/2025 10:30,1167,9554,Fallen Tree Branch,High Wind,No
+27,Electric Grid,Ermita District,City of Manila,3/25/2022 4:12,9/8/2024 7:02,477,6244,Lightning,Clear,Yes
+28,Electric Grid,North Bay Boulevard,Navotas City,4/6/2026 10:55,1/4/2026 7:23,216,4552,Fallen Tree Branch,Heavy Rain,Yes
+29,Electric Grid,Ermita District,City of Manila,7/17/2026 18:01,4/27/2022 7:36,849,5395,Pipe Burst,Heatwave,No
+30,Water Pipeline,North Bay Boulevard,Navotas City,1/28/2025 7:41,6/21/2023 3:15,403,2181,Fallen Tree Branch,Heavy Rain,Yes
+31,Electric Grid,Ermita District,City of Manila,10/16/2025 9:22,11/16/2025 16:06,425,3153,Equipment Age,High Wind,Yes
+32,Electric Grid,Ermita District,City of Manila,11/21/2024 1:16,6/30/2024 19:29,688,5295,Lightning,Heatwave,No
+33,Water Pipeline,North Bay Boulevard,Navotas City,10/31/2023 1:15,9/12/2024 9:28,257,9743,Fallen Tree Branch,Heatwave,Yes
+34,Water Pipeline,Ermita District,City of Manila,12/1/2023 14:51,12/24/2022 15:24,565,2283,Fallen Tree Branch,High Wind,No
+35,Electric Grid,Ermita District,City of Manila,12/16/2022 6:49,9/29/2022 8:20,31,425,Lightning,Heavy Rain,Yes
+36,Electric Grid,North Bay Boulevard,Navotas City,5/1/2026 6:21,7/11/2022 5:35,1178,1723,Lightning,High Wind,Yes
+37,Electric Grid,North Bay Boulevard,Navotas City,5/29/2026 16:17,7/2/2025 20:13,1084,5090,Lightning,Clear,No
+38,Electric Grid,Ermita District,City of Manila,2/28/2023 21:24,9/6/2024 6:46,514,3303,Equipment Age,Clear,Yes
+39,Water Pipeline,North Bay Boulevard,Navotas City,12/14/2023 20:24,12/7/2022 16:12,460,6050,Pipe Burst,Heavy Rain,Yes
+40,Water Pipeline,North Bay Boulevard,Navotas City,4/30/2026 4:05,5/17/2024 23:03,62,5620,Lightning,Heatwave,Yes
+41,Electric Grid,North Bay Boulevard,Navotas City,5/11/2024 22:55,5/5/2026 14:46,264,3655,Pipe Burst,Heatwave,No
+42,Water Pipeline,Ermita District,City of Manila,2/10/2025 15:39,3/5/2026 4:35,152,1964,Equipment Age,Heatwave,Yes
+43,Electric Grid,North Bay Boulevard,Navotas City,2/10/2025 13:20,10/13/2025 22:11,1187,6836,Fallen Tree Branch,Clear,Yes
+44,Electric Grid,North Bay Boulevard,Navotas City,10/13/2023 7:58,5/2/2022 10:58,472,5741,Pipe Burst,Heavy Rain,Yes
+45,Water Pipeline,Ermita District,City of Manila,10/9/2022 14:49,10/28/2025 7:39,670,8038,Pipe Burst,High Wind,Yes
+46,Electric Grid,Ermita District,City of Manila,7/16/2022 8:17,8/15/2024 18:30,1180,7133,Equipment Age,Heatwave,No
+47,Electric Grid,North Bay Boulevard,Navotas City,10/2/2024 20:21,12/1/2024 21:27,361,522,Fallen Tree Branch,Heatwave,No
+48,Water Pipeline,North Bay Boulevard,Navotas City,6/21/2026 11:22,2/10/2022 4:34,1380,4420,Pipe Burst,Heavy Rain,No
+49,Water Pipeline,Ermita District,City of Manila,3/5/2026 8:40,5/13/2025 6:21,17,5775,Equipment Age,Heatwave,No
+50,Water Pipeline,Ermita District,City of Manila,4/24/2026 12:28,7/27/2025 8:12,21,2805,Fallen Tree Branch,Heavy Rain,No
+51,Electric Grid,North Bay Boulevard,Navotas City,8/21/2025 7:56,6/14/2025 22:56,1398,2499,Lightning,Clear,Yes
+52,Water Pipeline,North Bay Boulevard,Navotas City,6/1/2026 5:55,6/8/2023 12:39,1182,4869,Pipe Burst,High Wind,Yes
+53,Water Pipeline,Ermita District,City of Manila,12/23/2024 15:00,9/23/2024 15:56,641,1643,Pipe Burst,High Wind,Yes
+54,Water Pipeline,North Bay Boulevard,Navotas City,6/9/2026 6:04,6/8/2026 12:55,35,8932,Equipment Age,High Wind,No
+55,Water Pipeline,North Bay Boulevard,Navotas City,6/13/2026 5:28,5/6/2024 9:24,120,2027,Equipment Age,High Wind,Yes
+56,Electric Grid,North Bay Boulevard,Navotas City,7/31/2024 13:54,12/28/2024 1:14,1410,6760,Lightning,High Wind,Yes
+57,Water Pipeline,North Bay Boulevard,Navotas City,4/29/2022 16:37,7/12/2025 2:10,1206,2243,Pipe Burst,High Wind,Yes
+58,Water Pipeline,North Bay Boulevard,Navotas City,4/5/2023 14:58,9/21/2024 19:30,1315,5609,Lightning,Heavy Rain,No
+59,Electric Grid,Ermita District,City of Manila,8/6/2022 16:45,12/18/2026 8:55,364,8378,Fallen Tree Branch,Heatwave,No
+60,Electric Grid,North Bay Boulevard,Navotas City,1/10/2025 13:50,1/7/2026 22:41,1167,3237,Pipe Burst,Heavy Rain,No
+61,Water Pipeline,Ermita District,City of Manila,8/1/2023 5:55,4/30/2022 7:41,1167,4811,Lightning,Heatwave,Yes
+62,Water Pipeline,Ermita District,City of Manila,7/22/2025 5:47,1/23/2025 10:20,741,8368,Pipe Burst,Heatwave,No
+63,Water Pipeline,North Bay Boulevard,Navotas City,7/2/2022 8:15,8/18/2025 16:32,595,6108,Lightning,Heavy Rain,Yes
+64,Water Pipeline,Ermita District,City of Manila,2/10/2023 20:01,2/7/2026 1:59,992,2007,Pipe Burst,Clear,No
+65,Water Pipeline,North Bay Boulevard,Navotas City,6/23/2022 19:23,10/27/2024 4:02,877,1785,Equipment Age,Heatwave,Yes
+66,Water Pipeline,Ermita District,City of Manila,11/6/2025 23:53,7/7/2026 14:14,1250,7381,Lightning,Heavy Rain,Yes
+67,Electric Grid,Ermita District,City of Manila,6/17/2022 8:57,4/7/2026 5:59,455,5295,Lightning,Clear,No
+68,Water Pipeline,Ermita District,City of Manila,4/18/2026 15:22,10/17/2022 8:47,238,439,Equipment Age,Heavy Rain,No
+69,Water Pipeline,North Bay Boulevard,Navotas City,1/31/2026 9:56,11/10/2022 23:44,151,4376,Fallen Tree Branch,High Wind,Yes
+70,Electric Grid,Ermita District,City of Manila,12/5/2024 2:12,3/1/2022 17:00,788,2269,Lightning,Heatwave,No
+71,Water Pipeline,Ermita District,City of Manila,12/28/2022 20:42,8/28/2026 1:55,182,106,Fallen Tree Branch,High Wind,Yes
+72,Electric Grid,Ermita District,City of Manila,5/25/2024 13:24,10/22/2022 5:36,983,6606,Equipment Age,Heatwave,No
+73,Water Pipeline,Ermita District,City of Manila,8/9/2024 10:02,10/31/2026 4:47,74,6109,Lightning,Clear,No
+74,Water Pipeline,North Bay Boulevard,Navotas City,8/2/2023 17:38,12/1/2023 23:36,45,3949,Fallen Tree Branch,Clear,Yes
+75,Water Pipeline,North Bay Boulevard,Navotas City,6/27/2025 0:35,12/21/2026 0:33,1338,9250,Fallen Tree Branch,Clear,No
+76,Water Pipeline,Ermita District,City of Manila,9/21/2025 9:26,11/11/2024 22:52,1158,3769,Fallen Tree Branch,High Wind,Yes
+77,Electric Grid,Ermita District,City of Manila,11/30/2024 14:22,4/2/2024 5:39,360,4461,Lightning,Heavy Rain,Yes
+78,Water Pipeline,Ermita District,City of Manila,12/17/2023 20:31,4/3/2026 1:20,272,8901,Equipment Age,Heatwave,No
+79,Water Pipeline,Ermita District,City of Manila,2/20/2026 0:51,8/7/2025 3:54,1172,3550,Lightning,High Wind,Yes
+80,Water Pipeline,Ermita District,City of Manila,5/13/2022 19:18,2/14/2026 22:38,344,1224,Equipment Age,High Wind,Yes
+81,Electric Grid,North Bay Boulevard,Navotas City,8/5/2023 0:20,12/4/2025 18:01,1167,679,Fallen Tree Branch,Clear,No
+82,Electric Grid,North Bay Boulevard,Navotas City,8/2/2022 9:16,2/6/2022 21:10,650,661,Lightning,Clear,Yes
+83,Water Pipeline,North Bay Boulevard,Navotas City,2/6/2024 23:56,6/12/2024 4:29,893,3058,Pipe Burst,High Wind,No
+84,Water Pipeline,Ermita District,City of Manila,3/6/2022 23:45,10/19/2023 14:48,268,227,Fallen Tree Branch,Clear,No
+85,Electric Grid,Ermita District,City of Manila,4/16/2025 5:23,7/20/2024 14:40,281,5587,Equipment Age,High Wind,No
+86,Electric Grid,Ermita District,City of Manila,1/1/2024 3:16,8/24/2022 14:53,18,8587,Lightning,Heavy Rain,Yes
+87,Water Pipeline,Ermita District,City of Manila,8/18/2024 7:44,12/4/2024 15:44,238,6082,Fallen Tree Branch,Heavy Rain,Yes
+88,Electric Grid,Ermita District,City of Manila,4/19/2024 9:40,12/10/2022 1:49,1054,1542,Pipe Burst,High Wind,Yes
+89,Electric Grid,Ermita District,City of Manila,12/15/2022 10:19,2/14/2025 10:29,4,2964,Equipment Age,Clear,Yes
+90,Electric Grid,North Bay Boulevard,Navotas City,10/14/2026 15:07,11/9/2023 6:40,855,4031,Fallen Tree Branch,Clear,Yes
+91,Electric Grid,North Bay Boulevard,Navotas City,5/30/2022 11:17,12/11/2026 22:50,932,4283,Pipe Burst,High Wind,No
+92,Electric Grid,Ermita District,City of Manila,11/3/2022 8:00,8/22/2025 23:17,1281,446,Fallen Tree Branch,Heatwave,Yes
+93,Electric Grid,North Bay Boulevard,Navotas City,7/31/2024 6:26,10/16/2024 0:56,711,6221,Equipment Age,High Wind,Yes
+94,Electric Grid,North Bay Boulevard,Navotas City,6/20/2025 5:41,4/29/2022 10:44,279,8395,Lightning,Heavy Rain,No
+95,Water Pipeline,North Bay Boulevard,Navotas City,4/4/2024 17:45,9/10/2024 6:10,7,2438,Lightning,Heavy Rain,Yes
+96,Water Pipeline,North Bay Boulevard,Navotas City,1/7/2022 1:09,9/29/2024 0:45,706,561,Equipment Age,Clear,Yes
+97,Electric Grid,North Bay Boulevard,Navotas City,2/6/2022 11:39,12/17/2024 7:05,1205,8745,Fallen Tree Branch,Heavy Rain,No
+98,Electric Grid,North Bay Boulevard,Navotas City,8/22/2022 5:18,6/10/2025 12:18,202,2580,Equipment Age,Heavy Rain,No
+99,Water Pipeline,Ermita District,City of Manila,7/22/2023 14:21,12/1/2026 9:20,1438,2679,Lightning,Clear,Yes
+100,Water Pipeline,North Bay Boulevard,Navotas City,8/5/2024 21:44,4/27/2025 11:18,404,8896,Equipment Age,Clear,Yes
+101,Electric Grid,Ermita District,City of Manila,4/27/2024 15:41,5/21/2025 5:56,91,9518,Equipment Age,Clear,Yes
+102,Electric Grid,Ermita District,City of Manila,11/10/2026 21:01,7/1/2026 2:31,385,4152,Fallen Tree Branch,High Wind,Yes
+103,Water Pipeline,North Bay Boulevard,Navotas City,5/7/2023 11:46,9/1/2023 18:37,1380,6093,Pipe Burst,High Wind,No
+104,Water Pipeline,North Bay Boulevard,Navotas City,1/15/2023 9:07,11/8/2022 22:25,1061,2414,Fallen Tree Branch,Clear,No
+105,Water Pipeline,Ermita District,City of Manila,4/2/2024 15:33,6/9/2026 9:18,83,3037,Equipment Age,Clear,Yes
+106,Water Pipeline,Ermita District,City of Manila,3/16/2024 9:04,2/24/2023 13:16,745,2103,Fallen Tree Branch,High Wind,Yes
+107,Water Pipeline,North Bay Boulevard,Navotas City,11/24/2024 12:53,5/30/2023 10:04,1283,7692,Lightning,High Wind,Yes
+108,Water Pipeline,North Bay Boulevard,Navotas City,10/21/2024 22:53,6/18/2022 15:41,1403,418,Fallen Tree Branch,High Wind,Yes
+109,Water Pipeline,Ermita District,City of Manila,11/25/2025 12:43,2/23/2024 21:06,730,2017,Equipment Age,High Wind,Yes
+110,Water Pipeline,North Bay Boulevard,Navotas City,1/20/2025 22:19,9/11/2024 21:10,893,9905,Fallen Tree Branch,Heavy Rain,No
+111,Electric Grid,Ermita District,City of Manila,12/17/2022 22:49,2/20/2023 19:13,1286,8148,Lightning,High Wind,No
+112,Electric Grid,North Bay Boulevard,Navotas City,12/18/2024 21:09,8/21/2023 2:36,51,3959,Equipment Age,Clear,No
+113,Water Pipeline,North Bay Boulevard,Navotas City,8/5/2023 2:52,11/8/2022 16:43,432,3848,Lightning,Clear,No
+114,Electric Grid,Ermita District,City of Manila,3/31/2025 22:37,5/31/2023 19:27,342,1250,Pipe Burst,Heavy Rain,Yes
+115,Water Pipeline,Ermita District,City of Manila,1/13/2024 5:43,9/26/2026 8:12,233,1133,Lightning,Heatwave,Yes
+116,Electric Grid,Ermita District,City of Manila,4/10/2023 22:55,8/14/2025 0:55,929,2046,Fallen Tree Branch,Clear,Yes
+117,Water Pipeline,North Bay Boulevard,Navotas City,2/23/2023 18:34,9/14/2025 16:10,1008,1282,Pipe Burst,Clear,No
+118,Water Pipeline,Ermita District,City of Manila,3/5/2023 12:46,8/6/2022 22:10,1254,6148,Fallen Tree Branch,Heatwave,No
+119,Water Pipeline,Ermita District,City of Manila,6/29/2026 8:59,5/7/2026 6:42,679,4686,Equipment Age,Heatwave,Yes
+120,Electric Grid,North Bay Boulevard,Navotas City,6/1/2023 1:43,12/11/2026 8:10,1095,3773,Pipe Burst,Heatwave,No
+121,Water Pipeline,North Bay Boulevard,Navotas City,2/18/2023 0:56,10/9/2023 20:04,1281,9382,Equipment Age,Heavy Rain,Yes
+122,Water Pipeline,North Bay Boulevard,Navotas City,1/26/2022 2:19,6/26/2024 1:05,743,1432,Fallen Tree Branch,Heatwave,No
+123,Water Pipeline,Ermita District,City of Manila,6/29/2022 22:43,1/16/2025 0:44,1021,310,Pipe Burst,High Wind,Yes
+124,Electric Grid,North Bay Boulevard,Navotas City,7/2/2025 20:13,8/12/2024 21:44,516,2733,Lightning,Heatwave,No
+125,Water Pipeline,Ermita District,City of Manila,7/8/2024 3:30,1/16/2026 1:41,243,8839,Fallen Tree Branch,Heatwave,Yes
+126,Water Pipeline,Ermita District,City of Manila,12/14/2025 11:44,5/12/2026 6:14,279,2770,Lightning,Heavy Rain,No
+127,Water Pipeline,Ermita District,City of Manila,6/3/2022 21:55,2/5/2026 8:40,1,5696,Lightning,Heavy Rain,No
+128,Water Pipeline,North Bay Boulevard,Navotas City,5/21/2026 14:33,9/17/2025 21:07,272,7151,Fallen Tree Branch,Heatwave,No
+129,Water Pipeline,Ermita District,City of Manila,12/14/2023 20:49,5/8/2024 2:26,659,1948,Lightning,High Wind,Yes
+130,Water Pipeline,Ermita District,City of Manila,12/16/2024 23:11,3/24/2024 7:56,27,2001,Fallen Tree Branch,High Wind,No
+131,Water Pipeline,North Bay Boulevard,Navotas City,2/25/2023 21:59,10/17/2022 14:34,900,596,Fallen Tree Branch,Heavy Rain,Yes
+132,Water Pipeline,North Bay Boulevard,Navotas City,5/16/2023 8:04,9/20/2024 21:25,1218,9004,Fallen Tree Branch,Heavy Rain,No
+133,Electric Grid,North Bay Boulevard,Navotas City,3/30/2023 16:49,12/14/2025 1:05,362,443,Lightning,Clear,No
+134,Electric Grid,Ermita District,City of Manila,1/23/2023 13:22,7/12/2022 22:29,1427,666,Fallen Tree Branch,Heatwave,Yes
+135,Water Pipeline,North Bay Boulevard,Navotas City,1/15/2022 9:52,3/7/2023 3:38,173,2744,Equipment Age,High Wind,No
+136,Electric Grid,Ermita District,City of Manila,11/18/2023 20:02,6/11/2022 7:42,1181,8340,Lightning,High Wind,No
+137,Electric Grid,Ermita District,City of Manila,3/1/2024 22:38,11/2/2023 11:35,556,2883,Pipe Burst,Clear,No
+138,Electric Grid,Ermita District,City of Manila,5/9/2026 4:47,1/7/2025 4:25,209,8355,Equipment Age,Heavy Rain,No
+139,Water Pipeline,North Bay Boulevard,Navotas City,6/26/2022 21:40,8/6/2023 19:55,727,2297,Equipment Age,Heatwave,No
+140,Water Pipeline,Ermita District,City of Manila,12/24/2025 21:37,6/22/2025 0:52,213,2352,Equipment Age,High Wind,Yes
+141,Electric Grid,Ermita District,City of Manila,7/1/2025 19:16,8/22/2022 17:48,1149,9322,Equipment Age,Heavy Rain,Yes
+142,Water Pipeline,Ermita District,City of Manila,12/22/2024 8:05,10/10/2022 18:18,1144,136,Fallen Tree Branch,Heatwave,No
+143,Water Pipeline,Ermita District,City of Manila,2/13/2024 20:42,5/9/2024 22:55,195,5353,Lightning,Heavy Rain,Yes
+144,Electric Grid,Ermita District,City of Manila,12/9/2025 10:50,3/28/2026 11:36,1405,4413,Fallen Tree Branch,High Wind,Yes
+145,Water Pipeline,North Bay Boulevard,Navotas City,1/1/2023 11:27,4/20/2022 5:26,731,5909,Fallen Tree Branch,Clear,No
+146,Water Pipeline,Ermita District,City of Manila,9/22/2024 0:19,2/1/2024 11:36,877,7731,Fallen Tree Branch,Heavy Rain,No
+147,Electric Grid,Ermita District,City of Manila,12/25/2026 22:22,4/28/2024 13:32,1167,8337,Fallen Tree Branch,Heavy Rain,No
+148,Water Pipeline,Ermita District,City of Manila,12/25/2022 2:42,8/31/2026 15:22,1209,3278,Lightning,Heavy Rain,No
+149,Water Pipeline,Ermita District,City of Manila,12/10/2026 7:34,4/1/2025 18:38,1372,8918,Pipe Burst,Heatwave,No
+150,Electric Grid,North Bay Boulevard,Navotas City,1/8/2022 7:27,2/18/2023 9:34,409,214,Pipe Burst,Heavy Rain,No
+151,Water Pipeline,North Bay Boulevard,Navotas City,7/4/2025 16:06,4/2/2023 16:44,320,8337,Equipment Age,Clear,Yes
+152,Electric Grid,Ermita District,City of Manila,1/24/2022 21:34,3/20/2023 20:47,243,621,Fallen Tree Branch,High Wind,No
+153,Water Pipeline,Ermita District,City of Manila,8/8/2022 0:14,4/12/2023 17:02,975,133,Fallen Tree Branch,Clear,Yes
+154,Electric Grid,Ermita District,City of Manila,9/17/2026 11:10,9/4/2026 10:34,1367,7803,Lightning,Heatwave,Yes
+155,Electric Grid,North Bay Boulevard,Navotas City,9/6/2022 6:43,7/25/2026 8:11,581,8913,Fallen Tree Branch,High Wind,Yes
+156,Water Pipeline,North Bay Boulevard,Navotas City,3/21/2026 0:54,11/30/2026 7:11,1175,3483,Lightning,Clear,No
+157,Electric Grid,North Bay Boulevard,Navotas City,2/6/2026 21:02,5/1/2026 14:17,1201,8304,Lightning,Clear,Yes
+158,Electric Grid,Ermita District,City of Manila,1/28/2022 0:07,5/21/2022 7:03,980,600,Fallen Tree Branch,Heatwave,No
+159,Electric Grid,North Bay Boulevard,Navotas City,11/20/2026 15:22,11/23/2024 13:29,1045,1518,Pipe Burst,Clear,No
+160,Electric Grid,North Bay Boulevard,Navotas City,7/3/2023 3:41,10/5/2022 3:54,1316,3556,Equipment Age,Clear,Yes
+161,Water Pipeline,North Bay Boulevard,Navotas City,1/2/2023 1:00,1/2/2025 11:31,1255,6549,Lightning,Heatwave,No
+162,Electric Grid,North Bay Boulevard,Navotas City,3/1/2023 7:52,7/14/2022 9:10,131,5098,Fallen Tree Branch,Heavy Rain,Yes
+163,Water Pipeline,Ermita District,City of Manila,1/19/2026 4:37,7/16/2022 0:19,236,9742,Pipe Burst,High Wind,Yes
+164,Water Pipeline,Ermita District,City of Manila,10/25/2026 17:22,4/25/2022 11:29,68,7536,Pipe Burst,High Wind,Yes
+165,Water Pipeline,North Bay Boulevard,Navotas City,11/20/2026 1:44,3/10/2026 14:01,512,2226,Fallen Tree Branch,Heatwave,No
+166,Electric Grid,Ermita District,City of Manila,11/11/2025 19:29,3/30/2026 3:27,1279,3681,Fallen Tree Branch,Clear,No
+167,Water Pipeline,Ermita District,City of Manila,5/11/2025 7:30,8/25/2026 3:56,1204,393,Equipment Age,Clear,No
+168,Water Pipeline,North Bay Boulevard,Navotas City,6/2/2022 23:53,12/14/2026 5:19,1251,2254,Lightning,Heatwave,Yes
+169,Electric Grid,Ermita District,City of Manila,3/25/2023 17:31,8/21/2025 4:58,1131,1068,Lightning,High Wind,No
+170,Electric Grid,Ermita District,City of Manila,1/4/2023 13:59,6/6/2025 21:58,755,966,Equipment Age,Heavy Rain,Yes
+171,Water Pipeline,Ermita District,City of Manila,8/2/2026 3:39,2/14/2025 9:03,619,5055,Lightning,Heatwave,No
+172,Electric Grid,Ermita District,City of Manila,6/5/2025 9:02,10/6/2024 5:14,432,4618,Equipment Age,Heatwave,Yes
+173,Electric Grid,North Bay Boulevard,Navotas City,4/15/2023 19:48,2/4/2024 13:12,711,9862,Fallen Tree Branch,Clear,No
+174,Electric Grid,Ermita District,City of Manila,4/30/2023 18:16,6/17/2023 20:23,1294,3270,Lightning,Heatwave,No
+175,Electric Grid,North Bay Boulevard,Navotas City,6/18/2022 21:13,4/24/2025 17:41,1062,9482,Equipment Age,Heatwave,Yes
+176,Electric Grid,Ermita District,City of Manila,11/20/2022 21:08,12/17/2025 19:56,1400,5253,Pipe Burst,Clear,Yes
+177,Electric Grid,North Bay Boulevard,Navotas City,9/5/2024 15:06,8/24/2025 1:11,345,8972,Pipe Burst,Heatwave,No
+178,Water Pipeline,Ermita District,City of Manila,5/13/2026 23:28,7/16/2022 19:16,20,890,Fallen Tree Branch,Heavy Rain,No
+179,Electric Grid,North Bay Boulevard,Navotas City,3/17/2023 13:05,8/25/2023 6:46,1131,6644,Pipe Burst,Heavy Rain,Yes
+180,Water Pipeline,North Bay Boulevard,Navotas City,4/6/2025 15:59,11/3/2024 11:27,1287,1353,Equipment Age,Clear,No
+181,Water Pipeline,Ermita District,City of Manila,1/8/2026 5:48,7/26/2026 21:08,1004,4865,Pipe Burst,Heavy Rain,Yes
+182,Water Pipeline,Ermita District,City of Manila,1/11/2022 17:07,2/21/2022 13:45,465,5248,Lightning,High Wind,Yes
+183,Water Pipeline,Ermita District,City of Manila,5/19/2025 12:44,4/7/2023 1:49,352,6690,Equipment Age,Clear,No
+184,Electric Grid,North Bay Boulevard,Navotas City,12/15/2026 18:22,6/20/2022 11:02,315,8842,Equipment Age,Clear,Yes
+185,Electric Grid,North Bay Boulevard,Navotas City,6/23/2026 2:51,12/21/2026 11:06,544,8517,Pipe Burst,Heatwave,No
+186,Water Pipeline,Ermita District,City of Manila,11/25/2026 5:29,8/14/2022 16:04,815,5392,Fallen Tree Branch,High Wind,No
+187,Water Pipeline,Ermita District,City of Manila,12/20/2026 5:54,7/9/2022 21:10,1020,7903,Equipment Age,Heatwave,No
+188,Electric Grid,North Bay Boulevard,Navotas City,4/29/2026 20:39,9/16/2023 3:05,588,9390,Pipe Burst,Heatwave,Yes
+189,Electric Grid,Ermita District,City of Manila,7/16/2024 17:12,10/24/2025 7:03,1133,5088,Fallen Tree Branch,Clear,No
+190,Electric Grid,North Bay Boulevard,Navotas City,5/3/2024 6:24,4/6/2022 0:39,1416,8241,Lightning,Heatwave,No
+191,Electric Grid,North Bay Boulevard,Navotas City,4/25/2024 5:52,11/3/2026 13:06,226,8152,Pipe Burst,Heavy Rain,No
+192,Water Pipeline,North Bay Boulevard,Navotas City,1/18/2026 21:04,5/6/2025 18:30,669,7248,Fallen Tree Branch,High Wind,Yes
+193,Water Pipeline,Ermita District,City of Manila,6/12/2026 8:48,6/26/2023 3:33,346,2183,Lightning,Heatwave,Yes
+194,Water Pipeline,Ermita District,City of Manila,3/14/2026 17:47,3/26/2024 14:26,9,829,Fallen Tree Branch,Heatwave,Yes
+195,Water Pipeline,Ermita District,City of Manila,7/2/2026 21:48,9/1/2025 10:36,306,4828,Pipe Burst,Heavy Rain,Yes
+196,Water Pipeline,North Bay Boulevard,Navotas City,3/19/2026 16:29,1/15/2022 23:26,1125,7159,Lightning,Clear,Yes
+197,Electric Grid,North Bay Boulevard,Navotas City,7/23/2025 7:53,6/11/2024 2:53,1002,1364,Equipment Age,Clear,No
+198,Water Pipeline,North Bay Boulevard,Navotas City,4/22/2023 21:10,7/14/2023 8:13,1225,3851,Pipe Burst,Heatwave,No
+199,Electric Grid,Ermita District,City of Manila,8/30/2025 1:55,4/19/2022 9:51,751,9295,Equipment Age,Clear,No
+200,Water Pipeline,Ermita District,City of Manila,2/25/2024 12:45,11/29/2024 20:34,216,1396,Equipment Age,Clear,No
+201,Electric Grid,Ermita District,City of Manila,6/22/2023 7:52,10/8/2023 14:56,792,9478,Pipe Burst,Heavy Rain,Yes
+202,Water Pipeline,North Bay Boulevard,Navotas City,8/29/2023 12:46,3/8/2024 17:32,290,6311,Fallen Tree Branch,Heatwave,No
+203,Electric Grid,North Bay Boulevard,Navotas City,10/31/2022 16:05,2/2/2026 20:59,412,2078,Fallen Tree Branch,Heavy Rain,Yes
+204,Electric Grid,North Bay Boulevard,Navotas City,11/10/2023 13:11,4/23/2026 0:23,85,4544,Fallen Tree Branch,Heavy Rain,No
+205,Water Pipeline,Ermita District,City of Manila,8/4/2024 14:43,5/17/2025 4:14,298,9710,Fallen Tree Branch,Heatwave,No
+206,Water Pipeline,Ermita District,City of Manila,4/2/2023 0:46,6/22/2023 7:12,249,7028,Lightning,Clear,Yes
+207,Electric Grid,North Bay Boulevard,Navotas City,4/4/2022 22:49,3/20/2024 11:01,885,7388,Fallen Tree Branch,Clear,No
+208,Electric Grid,Ermita District,City of Manila,11/3/2022 1:48,11/18/2026 4:21,584,559,Lightning,Heatwave,Yes
+209,Water Pipeline,North Bay Boulevard,Navotas City,3/25/2023 8:24,8/25/2023 17:50,702,1069,Lightning,Heatwave,Yes
+210,Electric Grid,North Bay Boulevard,Navotas City,3/1/2025 12:29,4/19/2025 21:39,330,7231,Equipment Age,High Wind,Yes
+211,Water Pipeline,North Bay Boulevard,Navotas City,9/12/2026 4:15,3/31/2024 22:48,455,5126,Equipment Age,Heavy Rain,Yes
+212,Water Pipeline,Ermita District,City of Manila,10/11/2024 12:18,11/15/2025 10:49,60,9036,Fallen Tree Branch,High Wind,Yes
+213,Electric Grid,Ermita District,City of Manila,1/1/2023 16:42,12/26/2024 16:35,1264,1363,Equipment Age,High Wind,Yes
+214,Water Pipeline,North Bay Boulevard,Navotas City,4/7/2022 5:11,6/11/2024 2:12,1093,7980,Equipment Age,High Wind,No
+215,Electric Grid,North Bay Boulevard,Navotas City,8/16/2025 15:09,12/11/2024 2:25,1262,9424,Pipe Burst,Heatwave,No
+216,Electric Grid,North Bay Boulevard,Navotas City,11/21/2022 0:00,3/26/2023 3:24,729,2808,Pipe Burst,Heavy Rain,No
+217,Electric Grid,North Bay Boulevard,Navotas City,4/10/2024 7:48,10/23/2024 20:28,177,2482,Lightning,Clear,No
+218,Water Pipeline,Ermita District,City of Manila,12/4/2023 19:35,5/18/2026 19:58,1099,1314,Pipe Burst,Clear,No
+219,Water Pipeline,Ermita District,City of Manila,10/8/2026 18:26,5/8/2024 19:52,228,4541,Equipment Age,Heavy Rain,Yes
+220,Water Pipeline,Ermita District,City of Manila,10/13/2024 1:00,7/1/2026 13:46,1048,8517,Equipment Age,High Wind,Yes
+221,Water Pipeline,North Bay Boulevard,Navotas City,6/15/2026 22:51,3/3/2022 21:50,12,4263,Fallen Tree Branch,High Wind,No
+222,Electric Grid,North Bay Boulevard,Navotas City,9/10/2025 21:28,9/29/2026 13:48,1175,3976,Pipe Burst,High Wind,No
+223,Water Pipeline,Ermita District,City of Manila,2/25/2025 18:23,3/21/2022 5:37,128,9867,Pipe Burst,Clear,No
+224,Water Pipeline,Ermita District,City of Manila,3/9/2024 20:34,8/8/2023 15:35,516,7269,Pipe Burst,Heatwave,No
+225,Water Pipeline,Ermita District,City of Manila,4/29/2023 15:16,10/18/2024 4:21,321,721,Equipment Age,Heavy Rain,Yes
+226,Water Pipeline,Ermita District,City of Manila,7/30/2022 11:06,8/12/2025 21:49,332,7367,Fallen Tree Branch,Heatwave,No
+227,Electric Grid,North Bay Boulevard,Navotas City,12/31/2024 21:26,11/25/2025 9:49,1191,3598,Lightning,High Wind,No
+228,Water Pipeline,North Bay Boulevard,Navotas City,12/12/2024 0:03,3/17/2024 20:11,634,7257,Equipment Age,Heavy Rain,No
+229,Water Pipeline,Ermita District,City of Manila,6/7/2024 9:25,12/11/2023 7:12,1295,1174,Equipment Age,High Wind,No
+230,Water Pipeline,Ermita District,City of Manila,9/29/2023 15:01,10/13/2025 16:08,1190,7701,Fallen Tree Branch,Heatwave,No
+231,Water Pipeline,North Bay Boulevard,Navotas City,5/16/2025 4:28,4/14/2024 1:11,3,1012,Fallen Tree Branch,Heatwave,No
+232,Water Pipeline,North Bay Boulevard,Navotas City,10/17/2025 11:22,4/30/2024 1:00,45,6888,Lightning,High Wind,No
+233,Electric Grid,Ermita District,City of Manila,10/13/2025 17:11,8/8/2022 3:05,143,6838,Equipment Age,Heatwave,No
+234,Electric Grid,Ermita District,City of Manila,2/17/2024 21:43,10/2/2022 18:59,549,9921,Lightning,Heavy Rain,No
+235,Water Pipeline,Ermita District,City of Manila,1/15/2022 14:20,12/3/2022 16:08,207,1654,Fallen Tree Branch,High Wind,No
+236,Water Pipeline,North Bay Boulevard,Navotas City,1/11/2025 2:27,12/6/2024 17:18,1290,7889,Equipment Age,Clear,No
+237,Water Pipeline,Ermita District,City of Manila,7/1/2023 20:30,1/28/2022 1:40,1074,2282,Equipment Age,Heavy Rain,Yes
+238,Water Pipeline,Ermita District,City of Manila,4/4/2026 11:51,12/28/2022 3:57,68,3689,Lightning,Clear,No
+239,Electric Grid,Ermita District,City of Manila,6/29/2026 10:00,10/12/2022 1:58,1057,4386,Fallen Tree Branch,Clear,No
+240,Water Pipeline,North Bay Boulevard,Navotas City,8/19/2022 1:15,12/2/2026 14:57,900,2090,Pipe Burst,Heavy Rain,No
+241,Electric Grid,North Bay Boulevard,Navotas City,9/11/2023 12:38,10/18/2023 7:59,211,9006,Equipment Age,Clear,No
+242,Water Pipeline,North Bay Boulevard,Navotas City,3/12/2025 2:54,12/26/2025 21:06,1364,5337,Equipment Age,Clear,No
+243,Electric Grid,Ermita District,City of Manila,1/22/2024 1:03,12/27/2022 4:15,1213,4104,Fallen Tree Branch,Clear,No
+244,Electric Grid,North Bay Boulevard,Navotas City,1/18/2025 21:44,5/8/2024 0:25,728,5630,Pipe Burst,Clear,Yes
+245,Electric Grid,Ermita District,City of Manila,6/13/2026 3:13,9/30/2024 14:10,1333,4745,Lightning,Heavy Rain,Yes
+246,Water Pipeline,Ermita District,City of Manila,10/9/2025 9:31,2/23/2023 3:54,840,4334,Lightning,High Wind,Yes
+247,Water Pipeline,North Bay Boulevard,Navotas City,5/14/2022 8:28,11/28/2026 8:41,481,7983,Pipe Burst,Heavy Rain,No
+248,Water Pipeline,Ermita District,City of Manila,6/24/2026 16:29,12/6/2025 11:47,1253,6858,Lightning,High Wind,No
+249,Water Pipeline,North Bay Boulevard,Navotas City,4/26/2024 4:55,6/29/2024 17:00,823,1670,Lightning,Heatwave,No
+250,Water Pipeline,North Bay Boulevard,Navotas City,7/30/2026 11:12,11/1/2022 11:43,1264,781,Pipe Burst,Heavy Rain,No
+251,Water Pipeline,North Bay Boulevard,Navotas City,9/10/2024 3:00,12/14/2023 19:02,33,202,Lightning,Clear,Yes
+252,Water Pipeline,Ermita District,City of Manila,10/30/2024 10:59,10/14/2025 20:54,397,1392,Fallen Tree Branch,Clear,No
+253,Water Pipeline,North Bay Boulevard,Navotas City,5/13/2023 7:47,12/11/2026 19:22,872,9169,Fallen Tree Branch,Heatwave,Yes
+254,Water Pipeline,Ermita District,City of Manila,2/23/2023 12:31,3/8/2023 6:44,599,7682,Lightning,Heavy Rain,No
+255,Water Pipeline,Ermita District,City of Manila,5/21/2025 6:44,9/10/2026 14:07,573,8002,Fallen Tree Branch,High Wind,No
+256,Water Pipeline,North Bay Boulevard,Navotas City,3/2/2024 0:46,12/9/2025 0:34,306,4579,Pipe Burst,Heavy Rain,No
+257,Water Pipeline,North Bay Boulevard,Navotas City,1/11/2026 0:38,12/18/2024 16:45,1247,9572,Fallen Tree Branch,Clear,Yes
+258,Electric Grid,North Bay Boulevard,Navotas City,1/24/2023 14:58,4/5/2026 10:44,1081,9660,Lightning,Clear,Yes
+259,Water Pipeline,Ermita District,City of Manila,12/31/2025 21:40,4/12/2024 5:23,987,8173,Fallen Tree Branch,Heatwave,No
+260,Electric Grid,Ermita District,City of Manila,5/11/2023 11:24,9/16/2024 23:33,176,2182,Fallen Tree Branch,Heatwave,Yes
+261,Electric Grid,North Bay Boulevard,Navotas City,5/16/2024 7:37,7/25/2022 12:22,1191,4574,Equipment Age,Heatwave,Yes
+262,Electric Grid,Ermita District,City of Manila,4/1/2022 20:51,6/12/2026 5:30,935,4083,Equipment Age,High Wind,Yes
+263,Electric Grid,North Bay Boulevard,Navotas City,6/29/2026 12:53,6/12/2024 9:00,1021,1870,Fallen Tree Branch,Heatwave,No
+264,Water Pipeline,North Bay Boulevard,Navotas City,11/25/2022 14:08,1/27/2025 10:13,222,8622,Pipe Burst,High Wind,No
+265,Water Pipeline,North Bay Boulevard,Navotas City,12/4/2022 10:02,3/15/2025 2:13,179,9209,Equipment Age,Clear,Yes
+266,Electric Grid,North Bay Boulevard,Navotas City,12/12/2022 4:37,1/10/2023 7:14,1221,1122,Equipment Age,Clear,No
+267,Water Pipeline,North Bay Boulevard,Navotas City,8/30/2024 10:08,8/17/2025 19:05,396,7012,Lightning,Heatwave,No
+268,Electric Grid,Ermita District,City of Manila,5/23/2023 15:49,8/26/2023 9:19,1267,4448,Pipe Burst,Clear,Yes
+269,Water Pipeline,North Bay Boulevard,Navotas City,11/12/2025 12:55,6/26/2025 0:02,859,9440,Fallen Tree Branch,Clear,No
+270,Electric Grid,North Bay Boulevard,Navotas City,9/3/2022 0:26,4/28/2023 17:11,142,7999,Lightning,Heavy Rain,No
+271,Electric Grid,North Bay Boulevard,Navotas City,2/20/2022 4:11,4/19/2025 4:16,911,5557,Equipment Age,Heavy Rain,Yes
+272,Water Pipeline,North Bay Boulevard,Navotas City,10/5/2022 16:00,3/4/2025 20:27,348,7593,Lightning,Heatwave,Yes
+273,Electric Grid,Ermita District,City of Manila,6/4/2022 13:18,10/31/2026 19:41,387,5658,Pipe Burst,Clear,Yes
+274,Electric Grid,Ermita District,City of Manila,9/22/2022 13:35,7/8/2025 3:49,1194,4694,Equipment Age,Heatwave,Yes
+275,Water Pipeline,Ermita District,City of Manila,7/16/2024 14:06,7/5/2026 17:41,1230,3808,Equipment Age,High Wind,No
+276,Electric Grid,Ermita District,City of Manila,5/10/2024 17:50,3/29/2025 21:57,542,2106,Equipment Age,Clear,No
+277,Electric Grid,North Bay Boulevard,Navotas City,5/28/2025 12:29,6/11/2023 4:31,240,3077,Fallen Tree Branch,Heatwave,Yes
+278,Water Pipeline,North Bay Boulevard,Navotas City,11/1/2024 18:16,4/1/2024 21:28,582,7888,Equipment Age,Heavy Rain,Yes
+279,Water Pipeline,North Bay Boulevard,Navotas City,6/20/2026 10:34,9/17/2022 7:53,815,1948,Pipe Burst,Clear,Yes
+280,Water Pipeline,Ermita District,City of Manila,6/28/2025 8:18,1/20/2026 9:39,148,3629,Pipe Burst,Clear,No
+281,Electric Grid,North Bay Boulevard,Navotas City,3/26/2023 20:35,3/25/2022 6:48,1316,4953,Fallen Tree Branch,Heavy Rain,No
+282,Electric Grid,North Bay Boulevard,Navotas City,9/27/2025 9:29,5/5/2022 14:25,734,8195,Fallen Tree Branch,Heavy Rain,Yes
+283,Water Pipeline,North Bay Boulevard,Navotas City,5/9/2025 20:38,3/22/2022 1:13,627,1224,Fallen Tree Branch,Heavy Rain,Yes
+284,Water Pipeline,Ermita District,City of Manila,1/29/2024 12:28,12/1/2022 23:51,135,4230,Lightning,Clear,Yes
+285,Water Pipeline,Ermita District,City of Manila,7/2/2026 6:43,2/28/2022 15:24,402,2232,Lightning,Heavy Rain,Yes
+286,Electric Grid,North Bay Boulevard,Navotas City,6/23/2022 12:59,6/22/2022 18:01,1217,5356,Fallen Tree Branch,Heatwave,Yes
+287,Water Pipeline,Ermita District,City of Manila,5/15/2024 15:58,10/4/2022 8:57,812,5128,Pipe Burst,Heatwave,Yes
+288,Water Pipeline,Ermita District,City of Manila,1/13/2026 19:03,11/27/2022 10:32,272,3128,Pipe Burst,High Wind,No
+289,Water Pipeline,North Bay Boulevard,Navotas City,3/6/2026 6:07,5/17/2023 9:48,101,3798,Lightning,Heavy Rain,No
+290,Water Pipeline,Ermita District,City of Manila,9/25/2024 18:59,10/8/2023 2:17,199,5327,Equipment Age,Heatwave,Yes
+291,Water Pipeline,North Bay Boulevard,Navotas City,5/26/2025 5:52,12/22/2024 14:28,207,8138,Lightning,Heavy Rain,Yes
+292,Electric Grid,North Bay Boulevard,Navotas City,3/16/2026 20:17,12/20/2022 19:46,570,8597,Equipment Age,Heavy Rain,Yes
+293,Electric Grid,Ermita District,City of Manila,11/5/2025 20:45,11/3/2025 3:34,745,2588,Pipe Burst,Clear,No
+294,Water Pipeline,North Bay Boulevard,Navotas City,6/30/2022 0:34,8/3/2026 16:26,613,5697,Lightning,High Wind,No
+295,Water Pipeline,Ermita District,City of Manila,10/23/2023 14:31,6/11/2023 8:20,1118,8426,Fallen Tree Branch,Heavy Rain,No
+296,Electric Grid,Ermita District,City of Manila,11/20/2025 21:16,5/5/2022 3:53,1015,4146,Fallen Tree Branch,Heavy Rain,Yes
+297,Electric Grid,North Bay Boulevard,Navotas City,4/8/2023 4:30,5/22/2024 11:14,160,3741,Pipe Burst,Heavy Rain,Yes
+298,Electric Grid,Ermita District,City of Manila,12/12/2024 7:58,3/21/2024 18:59,528,1188,Fallen Tree Branch,High Wind,No
+299,Electric Grid,Ermita District,City of Manila,4/10/2024 7:30,10/29/2023 17:45,1181,4868,Pipe Burst,Clear,Yes
+300,Electric Grid,Ermita District,City of Manila,1/4/2023 5:58,9/2/2024 8:38,714,2724,Fallen Tree Branch,Clear,No
+301,Electric Grid,Ermita District,City of Manila,12/1/2023 17:32,10/12/2026 1:11,1156,6996,Equipment Age,Heavy Rain,No
+302,Electric Grid,Ermita District,City of Manila,3/21/2023 18:41,4/3/2025 15:09,1061,2474,Pipe Burst,High Wind,Yes
+303,Electric Grid,Ermita District,City of Manila,4/17/2023 16:34,11/10/2024 6:03,426,9154,Lightning,Heavy Rain,Yes
+304,Water Pipeline,North Bay Boulevard,Navotas City,1/26/2024 6:03,12/18/2022 7:04,1038,3615,Pipe Burst,Heatwave,No
+305,Water Pipeline,North Bay Boulevard,Navotas City,2/5/2026 15:38,7/8/2022 11:47,1049,6282,Fallen Tree Branch,Heavy Rain,Yes
+306,Electric Grid,Ermita District,City of Manila,11/2/2022 20:40,12/2/2022 20:56,570,6544,Equipment Age,Heatwave,No
+307,Electric Grid,North Bay Boulevard,Navotas City,4/24/2022 22:17,7/8/2023 16:06,1191,8506,Pipe Burst,High Wind,Yes
+308,Electric Grid,Ermita District,City of Manila,4/28/2026 13:30,3/16/2024 6:47,519,67,Lightning,Clear,No
+309,Water Pipeline,Ermita District,City of Manila,1/12/2025 11:19,2/21/2022 13:49,822,4917,Equipment Age,High Wind,Yes
+310,Water Pipeline,North Bay Boulevard,Navotas City,9/28/2025 5:36,9/20/2022 0:33,1110,4452,Lightning,Clear,Yes
+311,Water Pipeline,North Bay Boulevard,Navotas City,1/3/2024 5:58,12/16/2025 7:33,1333,8006,Equipment Age,Clear,Yes
+312,Water Pipeline,Ermita District,City of Manila,7/26/2025 17:13,11/9/2024 14:59,294,6840,Lightning,High Wind,No
+313,Electric Grid,North Bay Boulevard,Navotas City,7/13/2026 0:27,3/1/2022 5:03,660,7916,Lightning,Heatwave,No
+314,Water Pipeline,North Bay Boulevard,Navotas City,12/7/2026 0:19,3/14/2026 21:47,874,7639,Lightning,Clear,Yes
+315,Water Pipeline,North Bay Boulevard,Navotas City,7/3/2022 10:46,10/23/2022 14:00,1412,5000,Fallen Tree Branch,Clear,Yes
+316,Electric Grid,Ermita District,City of Manila,3/25/2023 19:34,7/15/2025 23:14,711,7362,Fallen Tree Branch,Clear,No
+317,Water Pipeline,North Bay Boulevard,Navotas City,7/7/2025 6:23,3/1/2025 14:39,656,1581,Fallen Tree Branch,High Wind,No
+318,Electric Grid,North Bay Boulevard,Navotas City,6/26/2023 19:08,6/23/2022 14:57,531,2119,Lightning,High Wind,No
+319,Water Pipeline,Ermita District,City of Manila,5/26/2023 10:54,9/9/2026 22:31,793,8932,Lightning,Heatwave,No
+320,Water Pipeline,Ermita District,City of Manila,5/26/2024 13:18,12/11/2022 2:21,679,3773,Lightning,Clear,No
+321,Electric Grid,Ermita District,City of Manila,12/4/2022 12:25,3/15/2022 2:32,506,4447,Fallen Tree Branch,Clear,Yes
+322,Water Pipeline,North Bay Boulevard,Navotas City,9/28/2025 13:15,12/5/2025 13:17,173,6091,Equipment Age,Heavy Rain,Yes
+323,Electric Grid,North Bay Boulevard,Navotas City,10/7/2022 19:14,5/7/2024 10:21,1388,3798,Equipment Age,Heavy Rain,Yes
+324,Water Pipeline,North Bay Boulevard,Navotas City,2/9/2024 6:56,7/6/2023 5:53,1226,3487,Lightning,Heatwave,No
+325,Electric Grid,North Bay Boulevard,Navotas City,11/21/2024 21:14,7/15/2022 20:04,1272,8719,Lightning,Clear,Yes
+326,Water Pipeline,Ermita District,City of Manila,7/23/2026 12:08,12/27/2026 1:36,1097,2540,Equipment Age,High Wind,Yes
+327,Water Pipeline,North Bay Boulevard,Navotas City,12/15/2024 8:59,2/25/2023 2:56,257,5297,Equipment Age,High Wind,Yes
+328,Water Pipeline,North Bay Boulevard,Navotas City,3/8/2024 6:22,1/27/2023 13:12,1217,1576,Lightning,Clear,Yes
+329,Water Pipeline,Ermita District,City of Manila,7/20/2026 7:04,8/11/2024 3:48,422,8657,Fallen Tree Branch,Heavy Rain,Yes
+330,Water Pipeline,Ermita District,City of Manila,12/2/2023 5:00,11/17/2022 6:28,811,1210,Pipe Burst,Clear,No
+331,Electric Grid,North Bay Boulevard,Navotas City,5/27/2023 10:03,3/20/2026 22:16,477,2080,Equipment Age,Heavy Rain,No
+332,Water Pipeline,Ermita District,City of Manila,3/20/2023 7:42,2/14/2025 4:14,909,8492,Equipment Age,Heatwave,Yes
+333,Water Pipeline,North Bay Boulevard,Navotas City,10/9/2023 1:45,7/23/2023 4:58,826,337,Lightning,Heavy Rain,Yes
+334,Electric Grid,North Bay Boulevard,Navotas City,8/11/2024 20:07,8/21/2026 7:07,623,4128,Equipment Age,Clear,No
+335,Electric Grid,North Bay Boulevard,Navotas City,3/8/2022 1:02,12/18/2025 20:15,863,5761,Lightning,Heavy Rain,No
+336,Water Pipeline,Ermita District,City of Manila,11/24/2025 23:38,5/13/2026 16:20,1195,4399,Fallen Tree Branch,Clear,Yes
+337,Electric Grid,North Bay Boulevard,Navotas City,11/26/2025 15:54,7/19/2024 19:08,20,3625,Fallen Tree Branch,Clear,Yes
+338,Water Pipeline,North Bay Boulevard,Navotas City,12/15/2026 3:15,1/3/2026 13:57,712,1611,Pipe Burst,Heavy Rain,Yes
+339,Electric Grid,Ermita District,City of Manila,11/3/2025 10:49,8/19/2024 5:51,1297,7282,Fallen Tree Branch,Heavy Rain,Yes
+340,Water Pipeline,North Bay Boulevard,Navotas City,2/17/2026 9:37,7/14/2025 13:46,363,4092,Equipment Age,High Wind,No
+341,Water Pipeline,North Bay Boulevard,Navotas City,4/28/2025 14:01,10/25/2025 6:13,427,2038,Equipment Age,High Wind,Yes
+342,Electric Grid,North Bay Boulevard,Navotas City,1/20/2024 13:43,6/19/2023 22:33,441,8914,Pipe Burst,Heavy Rain,Yes
+343,Water Pipeline,Ermita District,City of Manila,10/3/2024 21:47,1/30/2023 6:20,1344,410,Lightning,Clear,Yes
+344,Water Pipeline,Ermita District,City of Manila,2/17/2023 11:10,9/17/2024 21:14,533,5597,Fallen Tree Branch,Clear,Yes
+345,Electric Grid,North Bay Boulevard,Navotas City,8/12/2022 17:57,10/1/2023 9:32,222,7790,Lightning,Clear,Yes
+346,Electric Grid,North Bay Boulevard,Navotas City,3/29/2023 1:50,2/21/2025 12:04,1404,806,Equipment Age,High Wind,No
+347,Water Pipeline,North Bay Boulevard,Navotas City,7/29/2024 18:25,6/29/2022 18:30,1031,7039,Fallen Tree Branch,Heavy Rain,No
+348,Electric Grid,Ermita District,City of Manila,1/17/2026 10:54,9/11/2025 15:56,1263,6934,Fallen Tree Branch,Heavy Rain,No
+349,Electric Grid,Ermita District,City of Manila,4/9/2024 6:30,3/12/2023 5:56,563,3857,Lightning,Heavy Rain,No
+350,Water Pipeline,North Bay Boulevard,Navotas City,11/20/2023 8:11,10/27/2023 15:20,1061,5561,Lightning,Clear,No
+351,Electric Grid,North Bay Boulevard,Navotas City,2/1/2023 11:42,8/15/2025 12:11,716,516,Lightning,Clear,No
+352,Water Pipeline,North Bay Boulevard,Navotas City,12/29/2026 4:14,4/3/2024 10:31,121,3258,Pipe Burst,Heavy Rain,No
+353,Water Pipeline,Ermita District,City of Manila,9/3/2024 10:24,10/10/2026 11:11,1156,3318,Equipment Age,Heavy Rain,Yes
+354,Electric Grid,North Bay Boulevard,Navotas City,7/9/2025 7:50,6/13/2024 2:45,780,7603,Lightning,Heavy Rain,No
+355,Water Pipeline,North Bay Boulevard,Navotas City,4/21/2025 16:56,1/5/2022 6:08,792,6308,Pipe Burst,Heavy Rain,Yes
+356,Electric Grid,North Bay Boulevard,Navotas City,6/11/2022 10:10,8/29/2022 5:24,139,879,Fallen Tree Branch,Heavy Rain,No
+357,Electric Grid,North Bay Boulevard,Navotas City,1/10/2025 21:48,11/15/2026 16:00,504,2872,Lightning,High Wind,Yes
+358,Electric Grid,Ermita District,City of Manila,11/21/2025 22:17,5/15/2024 15:40,1151,7847,Equipment Age,Heavy Rain,No
+359,Electric Grid,North Bay Boulevard,Navotas City,3/20/2023 21:45,8/8/2024 21:28,967,6174,Pipe Burst,Heatwave,Yes
+360,Electric Grid,Ermita District,City of Manila,7/12/2023 16:56,2/13/2026 16:24,272,5841,Lightning,Clear,No
+361,Electric Grid,Ermita District,City of Manila,8/12/2026 23:19,5/12/2023 21:09,169,7286,Pipe Burst,Heatwave,Yes
+362,Water Pipeline,North Bay Boulevard,Navotas City,3/5/2022 23:19,4/7/2026 10:59,212,5164,Equipment Age,Clear,Yes
+363,Water Pipeline,Ermita District,City of Manila,7/9/2025 6:38,5/1/2024 13:53,991,1553,Fallen Tree Branch,Clear,No
+364,Water Pipeline,Ermita District,City of Manila,4/17/2025 21:02,4/30/2023 22:58,1261,6481,Lightning,Heatwave,No
+365,Water Pipeline,North Bay Boulevard,Navotas City,4/27/2024 0:54,11/23/2026 12:41,286,5434,Equipment Age,Clear,No
+366,Water Pipeline,North Bay Boulevard,Navotas City,1/5/2022 11:01,9/16/2022 6:57,928,5309,Fallen Tree Branch,Heatwave,Yes
+367,Electric Grid,Ermita District,City of Manila,2/10/2025 4:30,7/17/2022 11:12,1068,9751,Equipment Age,Heatwave,No
+368,Water Pipeline,North Bay Boulevard,Navotas City,3/7/2025 19:21,8/26/2025 10:41,1284,5655,Pipe Burst,Clear,Yes
+369,Electric Grid,North Bay Boulevard,Navotas City,12/27/2024 13:52,1/23/2023 16:14,832,1710,Fallen Tree Branch,Heavy Rain,Yes
+370,Water Pipeline,Ermita District,City of Manila,5/28/2026 13:22,3/2/2026 18:50,227,4083,Lightning,Clear,No
+371,Electric Grid,North Bay Boulevard,Navotas City,3/20/2026 1:33,2/28/2025 11:12,234,619,Lightning,Clear,No
+372,Electric Grid,Ermita District,City of Manila,12/28/2025 3:28,1/12/2024 20:15,35,2909,Fallen Tree Branch,Clear,No
+373,Water Pipeline,North Bay Boulevard,Navotas City,11/27/2024 5:20,6/27/2023 21:40,73,9072,Lightning,Heatwave,Yes
+374,Water Pipeline,North Bay Boulevard,Navotas City,3/20/2026 23:43,9/22/2025 19:43,1291,2942,Lightning,Heavy Rain,No
+375,Electric Grid,North Bay Boulevard,Navotas City,12/21/2022 2:55,4/10/2024 0:28,995,8016,Fallen Tree Branch,Heatwave,Yes
+376,Water Pipeline,Ermita District,City of Manila,3/8/2026 12:34,11/22/2026 9:55,1224,7972,Lightning,High Wind,No
+377,Water Pipeline,Ermita District,City of Manila,11/7/2023 22:09,5/19/2023 16:03,917,2241,Equipment Age,Clear,Yes
+378,Electric Grid,North Bay Boulevard,Navotas City,2/22/2025 4:49,2/10/2024 2:11,1029,8223,Lightning,Heavy Rain,No
+379,Electric Grid,North Bay Boulevard,Navotas City,4/19/2026 13:56,8/2/2024 9:20,1406,453,Equipment Age,Heatwave,Yes
+380,Electric Grid,Ermita District,City of Manila,2/12/2026 9:51,8/9/2026 13:41,68,379,Pipe Burst,High Wind,Yes
+381,Water Pipeline,North Bay Boulevard,Navotas City,11/3/2022 19:15,4/25/2022 5:14,1015,6952,Equipment Age,Clear,Yes
+382,Electric Grid,North Bay Boulevard,Navotas City,9/21/2026 20:32,9/13/2022 0:52,729,763,Lightning,Heatwave,No
+383,Water Pipeline,Ermita District,City of Manila,4/3/2023 17:42,11/25/2022 14:57,396,7401,Lightning,Heatwave,No
+384,Water Pipeline,North Bay Boulevard,Navotas City,10/31/2022 21:58,10/20/2025 2:13,493,4986,Pipe Burst,High Wind,No
+385,Electric Grid,Ermita District,City of Manila,11/25/2022 19:03,6/9/2025 20:41,228,4541,Lightning,Clear,Yes
+386,Electric Grid,Ermita District,City of Manila,1/20/2025 15:37,10/13/2026 21:54,243,2144,Lightning,Clear,No
+387,Water Pipeline,North Bay Boulevard,Navotas City,1/3/2023 5:38,9/22/2024 2:29,257,9948,Fallen Tree Branch,Heatwave,Yes
+388,Water Pipeline,North Bay Boulevard,Navotas City,1/14/2026 23:58,10/6/2026 10:43,304,1168,Equipment Age,Heatwave,No
+389,Water Pipeline,North Bay Boulevard,Navotas City,7/5/2025 11:49,4/18/2025 5:50,1374,7685,Lightning,Clear,Yes
+390,Water Pipeline,North Bay Boulevard,Navotas City,4/20/2024 4:14,1/1/2023 12:45,998,268,Equipment Age,Heatwave,Yes
+391,Electric Grid,North Bay Boulevard,Navotas City,9/13/2026 0:52,5/3/2025 3:26,748,2587,Equipment Age,High Wind,No
+392,Electric Grid,North Bay Boulevard,Navotas City,6/19/2022 14:58,9/19/2026 3:42,1341,1203,Lightning,Heavy Rain,Yes
+393,Electric Grid,Ermita District,City of Manila,5/16/2023 4:30,10/12/2025 15:54,1380,8626,Fallen Tree Branch,High Wind,Yes
+394,Water Pipeline,Ermita District,City of Manila,10/16/2022 8:55,1/16/2023 13:17,208,4621,Pipe Burst,Heavy Rain,No
+395,Water Pipeline,North Bay Boulevard,Navotas City,4/23/2026 20:43,2/8/2024 13:43,850,9402,Fallen Tree Branch,Clear,Yes
+396,Electric Grid,North Bay Boulevard,Navotas City,1/19/2025 13:16,2/12/2025 7:39,854,5816,Pipe Burst,High Wind,No
+397,Water Pipeline,Ermita District,City of Manila,12/10/2025 3:24,2/25/2025 7:30,778,1544,Fallen Tree Branch,Heatwave,No
+398,Water Pipeline,North Bay Boulevard,Navotas City,3/25/2023 18:35,3/5/2023 17:52,878,4850,Equipment Age,Clear,Yes
+399,Water Pipeline,North Bay Boulevard,Navotas City,4/15/2025 17:49,10/31/2026 7:44,1342,9443,Pipe Burst,Clear,Yes
+400,Water Pipeline,North Bay Boulevard,Navotas City,9/29/2023 21:11,7/22/2024 11:02,68,8978,Fallen Tree Branch,Heatwave,Yes
+401,Water Pipeline,Ermita District,City of Manila,3/20/2026 12:44,5/3/2022 7:40,605,8339,Lightning,Heavy Rain,No
+402,Water Pipeline,Ermita District,City of Manila,6/26/2026 14:18,12/1/2022 2:20,101,1891,Pipe Burst,Heatwave,No
+403,Water Pipeline,Ermita District,City of Manila,12/19/2023 21:32,1/22/2025 10:39,106,5532,Fallen Tree Branch,Heavy Rain,Yes
+404,Electric Grid,North Bay Boulevard,Navotas City,12/19/2023 22:42,11/11/2023 14:56,990,6645,Lightning,Clear,Yes
+405,Electric Grid,Ermita District,City of Manila,1/19/2024 15:07,8/8/2024 19:52,311,2043,Equipment Age,High Wind,No
+406,Electric Grid,Ermita District,City of Manila,5/1/2022 6:13,4/11/2022 2:03,149,1736,Lightning,Clear,Yes
+407,Water Pipeline,Ermita District,City of Manila,3/22/2022 5:10,9/5/2026 23:51,309,4087,Fallen Tree Branch,High Wind,Yes
+408,Water Pipeline,North Bay Boulevard,Navotas City,12/7/2025 3:03,2/15/2025 20:14,58,5142,Fallen Tree Branch,Clear,Yes
+409,Water Pipeline,Ermita District,City of Manila,10/31/2026 3:33,12/24/2023 22:24,841,1495,Equipment Age,Heavy Rain,No
+410,Electric Grid,North Bay Boulevard,Navotas City,12/4/2022 3:24,11/2/2026 0:11,927,5478,Fallen Tree Branch,High Wind,Yes
+411,Water Pipeline,North Bay Boulevard,Navotas City,9/20/2023 4:48,9/16/2022 22:32,860,8127,Fallen Tree Branch,Heavy Rain,No
+412,Electric Grid,North Bay Boulevard,Navotas City,5/25/2024 7:31,5/19/2023 10:19,873,1874,Fallen Tree Branch,Clear,No
+413,Electric Grid,North Bay Boulevard,Navotas City,1/13/2026 7:34,11/25/2023 1:03,1048,7543,Lightning,High Wind,No
+414,Water Pipeline,North Bay Boulevard,Navotas City,4/17/2023 10:04,3/26/2024 11:58,1038,5902,Fallen Tree Branch,Clear,Yes
+415,Water Pipeline,North Bay Boulevard,Navotas City,5/7/2026 0:52,5/31/2022 12:25,1424,2002,Fallen Tree Branch,High Wind,Yes
+416,Water Pipeline,North Bay Boulevard,Navotas City,8/6/2024 15:09,6/6/2024 12:53,72,7611,Fallen Tree Branch,High Wind,Yes
+417,Water Pipeline,North Bay Boulevard,Navotas City,3/20/2026 13:54,1/23/2026 22:09,1237,5364,Equipment Age,Clear,No
+418,Electric Grid,Ermita District,City of Manila,2/7/2024 16:22,2/22/2023 0:24,127,2574,Equipment Age,Heatwave,Yes
+419,Electric Grid,Ermita District,City of Manila,8/19/2026 11:31,11/12/2025 14:36,1020,8215,Equipment Age,High Wind,No
+420,Electric Grid,Ermita District,City of Manila,7/17/2023 10:51,1/28/2024 8:00,310,876,Lightning,Heavy Rain,No
+421,Water Pipeline,North Bay Boulevard,Navotas City,12/13/2026 9:59,6/28/2022 3:19,150,5432,Pipe Burst,High Wind,Yes
+422,Water Pipeline,Ermita District,City of Manila,6/7/2022 19:45,5/16/2024 2:37,1339,6565,Fallen Tree Branch,High Wind,Yes
+423,Water Pipeline,Ermita District,City of Manila,3/12/2023 22:47,12/27/2022 20:16,562,2898,Fallen Tree Branch,Heatwave,No
+424,Water Pipeline,Ermita District,City of Manila,4/24/2024 15:45,2/17/2025 3:15,106,1237,Fallen Tree Branch,High Wind,Yes
+425,Electric Grid,Ermita District,City of Manila,3/4/2026 18:50,1/9/2022 23:49,542,8570,Lightning,Heatwave,Yes
+426,Electric Grid,North Bay Boulevard,Navotas City,6/22/2023 1:00,10/21/2024 15:07,972,8197,Equipment Age,Heatwave,No
+427,Water Pipeline,North Bay Boulevard,Navotas City,12/26/2022 13:13,8/9/2023 10:30,906,9162,Lightning,Heatwave,No
+428,Water Pipeline,North Bay Boulevard,Navotas City,3/6/2024 5:14,4/6/2025 16:33,880,2058,Equipment Age,Heavy Rain,No
+429,Water Pipeline,North Bay Boulevard,Navotas City,4/22/2026 7:40,10/7/2026 1:10,720,6726,Lightning,Heavy Rain,No
+430,Water Pipeline,Ermita District,City of Manila,4/4/2026 4:07,6/30/2024 0:14,567,6,Pipe Burst,High Wind,Yes
+431,Water Pipeline,North Bay Boulevard,Navotas City,5/15/2024 15:19,11/21/2024 14:52,897,121,Equipment Age,Heatwave,Yes
+432,Water Pipeline,North Bay Boulevard,Navotas City,10/18/2024 0:29,2/8/2022 20:49,361,6334,Fallen Tree Branch,Clear,No
+433,Electric Grid,North Bay Boulevard,Navotas City,9/22/2023 3:15,7/15/2022 6:56,1273,3105,Lightning,Clear,No
+434,Electric Grid,North Bay Boulevard,Navotas City,12/28/2022 15:23,6/12/2023 2:44,453,2690,Pipe Burst,Clear,Yes
+435,Electric Grid,Ermita District,City of Manila,6/23/2026 7:25,1/13/2022 17:47,1215,1792,Equipment Age,High Wind,No
+436,Water Pipeline,North Bay Boulevard,Navotas City,10/2/2025 2:34,9/19/2026 18:13,1256,3663,Equipment Age,High Wind,No
+437,Electric Grid,Ermita District,City of Manila,2/3/2022 12:20,1/14/2025 7:50,298,6412,Fallen Tree Branch,High Wind,Yes
+438,Water Pipeline,Ermita District,City of Manila,6/15/2026 11:21,8/23/2024 14:41,1037,2874,Lightning,Heatwave,No
+439,Water Pipeline,North Bay Boulevard,Navotas City,9/23/2023 5:27,1/27/2023 19:45,578,3829,Fallen Tree Branch,Heavy Rain,Yes
+440,Water Pipeline,North Bay Boulevard,Navotas City,4/26/2023 9:09,6/6/2024 16:22,1331,6760,Equipment Age,Heatwave,No
+441,Electric Grid,North Bay Boulevard,Navotas City,3/3/2026 12:15,4/14/2023 7:17,271,597,Pipe Burst,Clear,No
+442,Electric Grid,North Bay Boulevard,Navotas City,6/30/2025 13:23,5/6/2025 11:45,1301,1822,Pipe Burst,Clear,Yes
+443,Electric Grid,Ermita District,City of Manila,8/16/2024 0:57,12/9/2022 4:33,698,1548,Pipe Burst,Clear,No
+444,Electric Grid,Ermita District,City of Manila,4/23/2026 13:51,6/22/2025 19:54,335,9457,Equipment Age,High Wind,No
+445,Electric Grid,Ermita District,City of Manila,8/19/2026 15:32,6/21/2025 13:52,595,7756,Pipe Burst,Clear,Yes
+446,Water Pipeline,Ermita District,City of Manila,7/5/2023 7:36,4/22/2026 18:20,580,8774,Lightning,High Wind,No
+447,Water Pipeline,Ermita District,City of Manila,6/16/2023 3:05,2/24/2026 10:59,465,2565,Lightning,Heatwave,No
+448,Water Pipeline,North Bay Boulevard,Navotas City,9/4/2024 1:04,10/15/2022 16:26,633,1651,Equipment Age,High Wind,No
+449,Electric Grid,North Bay Boulevard,Navotas City,2/24/2024 12:14,11/19/2024 9:26,263,7425,Equipment Age,Heavy Rain,No
+450,Electric Grid,North Bay Boulevard,Navotas City,6/24/2024 11:46,5/4/2025 14:26,1434,8065,Lightning,Clear,Yes
+451,Water Pipeline,North Bay Boulevard,Navotas City,10/28/2022 9:19,5/28/2023 5:13,554,1599,Fallen Tree Branch,Heatwave,Yes
+452,Electric Grid,Ermita District,City of Manila,3/30/2024 23:20,10/11/2025 13:03,178,439,Equipment Age,High Wind,Yes
+453,Water Pipeline,North Bay Boulevard,Navotas City,12/27/2023 0:21,9/5/2024 10:25,1011,5882,Equipment Age,Heavy Rain,No
+454,Water Pipeline,North Bay Boulevard,Navotas City,3/26/2023 16:55,3/5/2026 2:06,1080,9484,Equipment Age,Clear,Yes
+455,Water Pipeline,North Bay Boulevard,Navotas City,4/21/2022 6:37,1/2/2023 23:07,930,351,Pipe Burst,Heatwave,Yes
+456,Electric Grid,Ermita District,City of Manila,9/25/2025 19:50,1/25/2022 18:48,455,8880,Lightning,High Wind,Yes
+457,Water Pipeline,Ermita District,City of Manila,4/6/2023 6:48,9/28/2024 6:00,12,1095,Pipe Burst,High Wind,Yes
+458,Water Pipeline,North Bay Boulevard,Navotas City,5/19/2025 11:14,5/14/2025 9:38,103,2618,Lightning,High Wind,Yes
+459,Water Pipeline,North Bay Boulevard,Navotas City,3/15/2024 22:45,5/25/2025 22:42,1009,9087,Fallen Tree Branch,High Wind,Yes
+460,Water Pipeline,Ermita District,City of Manila,1/11/2025 19:57,1/1/2023 22:00,265,2928,Equipment Age,Clear,Yes
+461,Water Pipeline,Ermita District,City of Manila,4/17/2025 8:05,2/28/2025 10:13,378,7001,Equipment Age,Heavy Rain,No
+462,Electric Grid,Ermita District,City of Manila,10/29/2025 22:23,6/30/2024 17:09,1384,6071,Lightning,Heatwave,Yes
+463,Electric Grid,Ermita District,City of Manila,10/28/2025 9:22,5/22/2026 7:05,829,6502,Lightning,Heatwave,No
+464,Water Pipeline,North Bay Boulevard,Navotas City,10/9/2022 10:43,10/6/2024 4:42,178,2842,Equipment Age,Heavy Rain,Yes
+465,Water Pipeline,Ermita District,City of Manila,7/27/2022 3:24,11/17/2024 10:21,716,7045,Pipe Burst,Heavy Rain,Yes
+466,Water Pipeline,Ermita District,City of Manila,7/3/2026 21:45,10/2/2026 4:14,809,8153,Lightning,High Wind,No
+467,Water Pipeline,Ermita District,City of Manila,2/24/2023 16:59,8/21/2022 16:05,178,578,Equipment Age,Heatwave,Yes
+468,Electric Grid,North Bay Boulevard,Navotas City,3/16/2024 21:30,10/2/2024 5:41,113,3501,Fallen Tree Branch,Heavy Rain,No
+469,Water Pipeline,North Bay Boulevard,Navotas City,10/16/2022 3:47,6/8/2022 20:31,320,2890,Lightning,High Wind,No
+470,Electric Grid,Ermita District,City of Manila,10/17/2023 10:29,4/5/2025 2:51,287,333,Lightning,High Wind,Yes
+471,Electric Grid,North Bay Boulevard,Navotas City,1/10/2025 23:46,9/28/2024 7:47,116,6388,Fallen Tree Branch,Heavy Rain,Yes
+472,Water Pipeline,North Bay Boulevard,Navotas City,10/26/2025 17:00,9/29/2022 20:49,1110,5607,Fallen Tree Branch,High Wind,No
+473,Electric Grid,North Bay Boulevard,Navotas City,11/29/2026 3:27,1/23/2026 22:30,289,5387,Pipe Burst,High Wind,No
+474,Water Pipeline,North Bay Boulevard,Navotas City,9/10/2025 6:27,8/27/2023 13:53,1210,5822,Equipment Age,Heavy Rain,Yes
+475,Water Pipeline,Ermita District,City of Manila,1/28/2024 21:35,10/7/2024 17:32,99,9391,Fallen Tree Branch,Heatwave,Yes
+476,Water Pipeline,Ermita District,City of Manila,3/12/2024 14:00,2/11/2025 22:42,1092,3188,Pipe Burst,Heavy Rain,Yes
+477,Electric Grid,Ermita District,City of Manila,10/16/2024 1:18,11/8/2024 16:00,774,331,Pipe Burst,Heavy Rain,No
+478,Water Pipeline,Ermita District,City of Manila,1/22/2024 0:00,1/11/2026 11:35,540,2056,Fallen Tree Branch,Clear,Yes
+479,Water Pipeline,North Bay Boulevard,Navotas City,3/30/2023 10:06,8/30/2022 15:45,926,7404,Pipe Burst,Heavy Rain,No
+480,Electric Grid,North Bay Boulevard,Navotas City,6/27/2026 2:01,2/17/2025 4:05,1146,6346,Equipment Age,Clear,No
+481,Electric Grid,Ermita District,City of Manila,6/28/2023 12:54,12/30/2023 21:25,838,8918,Fallen Tree Branch,High Wind,No
+482,Electric Grid,Ermita District,City of Manila,1/31/2023 4:24,7/23/2022 3:53,909,7938,Lightning,Heatwave,No
+483,Electric Grid,North Bay Boulevard,Navotas City,1/30/2026 9:52,5/15/2022 6:38,1310,1632,Equipment Age,High Wind,Yes
+484,Water Pipeline,Ermita District,City of Manila,3/14/2024 4:22,12/23/2022 23:23,695,9537,Pipe Burst,Heatwave,Yes
+485,Water Pipeline,North Bay Boulevard,Navotas City,9/22/2023 5:17,12/20/2026 3:08,746,824,Fallen Tree Branch,High Wind,No
+486,Water Pipeline,North Bay Boulevard,Navotas City,7/28/2025 20:12,10/3/2024 13:09,1342,4411,Lightning,High Wind,Yes
+487,Electric Grid,Ermita District,City of Manila,6/21/2023 11:27,11/15/2025 3:47,880,7556,Lightning,High Wind,Yes
+488,Electric Grid,North Bay Boulevard,Navotas City,3/24/2023 11:04,6/4/2022 10:08,1131,316,Pipe Burst,High Wind,No
+489,Water Pipeline,Ermita District,City of Manila,4/3/2023 11:12,1/24/2022 10:42,530,2863,Pipe Burst,Heavy Rain,Yes
+490,Electric Grid,North Bay Boulevard,Navotas City,3/11/2024 15:36,1/22/2024 17:09,621,6178,Pipe Burst,Heavy Rain,Yes
+491,Electric Grid,Ermita District,City of Manila,7/1/2022 17:43,8/21/2025 12:45,401,2401,Equipment Age,High Wind,Yes
+492,Electric Grid,Ermita District,City of Manila,12/11/2023 4:43,9/24/2026 0:10,427,9775,Pipe Burst,High Wind,No
+493,Electric Grid,Ermita District,City of Manila,8/15/2026 0:27,8/27/2024 0:52,697,9355,Pipe Burst,Heavy Rain,No
+494,Water Pipeline,Ermita District,City of Manila,5/1/2022 6:43,3/15/2025 10:23,1050,840,Fallen Tree Branch,Clear,No
+495,Water Pipeline,Ermita District,City of Manila,9/22/2023 15:20,2/1/2022 7:01,145,3573,Equipment Age,High Wind,No
+496,Water Pipeline,Ermita District,City of Manila,9/2/2026 2:51,4/14/2024 15:25,730,9942,Equipment Age,Heatwave,Yes
+497,Water Pipeline,North Bay Boulevard,Navotas City,12/19/2022 4:08,5/26/2024 5:37,1245,6412,Pipe Burst,Clear,Yes
+498,Water Pipeline,Ermita District,City of Manila,12/10/2026 15:20,7/15/2022 22:28,263,8860,Fallen Tree Branch,Heatwave,Yes
+499,Electric Grid,North Bay Boulevard,Navotas City,6/29/2024 13:49,11/5/2023 1:05,858,1069,Pipe Burst,High Wind,No
+500,Water Pipeline,Ermita District,City of Manila,3/16/2022 16:27,8/19/2026 8:21,791,5578,Lightning,Heavy Rain,No
+501,Water Pipeline,Ermita District,City of Manila,5/26/2024 7:21,10/15/2023 23:12,190,7341,Pipe Burst,High Wind,Yes
+502,Water Pipeline,Ermita District,City of Manila,10/17/2023 12:33,5/24/2026 21:19,1077,6411,Lightning,High Wind,Yes
+503,Electric Grid,North Bay Boulevard,Navotas City,1/17/2022 6:30,3/12/2022 11:34,610,3622,Lightning,Clear,No
+504,Electric Grid,Ermita District,City of Manila,3/27/2022 2:46,12/27/2026 7:47,123,9241,Equipment Age,Heatwave,No
+505,Water Pipeline,North Bay Boulevard,Navotas City,3/19/2025 23:29,8/17/2024 18:29,736,6726,Equipment Age,High Wind,Yes
+506,Water Pipeline,Ermita District,City of Manila,3/18/2025 11:21,6/4/2025 13:58,89,5054,Equipment Age,Clear,Yes
+507,Water Pipeline,North Bay Boulevard,Navotas City,4/19/2024 9:45,6/18/2024 8:40,550,7008,Pipe Burst,High Wind,Yes
+508,Water Pipeline,North Bay Boulevard,Navotas City,2/24/2026 2:27,6/22/2024 13:37,1065,4967,Lightning,Heavy Rain,No
+509,Water Pipeline,North Bay Boulevard,Navotas City,10/4/2024 11:51,4/20/2023 1:04,712,7758,Pipe Burst,Clear,No
+510,Electric Grid,North Bay Boulevard,Navotas City,11/30/2024 11:58,10/12/2022 12:52,302,9733,Pipe Burst,High Wind,No
+511,Water Pipeline,North Bay Boulevard,Navotas City,11/25/2024 20:52,7/6/2022 22:57,477,6992,Lightning,Heatwave,No
+512,Water Pipeline,North Bay Boulevard,Navotas City,10/5/2025 2:25,1/22/2023 1:56,96,8080,Fallen Tree Branch,Heavy Rain,No
+513,Water Pipeline,Ermita District,City of Manila,9/1/2025 12:57,3/14/2025 18:39,903,2072,Equipment Age,Heavy Rain,Yes
+514,Water Pipeline,North Bay Boulevard,Navotas City,12/25/2022 5:50,1/30/2024 0:43,367,9866,Lightning,Heavy Rain,Yes
+515,Water Pipeline,North Bay Boulevard,Navotas City,11/17/2025 9:12,3/16/2023 14:40,1237,5100,Lightning,Heavy Rain,No
+516,Water Pipeline,Ermita District,City of Manila,8/6/2022 10:00,6/19/2024 11:45,507,6941,Lightning,High Wind,No
+517,Electric Grid,Ermita District,City of Manila,4/1/2024 2:54,9/11/2026 20:45,1382,6195,Pipe Burst,Heatwave,No
+518,Electric Grid,North Bay Boulevard,Navotas City,4/3/2025 19:54,1/31/2024 3:57,1236,7151,Lightning,High Wind,Yes
+519,Electric Grid,North Bay Boulevard,Navotas City,8/29/2023 20:01,10/17/2023 6:10,79,323,Lightning,High Wind,No
+520,Water Pipeline,North Bay Boulevard,Navotas City,3/16/2024 12:23,9/14/2024 2:54,1207,7268,Lightning,Heavy Rain,Yes
+521,Electric Grid,Ermita District,City of Manila,1/7/2026 22:48,5/6/2025 6:12,409,372,Lightning,Heavy Rain,Yes
+522,Water Pipeline,North Bay Boulevard,Navotas City,9/19/2023 16:56,12/21/2026 22:05,453,1775,Equipment Age,Clear,No
+523,Water Pipeline,Ermita District,City of Manila,10/3/2022 13:42,7/2/2023 19:01,393,6030,Pipe Burst,High Wind,No
+524,Electric Grid,North Bay Boulevard,Navotas City,8/17/2026 14:19,6/9/2025 23:42,283,1607,Pipe Burst,Clear,Yes
+525,Electric Grid,North Bay Boulevard,Navotas City,9/7/2026 22:25,8/6/2023 15:14,1225,8496,Pipe Burst,Heavy Rain,Yes
+526,Water Pipeline,North Bay Boulevard,Navotas City,6/23/2025 10:54,2/9/2025 5:01,1106,487,Pipe Burst,Clear,Yes
+527,Water Pipeline,North Bay Boulevard,Navotas City,1/8/2026 2:28,6/16/2022 23:38,938,3385,Lightning,Heatwave,Yes
+528,Water Pipeline,North Bay Boulevard,Navotas City,1/10/2024 7:17,10/2/2026 14:02,143,9135,Pipe Burst,Heavy Rain,No
+529,Electric Grid,Ermita District,City of Manila,2/21/2024 9:01,9/27/2026 21:28,296,3347,Pipe Burst,High Wind,Yes
+530,Water Pipeline,North Bay Boulevard,Navotas City,5/12/2024 16:21,2/25/2023 14:23,213,4901,Pipe Burst,Heavy Rain,No
+531,Electric Grid,Ermita District,City of Manila,12/21/2026 0:53,2/4/2025 16:35,455,5353,Equipment Age,Heavy Rain,Yes
+532,Electric Grid,North Bay Boulevard,Navotas City,5/27/2026 20:24,12/5/2026 12:45,120,3519,Fallen Tree Branch,Heatwave,Yes
+533,Water Pipeline,North Bay Boulevard,Navotas City,7/18/2025 10:46,6/23/2022 0:47,919,2921,Fallen Tree Branch,Heavy Rain,Yes
+534,Water Pipeline,North Bay Boulevard,Navotas City,4/20/2025 7:31,2/21/2026 13:49,827,5844,Fallen Tree Branch,Clear,No
+535,Water Pipeline,North Bay Boulevard,Navotas City,8/19/2026 18:09,11/17/2026 20:30,36,8610,Equipment Age,Heatwave,No
+536,Electric Grid,Ermita District,City of Manila,5/29/2024 9:01,6/15/2026 22:33,522,4377,Fallen Tree Branch,Clear,Yes
+537,Water Pipeline,North Bay Boulevard,Navotas City,4/23/2026 3:14,11/18/2022 6:39,551,6615,Fallen Tree Branch,High Wind,No
+538,Water Pipeline,Ermita District,City of Manila,12/9/2026 21:35,11/14/2026 14:53,1024,292,Fallen Tree Branch,High Wind,No
+539,Water Pipeline,North Bay Boulevard,Navotas City,8/27/2023 12:28,4/26/2022 19:18,819,1354,Lightning,High Wind,No
+540,Electric Grid,Ermita District,City of Manila,10/9/2022 23:16,2/28/2025 14:40,237,5781,Fallen Tree Branch,Heatwave,Yes
+541,Electric Grid,North Bay Boulevard,Navotas City,2/19/2026 12:44,5/19/2024 5:44,63,661,Equipment Age,Heatwave,No
+542,Water Pipeline,North Bay Boulevard,Navotas City,3/7/2022 17:55,9/13/2023 6:22,567,3480,Equipment Age,High Wind,Yes
+543,Water Pipeline,Ermita District,City of Manila,10/1/2024 15:54,9/7/2026 12:46,833,4513,Lightning,Heavy Rain,No
+544,Electric Grid,North Bay Boulevard,Navotas City,6/6/2025 9:05,3/13/2024 11:02,1070,7349,Equipment Age,High Wind,Yes
+545,Water Pipeline,North Bay Boulevard,Navotas City,8/12/2023 4:46,8/21/2022 15:27,1143,949,Pipe Burst,Clear,Yes
+546,Water Pipeline,Ermita District,City of Manila,5/26/2023 3:27,1/15/2022 9:50,104,5792,Lightning,High Wind,No
+547,Water Pipeline,North Bay Boulevard,Navotas City,4/6/2023 8:32,6/8/2023 5:30,1308,433,Fallen Tree Branch,Clear,No
+548,Water Pipeline,North Bay Boulevard,Navotas City,5/11/2024 0:53,5/14/2026 0:10,1029,1388,Fallen Tree Branch,Heavy Rain,Yes
+549,Water Pipeline,North Bay Boulevard,Navotas City,1/26/2022 8:10,8/6/2023 5:26,1256,8421,Fallen Tree Branch,Heatwave,No
+550,Water Pipeline,North Bay Boulevard,Navotas City,10/2/2023 10:40,1/29/2026 6:48,857,3324,Lightning,Heatwave,No
+551,Water Pipeline,North Bay Boulevard,Navotas City,9/29/2025 17:24,2/25/2022 13:52,113,7748,Lightning,High Wind,Yes
+552,Water Pipeline,Ermita District,City of Manila,12/22/2023 0:51,2/9/2026 1:58,513,8672,Pipe Burst,Clear,Yes
+553,Water Pipeline,North Bay Boulevard,Navotas City,4/2/2026 14:47,5/31/2022 1:20,1099,2120,Pipe Burst,Clear,Yes
+554,Water Pipeline,North Bay Boulevard,Navotas City,10/27/2024 7:45,2/22/2025 1:32,43,2811,Lightning,Heavy Rain,No
+555,Water Pipeline,Ermita District,City of Manila,1/9/2024 22:22,9/18/2025 17:00,430,5308,Fallen Tree Branch,Heavy Rain,Yes
+556,Electric Grid,North Bay Boulevard,Navotas City,10/31/2024 10:36,3/26/2024 10:02,285,8241,Equipment Age,Heavy Rain,No
+557,Water Pipeline,Ermita District,City of Manila,12/13/2024 8:43,12/12/2026 1:30,107,6445,Fallen Tree Branch,High Wind,Yes
+558,Water Pipeline,North Bay Boulevard,Navotas City,10/30/2024 11:45,8/9/2024 4:52,211,7679,Fallen Tree Branch,High Wind,No
+559,Electric Grid,North Bay Boulevard,Navotas City,4/3/2022 17:25,1/2/2026 18:22,336,2243,Equipment Age,Heavy Rain,Yes
+560,Water Pipeline,Ermita District,City of Manila,3/12/2024 18:25,1/25/2024 18:16,480,8436,Pipe Burst,Clear,No
+561,Electric Grid,North Bay Boulevard,Navotas City,4/3/2025 0:11,10/8/2022 19:45,470,1458,Fallen Tree Branch,High Wind,Yes
+562,Water Pipeline,Ermita District,City of Manila,1/27/2023 8:35,7/5/2026 20:26,1435,4285,Lightning,High Wind,Yes
+563,Water Pipeline,North Bay Boulevard,Navotas City,4/2/2025 23:06,9/26/2022 22:16,110,1681,Equipment Age,Clear,Yes
+564,Water Pipeline,Ermita District,City of Manila,11/25/2023 7:23,10/25/2023 9:50,805,9983,Fallen Tree Branch,High Wind,No
+565,Water Pipeline,North Bay Boulevard,Navotas City,5/18/2025 13:53,3/26/2026 9:22,369,645,Fallen Tree Branch,Heatwave,Yes
+566,Electric Grid,Ermita District,City of Manila,3/3/2022 23:12,2/26/2022 3:25,1331,2049,Pipe Burst,Heavy Rain,Yes
+567,Electric Grid,North Bay Boulevard,Navotas City,12/12/2022 1:00,2/24/2025 18:39,332,1917,Equipment Age,Heatwave,No
+568,Water Pipeline,North Bay Boulevard,Navotas City,7/20/2026 14:57,6/16/2023 8:10,639,79,Equipment Age,High Wind,No
+569,Water Pipeline,North Bay Boulevard,Navotas City,4/3/2022 21:20,11/12/2024 21:30,1215,8141,Pipe Burst,Heavy Rain,No
+570,Electric Grid,North Bay Boulevard,Navotas City,1/26/2024 4:53,12/12/2025 21:35,634,5794,Fallen Tree Branch,Clear,No
+571,Water Pipeline,North Bay Boulevard,Navotas City,12/5/2026 1:05,4/11/2025 16:03,192,395,Fallen Tree Branch,Clear,Yes
+572,Water Pipeline,North Bay Boulevard,Navotas City,1/25/2023 6:01,11/21/2023 0:51,1116,2725,Equipment Age,Heavy Rain,Yes
+573,Electric Grid,North Bay Boulevard,Navotas City,1/14/2026 15:01,9/6/2024 2:01,877,2708,Lightning,High Wind,Yes
+574,Water Pipeline,Ermita District,City of Manila,3/25/2025 14:53,2/23/2023 22:54,1367,3655,Pipe Burst,High Wind,No
+575,Water Pipeline,North Bay Boulevard,Navotas City,3/11/2026 11:30,3/17/2023 1:26,1282,6867,Lightning,Heatwave,No
+576,Electric Grid,Ermita District,City of Manila,1/25/2025 18:37,4/16/2024 14:31,491,5039,Fallen Tree Branch,High Wind,Yes
+577,Water Pipeline,North Bay Boulevard,Navotas City,12/17/2022 21:09,4/9/2025 8:30,150,9856,Pipe Burst,Clear,No
+578,Electric Grid,North Bay Boulevard,Navotas City,2/7/2025 12:11,11/16/2022 0:53,1151,7573,Lightning,Heavy Rain,No
+579,Electric Grid,North Bay Boulevard,Navotas City,6/28/2023 11:51,2/20/2024 15:39,887,5210,Pipe Burst,Heatwave,Yes
+580,Electric Grid,North Bay Boulevard,Navotas City,7/22/2023 17:06,9/2/2026 5:11,372,2417,Fallen Tree Branch,Clear,Yes
+581,Electric Grid,North Bay Boulevard,Navotas City,11/13/2024 14:48,3/8/2024 0:39,654,6067,Lightning,High Wind,No
+582,Water Pipeline,North Bay Boulevard,Navotas City,11/14/2024 2:22,4/8/2025 22:40,406,3218,Pipe Burst,High Wind,No
+583,Water Pipeline,Ermita District,City of Manila,11/14/2022 21:02,8/31/2025 15:50,935,1245,Fallen Tree Branch,Heavy Rain,No
+584,Electric Grid,North Bay Boulevard,Navotas City,5/23/2024 9:59,10/24/2024 1:16,96,2597,Fallen Tree Branch,Heatwave,No
+585,Water Pipeline,Ermita District,City of Manila,8/24/2023 21:02,12/3/2022 22:32,1009,9849,Pipe Burst,High Wind,Yes
+586,Electric Grid,Ermita District,City of Manila,9/6/2022 2:53,11/25/2024 10:37,996,5681,Fallen Tree Branch,Clear,No
+587,Electric Grid,North Bay Boulevard,Navotas City,6/28/2026 5:55,5/23/2022 0:43,310,5512,Pipe Burst,Heavy Rain,No
+588,Electric Grid,Ermita District,City of Manila,7/28/2026 20:43,2/14/2024 17:12,1367,3167,Lightning,High Wind,No
+589,Water Pipeline,Ermita District,City of Manila,5/16/2022 1:58,12/10/2026 11:45,753,1883,Pipe Burst,Clear,Yes
+590,Water Pipeline,North Bay Boulevard,Navotas City,7/24/2022 0:58,10/21/2026 8:05,724,8676,Fallen Tree Branch,Clear,Yes
+591,Water Pipeline,North Bay Boulevard,Navotas City,10/13/2024 3:52,11/17/2022 9:25,659,8184,Lightning,Heatwave,No
+592,Water Pipeline,North Bay Boulevard,Navotas City,8/18/2026 19:06,8/31/2025 16:47,664,532,Fallen Tree Branch,Heatwave,Yes
+593,Electric Grid,North Bay Boulevard,Navotas City,6/7/2023 1:23,1/9/2026 18:46,395,9373,Pipe Burst,Heatwave,No
+594,Water Pipeline,Ermita District,City of Manila,11/16/2025 5:54,1/5/2026 10:17,272,7277,Lightning,Heavy Rain,No
+595,Water Pipeline,Ermita District,City of Manila,11/3/2024 5:02,12/11/2023 5:29,113,3209,Lightning,High Wind,Yes
+596,Electric Grid,North Bay Boulevard,Navotas City,6/7/2023 3:47,10/24/2024 3:21,531,3276,Pipe Burst,High Wind,Yes
+597,Water Pipeline,Ermita District,City of Manila,10/19/2026 15:12,10/19/2024 13:38,668,4038,Pipe Burst,Clear,Yes
+598,Water Pipeline,Ermita District,City of Manila,12/11/2022 3:19,9/26/2025 20:55,910,7722,Lightning,Heatwave,Yes
+599,Water Pipeline,Ermita District,City of Manila,3/7/2023 9:38,10/31/2022 22:29,0,7458,Equipment Age,Heavy Rain,No
+600,Electric Grid,Ermita District,City of Manila,2/24/2024 4:13,2/13/2025 3:13,1352,7591,Pipe Burst,High Wind,Yes
+601,Electric Grid,Ermita District,City of Manila,2/22/2025 21:43,7/12/2024 10:37,1359,5779,Lightning,Clear,Yes
+602,Electric Grid,Ermita District,City of Manila,8/13/2025 6:54,7/28/2024 13:54,759,855,Lightning,Clear,No
+603,Water Pipeline,North Bay Boulevard,Navotas City,4/17/2022 19:08,4/7/2024 11:14,262,8062,Lightning,Heatwave,Yes
+604,Electric Grid,North Bay Boulevard,Navotas City,9/29/2024 19:34,5/1/2023 13:05,733,7577,Fallen Tree Branch,High Wind,No
+605,Electric Grid,North Bay Boulevard,Navotas City,12/17/2022 6:25,11/3/2026 23:12,1014,6832,Fallen Tree Branch,Heatwave,No
+606,Electric Grid,North Bay Boulevard,Navotas City,5/12/2023 14:05,8/28/2026 17:05,1367,3646,Pipe Burst,Heatwave,Yes
+607,Electric Grid,North Bay Boulevard,Navotas City,8/12/2026 4:04,3/30/2025 4:31,849,6689,Pipe Burst,High Wind,No
+608,Water Pipeline,Ermita District,City of Manila,10/26/2026 1:19,3/19/2024 18:57,817,2659,Pipe Burst,High Wind,Yes
+609,Electric Grid,North Bay Boulevard,Navotas City,7/20/2024 20:58,3/29/2024 0:44,749,5402,Pipe Burst,High Wind,Yes
+610,Water Pipeline,North Bay Boulevard,Navotas City,12/13/2025 0:25,5/18/2023 1:33,1000,3929,Equipment Age,High Wind,No
+611,Electric Grid,North Bay Boulevard,Navotas City,8/27/2025 4:01,6/18/2024 16:53,790,2464,Lightning,High Wind,No
+612,Electric Grid,North Bay Boulevard,Navotas City,6/8/2023 9:39,4/2/2026 13:46,1134,8144,Pipe Burst,Heavy Rain,No
+613,Water Pipeline,Ermita District,City of Manila,4/23/2026 19:58,8/10/2022 3:27,804,8782,Fallen Tree Branch,Heatwave,Yes
+614,Water Pipeline,Ermita District,City of Manila,5/24/2024 4:17,4/13/2026 16:59,1063,7886,Equipment Age,Heavy Rain,Yes
+615,Water Pipeline,North Bay Boulevard,Navotas City,6/13/2026 16:53,3/23/2026 5:59,436,5030,Lightning,Heavy Rain,Yes
+616,Electric Grid,North Bay Boulevard,Navotas City,10/5/2024 20:27,8/24/2026 11:38,116,1049,Pipe Burst,Clear,Yes
+617,Water Pipeline,North Bay Boulevard,Navotas City,2/19/2024 20:13,8/6/2025 19:40,467,9008,Fallen Tree Branch,High Wind,No
+618,Electric Grid,North Bay Boulevard,Navotas City,10/31/2025 2:02,6/27/2022 18:19,1270,9020,Lightning,Heatwave,Yes
+619,Water Pipeline,Ermita District,City of Manila,1/8/2022 10:10,10/26/2022 14:08,932,5535,Fallen Tree Branch,Heavy Rain,Yes
+620,Electric Grid,North Bay Boulevard,Navotas City,7/10/2026 4:59,2/19/2023 23:34,842,9393,Equipment Age,Heavy Rain,No
+621,Electric Grid,North Bay Boulevard,Navotas City,8/22/2022 7:54,9/26/2024 2:03,1221,3172,Lightning,Heatwave,No
+622,Electric Grid,Ermita District,City of Manila,2/22/2025 1:57,2/3/2022 1:07,1250,3377,Pipe Burst,Heavy Rain,Yes
+623,Water Pipeline,Ermita District,City of Manila,4/5/2026 20:51,5/18/2026 4:29,689,5380,Fallen Tree Branch,Heatwave,No
+624,Water Pipeline,North Bay Boulevard,Navotas City,1/31/2026 9:33,5/19/2022 6:15,980,9629,Fallen Tree Branch,Heavy Rain,No
+625,Electric Grid,North Bay Boulevard,Navotas City,9/15/2025 3:26,10/16/2024 16:18,544,5300,Equipment Age,Clear,Yes
+626,Water Pipeline,Ermita District,City of Manila,3/23/2023 2:20,7/26/2022 16:48,375,9829,Equipment Age,Clear,Yes
+627,Water Pipeline,Ermita District,City of Manila,1/20/2024 23:00,2/12/2024 8:42,875,7707,Fallen Tree Branch,Clear,Yes
+628,Water Pipeline,Ermita District,City of Manila,9/18/2025 19:06,1/19/2026 3:02,927,3842,Equipment Age,Heatwave,No
+629,Water Pipeline,North Bay Boulevard,Navotas City,4/29/2026 7:21,1/16/2025 13:37,1383,2708,Fallen Tree Branch,High Wind,No
+630,Water Pipeline,Ermita District,City of Manila,2/28/2022 20:15,6/22/2025 3:37,465,3681,Equipment Age,High Wind,No
+631,Electric Grid,Ermita District,City of Manila,10/22/2023 5:19,8/13/2022 8:34,592,1303,Pipe Burst,Heatwave,Yes
+632,Water Pipeline,Ermita District,City of Manila,1/17/2022 3:39,10/14/2022 9:22,286,7159,Fallen Tree Branch,Heavy Rain,No
+633,Electric Grid,Ermita District,City of Manila,8/17/2024 13:09,1/21/2022 18:31,540,7090,Fallen Tree Branch,High Wind,No
+634,Electric Grid,Ermita District,City of Manila,8/5/2026 20:58,7/9/2026 16:00,103,7443,Lightning,Heavy Rain,Yes
+635,Water Pipeline,Ermita District,City of Manila,12/3/2023 16:03,2/1/2026 6:04,1265,544,Equipment Age,Heatwave,No
+636,Electric Grid,North Bay Boulevard,Navotas City,8/24/2024 19:32,10/9/2024 13:55,974,9214,Pipe Burst,High Wind,No
+637,Water Pipeline,Ermita District,City of Manila,3/11/2025 19:42,10/22/2024 5:48,534,8423,Pipe Burst,Heavy Rain,Yes
+638,Water Pipeline,Ermita District,City of Manila,11/19/2023 11:27,5/5/2023 5:29,530,4495,Lightning,High Wind,No
+639,Water Pipeline,Ermita District,City of Manila,1/27/2023 15:31,4/16/2024 1:06,742,4311,Pipe Burst,Heavy Rain,Yes
+640,Water Pipeline,North Bay Boulevard,Navotas City,11/4/2022 10:23,2/17/2026 4:44,26,7745,Equipment Age,Heavy Rain,Yes
+641,Electric Grid,Ermita District,City of Manila,10/6/2025 6:03,2/13/2022 9:30,1184,4337,Equipment Age,Heavy Rain,Yes
+642,Water Pipeline,North Bay Boulevard,Navotas City,4/17/2023 6:42,10/30/2025 2:50,1128,9323,Lightning,Clear,Yes
+643,Water Pipeline,North Bay Boulevard,Navotas City,7/17/2022 21:44,4/16/2024 21:57,899,7870,Lightning,High Wind,No
+644,Electric Grid,Ermita District,City of Manila,1/2/2026 1:13,12/30/2025 7:08,884,9253,Fallen Tree Branch,Heatwave,No
+645,Electric Grid,North Bay Boulevard,Navotas City,5/14/2022 4:47,5/31/2023 7:28,249,3809,Lightning,Clear,Yes
+646,Water Pipeline,North Bay Boulevard,Navotas City,9/23/2022 4:12,10/8/2022 2:39,635,5919,Pipe Burst,Clear,Yes
+647,Water Pipeline,North Bay Boulevard,Navotas City,9/14/2025 12:16,12/1/2023 11:29,252,3127,Fallen Tree Branch,Heavy Rain,Yes
+648,Electric Grid,North Bay Boulevard,Navotas City,3/26/2024 3:05,8/17/2024 20:58,382,190,Fallen Tree Branch,Heavy Rain,No
+649,Water Pipeline,Ermita District,City of Manila,1/14/2024 21:52,5/21/2024 17:27,528,2109,Lightning,Heatwave,No
+650,Electric Grid,North Bay Boulevard,Navotas City,6/22/2022 19:06,6/30/2022 10:45,13,1601,Equipment Age,Heavy Rain,Yes
+651,Water Pipeline,Ermita District,City of Manila,6/20/2023 23:46,6/24/2026 8:44,571,7531,Lightning,Clear,Yes
+652,Water Pipeline,North Bay Boulevard,Navotas City,6/2/2024 4:33,9/9/2025 3:45,673,851,Equipment Age,Heavy Rain,No
+653,Water Pipeline,North Bay Boulevard,Navotas City,2/18/2025 12:13,12/24/2024 4:51,1210,1580,Lightning,Heavy Rain,Yes
+654,Electric Grid,Ermita District,City of Manila,11/18/2025 6:44,2/6/2022 13:59,366,8532,Lightning,Clear,No
+655,Water Pipeline,North Bay Boulevard,Navotas City,3/27/2026 16:28,4/2/2023 12:23,781,3029,Fallen Tree Branch,Clear,Yes
+656,Water Pipeline,North Bay Boulevard,Navotas City,10/11/2022 11:17,6/13/2023 6:14,1407,926,Pipe Burst,Clear,No
+657,Electric Grid,Ermita District,City of Manila,2/5/2024 1:50,2/8/2025 7:38,705,2205,Equipment Age,Clear,Yes
+658,Water Pipeline,North Bay Boulevard,Navotas City,11/1/2025 19:50,2/6/2023 10:37,400,6063,Pipe Burst,Heatwave,No
+659,Water Pipeline,Ermita District,City of Manila,3/21/2022 9:28,11/20/2022 11:12,615,6520,Lightning,Clear,Yes
+660,Water Pipeline,North Bay Boulevard,Navotas City,12/31/2022 7:38,5/6/2026 14:57,830,2168,Lightning,Heatwave,No
+661,Water Pipeline,North Bay Boulevard,Navotas City,3/2/2025 10:12,9/14/2022 16:11,670,7080,Fallen Tree Branch,Heavy Rain,No
+662,Water Pipeline,Ermita District,City of Manila,2/20/2023 6:03,2/7/2024 21:08,1424,6722,Equipment Age,High Wind,No
+663,Electric Grid,North Bay Boulevard,Navotas City,3/15/2024 12:30,4/18/2023 5:08,1435,8314,Fallen Tree Branch,Heatwave,No
+664,Water Pipeline,North Bay Boulevard,Navotas City,5/2/2023 13:35,1/3/2023 21:18,213,8093,Equipment Age,Clear,Yes
+665,Water Pipeline,Ermita District,City of Manila,7/27/2023 16:11,10/22/2026 14:57,279,4363,Equipment Age,Clear,No
+666,Electric Grid,North Bay Boulevard,Navotas City,4/22/2024 0:20,12/11/2024 9:44,145,8926,Equipment Age,High Wind,No
+667,Water Pipeline,Ermita District,City of Manila,3/16/2022 7:46,7/24/2023 1:23,1276,5712,Lightning,Heavy Rain,Yes
+668,Water Pipeline,North Bay Boulevard,Navotas City,1/7/2025 18:46,6/12/2023 17:43,272,8816,Pipe Burst,High Wind,Yes
+669,Electric Grid,North Bay Boulevard,Navotas City,2/10/2025 16:20,12/14/2022 0:44,1358,7542,Fallen Tree Branch,Clear,No
+670,Electric Grid,Ermita District,City of Manila,3/20/2024 5:15,1/14/2025 6:45,374,8892,Lightning,Heavy Rain,Yes
+671,Water Pipeline,Ermita District,City of Manila,8/10/2022 5:54,12/24/2023 11:31,1227,7884,Pipe Burst,High Wind,Yes
+672,Water Pipeline,Ermita District,City of Manila,3/15/2023 20:34,2/14/2022 2:06,381,9048,Fallen Tree Branch,Heavy Rain,Yes
+673,Water Pipeline,North Bay Boulevard,Navotas City,8/2/2022 10:23,1/22/2022 3:52,769,6372,Fallen Tree Branch,High Wind,No
+674,Electric Grid,Ermita District,City of Manila,9/25/2025 15:21,6/12/2025 14:53,694,3605,Pipe Burst,Heatwave,Yes
+675,Water Pipeline,North Bay Boulevard,Navotas City,4/4/2024 18:21,8/16/2026 10:45,607,3879,Lightning,Heavy Rain,No
+676,Electric Grid,North Bay Boulevard,Navotas City,8/22/2026 21:37,4/11/2022 2:23,202,8544,Lightning,Heavy Rain,Yes
+677,Water Pipeline,North Bay Boulevard,Navotas City,7/4/2025 23:06,12/24/2023 18:45,614,2039,Pipe Burst,High Wind,Yes
+678,Electric Grid,North Bay Boulevard,Navotas City,6/12/2026 7:01,1/17/2025 2:31,55,3103,Lightning,Heavy Rain,No
+679,Electric Grid,Ermita District,City of Manila,6/30/2022 8:11,3/14/2025 20:23,205,3453,Lightning,Heavy Rain,Yes
+680,Electric Grid,Ermita District,City of Manila,9/2/2025 20:02,6/7/2026 5:05,1392,2159,Lightning,Heatwave,No
+681,Electric Grid,North Bay Boulevard,Navotas City,2/21/2025 4:22,12/30/2024 21:43,379,5558,Pipe Burst,Clear,Yes
+682,Water Pipeline,Ermita District,City of Manila,5/12/2023 7:01,7/6/2023 11:54,1095,5682,Equipment Age,Heatwave,No
+683,Water Pipeline,Ermita District,City of Manila,4/9/2024 23:19,4/6/2025 20:26,826,7054,Equipment Age,Heatwave,No
+684,Electric Grid,Ermita District,City of Manila,11/20/2023 8:18,10/28/2024 7:13,417,2919,Pipe Burst,Clear,No
+685,Electric Grid,North Bay Boulevard,Navotas City,3/26/2022 18:20,11/5/2023 1:47,1029,392,Fallen Tree Branch,Heatwave,No
+686,Electric Grid,Ermita District,City of Manila,8/29/2025 13:20,11/3/2023 12:56,37,4087,Equipment Age,Heatwave,No
+687,Water Pipeline,North Bay Boulevard,Navotas City,3/5/2023 2:47,3/2/2024 20:11,9,9199,Lightning,Clear,No
+688,Electric Grid,North Bay Boulevard,Navotas City,6/25/2023 3:59,1/16/2025 13:47,547,8901,Equipment Age,Heatwave,No
+689,Electric Grid,Ermita District,City of Manila,7/15/2022 7:28,2/18/2022 21:14,1169,8725,Equipment Age,Heatwave,No
+690,Electric Grid,North Bay Boulevard,Navotas City,1/9/2022 9:34,6/1/2024 0:36,513,8882,Fallen Tree Branch,Heatwave,No
+691,Electric Grid,Ermita District,City of Manila,9/22/2023 9:13,12/16/2025 16:22,1432,5688,Pipe Burst,Heavy Rain,Yes
+692,Electric Grid,North Bay Boulevard,Navotas City,12/21/2023 1:06,6/22/2025 20:12,5,3727,Pipe Burst,Heatwave,Yes
+693,Water Pipeline,Ermita District,City of Manila,9/22/2024 14:57,9/21/2026 23:29,712,3280,Fallen Tree Branch,High Wind,No
+694,Water Pipeline,Ermita District,City of Manila,2/22/2023 2:51,2/20/2025 7:23,1084,3497,Fallen Tree Branch,Heatwave,No
+695,Water Pipeline,Ermita District,City of Manila,12/7/2026 10:06,9/8/2022 17:43,569,1957,Lightning,Clear,No
+696,Electric Grid,Ermita District,City of Manila,2/13/2024 12:13,3/21/2026 13:39,515,4841,Lightning,Heatwave,No
+697,Water Pipeline,North Bay Boulevard,Navotas City,11/6/2024 2:31,8/19/2022 5:13,780,3380,Fallen Tree Branch,Heavy Rain,No
+698,Water Pipeline,North Bay Boulevard,Navotas City,5/12/2023 7:44,2/12/2023 7:54,1114,4599,Fallen Tree Branch,High Wind,No
+699,Electric Grid,Ermita District,City of Manila,11/19/2024 13:19,9/22/2024 0:11,761,5923,Fallen Tree Branch,Heavy Rain,Yes
+700,Water Pipeline,Ermita District,City of Manila,2/8/2024 19:19,3/3/2024 8:19,200,9376,Fallen Tree Branch,High Wind,Yes
+701,Water Pipeline,Ermita District,City of Manila,5/22/2026 8:43,11/6/2025 19:45,853,8563,Lightning,Heatwave,No
+702,Water Pipeline,North Bay Boulevard,Navotas City,11/19/2023 20:49,10/16/2025 11:35,283,2195,Fallen Tree Branch,Heavy Rain,Yes
+703,Water Pipeline,North Bay Boulevard,Navotas City,2/26/2023 4:22,3/22/2022 2:36,1375,7318,Fallen Tree Branch,Heavy Rain,Yes
+704,Water Pipeline,North Bay Boulevard,Navotas City,5/28/2022 16:12,12/11/2023 18:10,697,4097,Lightning,Heatwave,Yes
+705,Electric Grid,Ermita District,City of Manila,2/12/2023 16:49,2/13/2024 20:55,881,7017,Pipe Burst,High Wind,Yes
+706,Water Pipeline,North Bay Boulevard,Navotas City,12/25/2023 1:21,8/8/2024 12:45,1103,9805,Pipe Burst,Clear,No
+707,Water Pipeline,North Bay Boulevard,Navotas City,7/7/2024 1:16,4/25/2022 22:27,97,3214,Pipe Burst,High Wind,No
+708,Water Pipeline,North Bay Boulevard,Navotas City,7/11/2022 1:29,9/17/2022 14:41,728,6800,Pipe Burst,Heatwave,No
+709,Electric Grid,North Bay Boulevard,Navotas City,1/12/2026 13:36,3/28/2023 19:38,400,4799,Lightning,High Wind,Yes
+710,Electric Grid,Ermita District,City of Manila,5/26/2024 2:03,9/27/2022 8:07,271,9425,Lightning,High Wind,No
+711,Electric Grid,Ermita District,City of Manila,6/23/2024 3:53,8/10/2024 9:46,487,5654,Fallen Tree Branch,High Wind,Yes
+712,Water Pipeline,North Bay Boulevard,Navotas City,12/17/2024 23:11,9/18/2025 3:16,1308,7970,Fallen Tree Branch,High Wind,No
+713,Electric Grid,North Bay Boulevard,Navotas City,11/4/2022 10:44,10/23/2025 0:35,1380,8632,Equipment Age,Heatwave,Yes
+714,Electric Grid,Ermita District,City of Manila,12/25/2023 14:28,11/23/2025 15:05,649,2021,Lightning,Heatwave,Yes
+715,Water Pipeline,North Bay Boulevard,Navotas City,11/1/2023 20:44,11/9/2025 1:16,226,6098,Fallen Tree Branch,Heatwave,No
+716,Water Pipeline,Ermita District,City of Manila,11/8/2023 14:37,6/1/2026 1:40,281,7727,Equipment Age,Clear,Yes
+717,Water Pipeline,North Bay Boulevard,Navotas City,6/27/2022 9:15,4/2/2025 8:08,466,7212,Equipment Age,Heatwave,No
+718,Electric Grid,Ermita District,City of Manila,10/20/2024 0:32,6/17/2023 12:59,57,7179,Fallen Tree Branch,Heatwave,No
+719,Electric Grid,North Bay Boulevard,Navotas City,1/24/2022 19:44,6/15/2023 11:18,147,1790,Pipe Burst,Heatwave,Yes
+720,Electric Grid,North Bay Boulevard,Navotas City,10/30/2025 1:17,9/28/2023 22:30,1332,3086,Fallen Tree Branch,Heavy Rain,Yes
+721,Electric Grid,Ermita District,City of Manila,2/6/2025 18:18,4/14/2023 23:35,455,138,Lightning,Heavy Rain,Yes
+722,Water Pipeline,North Bay Boulevard,Navotas City,2/22/2026 21:35,10/31/2025 21:46,564,8115,Pipe Burst,Heatwave,Yes
+723,Water Pipeline,North Bay Boulevard,Navotas City,12/20/2025 15:13,3/2/2025 5:00,1137,1048,Pipe Burst,Heatwave,No
+724,Electric Grid,North Bay Boulevard,Navotas City,8/1/2026 4:02,5/4/2023 19:19,1426,388,Equipment Age,Heatwave,Yes
+725,Water Pipeline,North Bay Boulevard,Navotas City,7/8/2025 3:07,1/16/2024 21:50,2,9484,Equipment Age,Heatwave,No
+726,Electric Grid,North Bay Boulevard,Navotas City,11/24/2024 22:59,10/23/2023 2:51,747,151,Lightning,Heavy Rain,No
+727,Water Pipeline,North Bay Boulevard,Navotas City,9/8/2023 12:48,8/26/2024 7:04,402,9937,Lightning,Clear,Yes
+728,Water Pipeline,North Bay Boulevard,Navotas City,8/18/2022 18:06,1/25/2025 11:35,790,4807,Lightning,Heavy Rain,Yes
+729,Water Pipeline,Ermita District,City of Manila,4/11/2025 21:33,5/10/2026 17:57,1112,2902,Lightning,High Wind,No
+730,Water Pipeline,North Bay Boulevard,Navotas City,7/30/2024 21:39,10/11/2023 16:07,93,5078,Equipment Age,Heavy Rain,No
+731,Water Pipeline,Ermita District,City of Manila,12/5/2023 17:44,1/11/2022 17:26,1401,3271,Pipe Burst,Heatwave,Yes
+732,Water Pipeline,Ermita District,City of Manila,7/19/2022 20:12,1/15/2023 15:35,388,2007,Equipment Age,Heatwave,Yes
+733,Water Pipeline,North Bay Boulevard,Navotas City,6/19/2023 14:50,7/21/2022 9:30,295,8919,Fallen Tree Branch,Heavy Rain,Yes
+734,Water Pipeline,North Bay Boulevard,Navotas City,5/21/2022 0:41,3/27/2022 1:30,584,6142,Fallen Tree Branch,Clear,Yes
+735,Electric Grid,Ermita District,City of Manila,5/28/2022 6:26,1/29/2023 17:48,967,2548,Pipe Burst,Heatwave,Yes
+736,Electric Grid,Ermita District,City of Manila,6/16/2026 18:43,7/2/2024 15:26,837,4812,Lightning,Heatwave,No
+737,Electric Grid,Ermita District,City of Manila,6/14/2026 17:33,1/8/2025 23:16,1278,3870,Equipment Age,Heavy Rain,Yes
+738,Electric Grid,Ermita District,City of Manila,8/11/2023 7:05,8/4/2024 21:59,97,4801,Lightning,Heavy Rain,No
+739,Electric Grid,Ermita District,City of Manila,4/2/2024 11:33,1/29/2022 16:24,984,1943,Pipe Burst,Clear,Yes
+740,Water Pipeline,Ermita District,City of Manila,7/31/2022 11:44,5/10/2023 18:51,1016,716,Fallen Tree Branch,High Wind,Yes
+741,Electric Grid,North Bay Boulevard,Navotas City,9/21/2022 17:10,6/21/2024 6:23,161,726,Pipe Burst,High Wind,No
+742,Water Pipeline,North Bay Boulevard,Navotas City,9/15/2026 2:22,3/2/2026 22:04,1057,6463,Pipe Burst,Heatwave,Yes
+743,Water Pipeline,Ermita District,City of Manila,9/15/2022 1:52,7/17/2025 17:10,406,1801,Lightning,Clear,No
+744,Water Pipeline,Ermita District,City of Manila,1/22/2023 13:35,8/1/2026 9:52,135,7943,Fallen Tree Branch,Heatwave,No
+745,Electric Grid,Ermita District,City of Manila,8/16/2023 13:16,8/8/2023 23:47,797,38,Lightning,Heatwave,Yes
+746,Electric Grid,Ermita District,City of Manila,9/16/2026 2:31,1/30/2023 8:16,1268,186,Lightning,High Wind,No
+747,Water Pipeline,North Bay Boulevard,Navotas City,2/19/2026 13:22,9/11/2026 16:04,1202,5224,Lightning,Heatwave,No
+748,Water Pipeline,North Bay Boulevard,Navotas City,11/2/2024 6:37,12/15/2022 2:58,943,8291,Fallen Tree Branch,High Wind,No
+749,Water Pipeline,Ermita District,City of Manila,10/27/2024 0:00,3/2/2023 12:36,182,6426,Lightning,Heavy Rain,Yes
+750,Electric Grid,Ermita District,City of Manila,12/10/2026 5:22,6/22/2024 17:20,190,2904,Lightning,Heavy Rain,Yes
+751,Electric Grid,Ermita District,City of Manila,3/17/2025 22:03,2/6/2026 20:50,1144,2298,Pipe Burst,High Wind,Yes
+752,Electric Grid,North Bay Boulevard,Navotas City,12/23/2024 3:45,8/3/2025 18:55,1055,150,Equipment Age,Heavy Rain,No
+753,Water Pipeline,North Bay Boulevard,Navotas City,3/13/2025 10:59,1/8/2024 12:53,182,1455,Pipe Burst,Clear,Yes
+754,Electric Grid,Ermita District,City of Manila,4/20/2022 7:25,2/22/2023 4:10,1021,8509,Equipment Age,Heatwave,Yes
+755,Water Pipeline,Ermita District,City of Manila,7/22/2024 12:38,11/28/2023 9:19,827,5918,Pipe Burst,Clear,No
+756,Water Pipeline,Ermita District,City of Manila,10/4/2024 4:23,2/23/2026 21:42,1085,3235,Pipe Burst,Heatwave,Yes
+757,Water Pipeline,North Bay Boulevard,Navotas City,6/6/2025 14:57,3/5/2022 21:18,997,5133,Equipment Age,High Wind,No
+758,Electric Grid,North Bay Boulevard,Navotas City,5/16/2026 0:33,11/8/2022 8:16,379,4217,Equipment Age,Clear,No
+759,Electric Grid,North Bay Boulevard,Navotas City,11/11/2026 12:47,7/6/2025 7:07,1391,8606,Pipe Burst,Heatwave,Yes
+760,Electric Grid,Ermita District,City of Manila,11/15/2024 14:29,6/2/2022 3:25,1109,7499,Fallen Tree Branch,Clear,No
+761,Electric Grid,North Bay Boulevard,Navotas City,6/6/2024 17:16,1/2/2025 7:52,1330,3556,Fallen Tree Branch,High Wind,Yes
+762,Electric Grid,North Bay Boulevard,Navotas City,10/3/2022 3:28,1/26/2026 13:37,592,3170,Equipment Age,Clear,No
+763,Water Pipeline,North Bay Boulevard,Navotas City,10/23/2026 3:20,2/13/2026 4:13,1045,2426,Equipment Age,Heavy Rain,No
+764,Water Pipeline,North Bay Boulevard,Navotas City,7/4/2025 7:07,2/4/2025 18:07,521,6572,Fallen Tree Branch,High Wind,Yes
+765,Water Pipeline,North Bay Boulevard,Navotas City,7/18/2024 4:35,6/28/2026 1:49,1246,6498,Equipment Age,Heavy Rain,Yes
+766,Water Pipeline,Ermita District,City of Manila,8/14/2025 19:37,10/31/2024 13:33,298,1463,Equipment Age,Heatwave,No
+767,Water Pipeline,North Bay Boulevard,Navotas City,1/12/2023 20:35,12/26/2023 23:39,530,7543,Pipe Burst,High Wind,No
+768,Water Pipeline,North Bay Boulevard,Navotas City,10/10/2022 19:35,4/3/2022 16:39,780,1701,Lightning,Heatwave,No
+769,Water Pipeline,North Bay Boulevard,Navotas City,4/8/2024 0:20,12/8/2023 10:03,967,3970,Pipe Burst,Clear,Yes
+770,Water Pipeline,Ermita District,City of Manila,4/15/2022 3:51,12/15/2026 5:26,1254,404,Pipe Burst,Heatwave,No
+771,Water Pipeline,Ermita District,City of Manila,9/21/2023 2:22,10/31/2025 9:28,1408,9290,Lightning,Heavy Rain,Yes
+772,Electric Grid,North Bay Boulevard,Navotas City,7/8/2026 2:07,2/15/2023 7:33,841,9380,Pipe Burst,Heatwave,Yes
+773,Water Pipeline,North Bay Boulevard,Navotas City,8/27/2024 16:32,5/24/2025 11:43,654,3503,Equipment Age,Clear,No
+774,Water Pipeline,North Bay Boulevard,Navotas City,6/15/2022 2:22,7/5/2025 6:45,613,3298,Pipe Burst,Clear,No
+775,Electric Grid,North Bay Boulevard,Navotas City,11/8/2022 2:01,9/3/2023 14:24,648,9103,Pipe Burst,Heatwave,Yes
+776,Electric Grid,Ermita District,City of Manila,8/1/2022 10:38,5/2/2023 0:29,1121,4572,Fallen Tree Branch,Heavy Rain,Yes
+777,Water Pipeline,North Bay Boulevard,Navotas City,10/14/2022 20:57,5/21/2025 12:01,887,6887,Lightning,Heavy Rain,No
+778,Water Pipeline,North Bay Boulevard,Navotas City,11/5/2023 21:36,3/16/2022 9:12,136,1161,Equipment Age,High Wind,Yes
+779,Water Pipeline,Ermita District,City of Manila,10/2/2025 7:12,5/29/2023 8:04,464,7715,Lightning,High Wind,No
+780,Electric Grid,Ermita District,City of Manila,12/13/2024 22:31,6/28/2024 6:28,553,8230,Fallen Tree Branch,High Wind,Yes
+781,Water Pipeline,Ermita District,City of Manila,10/19/2022 1:23,3/22/2022 5:59,0,7888,Fallen Tree Branch,Heatwave,Yes
+782,Water Pipeline,North Bay Boulevard,Navotas City,3/27/2025 12:43,6/8/2025 20:12,564,1483,Equipment Age,Heatwave,No
+783,Electric Grid,North Bay Boulevard,Navotas City,8/1/2024 13:22,8/17/2024 3:43,1018,5775,Lightning,Heavy Rain,No
+784,Water Pipeline,Ermita District,City of Manila,6/12/2024 23:36,5/30/2024 1:45,193,3906,Pipe Burst,Heatwave,No
+785,Electric Grid,Ermita District,City of Manila,12/6/2026 13:18,12/21/2022 11:23,55,588,Fallen Tree Branch,Heavy Rain,No
+786,Electric Grid,North Bay Boulevard,Navotas City,8/14/2026 6:54,12/12/2023 15:51,1073,7547,Equipment Age,High Wind,No
+787,Electric Grid,Ermita District,City of Manila,3/17/2022 3:52,2/9/2023 19:47,1339,5625,Pipe Burst,Heavy Rain,No
+788,Water Pipeline,Ermita District,City of Manila,2/25/2022 4:57,10/26/2023 4:35,5,521,Lightning,Clear,No
+789,Water Pipeline,North Bay Boulevard,Navotas City,5/20/2024 22:39,6/27/2024 13:12,679,7377,Fallen Tree Branch,Heavy Rain,No
+790,Water Pipeline,North Bay Boulevard,Navotas City,4/19/2026 22:45,12/30/2022 6:41,408,8516,Lightning,High Wind,No
+791,Electric Grid,North Bay Boulevard,Navotas City,9/4/2022 18:46,8/6/2025 8:54,1279,1807,Equipment Age,High Wind,No
+792,Water Pipeline,Ermita District,City of Manila,2/7/2026 12:58,3/8/2023 23:47,1233,6165,Fallen Tree Branch,Clear,No
+793,Electric Grid,Ermita District,City of Manila,3/4/2024 20:37,9/13/2026 10:36,224,3400,Lightning,Heavy Rain,Yes
+794,Water Pipeline,Ermita District,City of Manila,7/4/2023 3:16,3/24/2024 22:40,704,2250,Equipment Age,Clear,Yes
+795,Electric Grid,North Bay Boulevard,Navotas City,6/29/2022 15:24,3/1/2023 16:18,309,4616,Equipment Age,Heavy Rain,Yes
+796,Water Pipeline,Ermita District,City of Manila,11/5/2022 15:53,11/5/2023 20:13,177,5738,Equipment Age,Clear,No
+797,Electric Grid,North Bay Boulevard,Navotas City,11/1/2025 4:03,6/1/2025 14:24,483,1759,Pipe Burst,Clear,No
+798,Water Pipeline,Ermita District,City of Manila,3/25/2025 13:53,2/27/2024 11:30,845,4640,Pipe Burst,Heavy Rain,Yes
+799,Water Pipeline,Ermita District,City of Manila,9/23/2022 8:48,12/28/2023 0:45,44,6874,Fallen Tree Branch,High Wind,No
+800,Electric Grid,Ermita District,City of Manila,8/9/2023 8:12,11/1/2022 19:17,102,9866,Equipment Age,High Wind,No
+801,Water Pipeline,North Bay Boulevard,Navotas City,4/11/2026 17:00,12/25/2025 11:28,1403,1710,Lightning,Clear,Yes
+802,Water Pipeline,Ermita District,City of Manila,4/1/2022 23:09,10/13/2026 21:31,57,1467,Fallen Tree Branch,High Wind,No
+803,Electric Grid,North Bay Boulevard,Navotas City,6/28/2025 11:22,4/14/2023 11:08,1322,7642,Fallen Tree Branch,Heavy Rain,No
+804,Water Pipeline,North Bay Boulevard,Navotas City,10/28/2025 15:43,1/24/2022 3:01,291,8452,Fallen Tree Branch,High Wind,No
+805,Water Pipeline,North Bay Boulevard,Navotas City,9/19/2026 15:11,7/29/2024 2:20,574,132,Equipment Age,Clear,Yes
+806,Water Pipeline,Ermita District,City of Manila,9/18/2022 11:53,4/15/2025 17:58,1425,8725,Equipment Age,Clear,No
+807,Electric Grid,Ermita District,City of Manila,4/21/2024 16:25,2/13/2025 15:54,766,5777,Fallen Tree Branch,Heatwave,No
+808,Water Pipeline,North Bay Boulevard,Navotas City,12/19/2025 4:35,2/9/2025 18:19,634,576,Pipe Burst,High Wind,Yes
+809,Electric Grid,Ermita District,City of Manila,7/4/2022 15:38,6/26/2026 18:47,144,4711,Pipe Burst,Clear,No
+810,Water Pipeline,North Bay Boulevard,Navotas City,1/12/2025 11:28,3/11/2025 21:37,1117,5557,Fallen Tree Branch,Clear,Yes
+811,Water Pipeline,North Bay Boulevard,Navotas City,1/21/2026 18:46,2/24/2022 7:17,1256,4920,Equipment Age,Heavy Rain,Yes
+812,Water Pipeline,Ermita District,City of Manila,2/7/2025 0:20,4/11/2026 1:51,533,3076,Pipe Burst,Clear,Yes
+813,Water Pipeline,Ermita District,City of Manila,2/10/2024 9:09,10/22/2022 9:23,594,7944,Fallen Tree Branch,High Wind,Yes
+814,Electric Grid,North Bay Boulevard,Navotas City,6/13/2026 23:22,8/14/2023 22:36,818,9656,Pipe Burst,Clear,No
+815,Electric Grid,North Bay Boulevard,Navotas City,7/27/2025 15:29,9/2/2022 12:13,1225,750,Lightning,Heavy Rain,No
+816,Water Pipeline,Ermita District,City of Manila,4/2/2025 6:46,1/28/2023 1:15,1438,3345,Lightning,Heavy Rain,No
+817,Electric Grid,Ermita District,City of Manila,4/6/2026 14:24,3/6/2025 22:12,1239,9127,Pipe Burst,Heatwave,Yes
+818,Water Pipeline,North Bay Boulevard,Navotas City,11/5/2025 23:57,7/16/2025 14:05,784,539,Lightning,Heatwave,No
+819,Electric Grid,Ermita District,City of Manila,5/7/2026 7:31,3/21/2022 9:18,387,5193,Pipe Burst,High Wind,No
+820,Electric Grid,North Bay Boulevard,Navotas City,4/24/2023 5:49,12/4/2024 5:15,36,6913,Fallen Tree Branch,Heatwave,No
+821,Electric Grid,Ermita District,City of Manila,1/9/2025 2:22,11/28/2022 4:33,352,5827,Pipe Burst,Heavy Rain,No
+822,Electric Grid,North Bay Boulevard,Navotas City,5/25/2026 14:28,4/23/2023 0:12,226,5982,Pipe Burst,Heavy Rain,Yes
+823,Water Pipeline,North Bay Boulevard,Navotas City,6/21/2022 20:18,12/31/2022 2:41,863,3609,Pipe Burst,Heavy Rain,No
+824,Electric Grid,Ermita District,City of Manila,4/18/2025 0:21,11/5/2024 20:01,1212,8049,Fallen Tree Branch,High Wind,Yes
+825,Water Pipeline,North Bay Boulevard,Navotas City,4/27/2022 13:03,8/9/2023 1:35,551,4906,Pipe Burst,High Wind,Yes
+826,Electric Grid,North Bay Boulevard,Navotas City,2/13/2026 22:35,10/31/2025 1:10,358,1952,Lightning,High Wind,Yes
+827,Electric Grid,Ermita District,City of Manila,5/24/2025 2:43,5/27/2026 8:37,1210,555,Lightning,Heatwave,No
+828,Water Pipeline,North Bay Boulevard,Navotas City,7/21/2022 22:17,1/12/2023 4:33,941,4462,Fallen Tree Branch,High Wind,Yes
+829,Electric Grid,North Bay Boulevard,Navotas City,2/27/2023 7:49,8/20/2023 6:17,262,4323,Pipe Burst,High Wind,Yes
+830,Electric Grid,North Bay Boulevard,Navotas City,5/22/2026 19:51,3/12/2024 20:58,1207,6218,Pipe Burst,Clear,No
+831,Electric Grid,Ermita District,City of Manila,11/22/2024 0:49,10/15/2022 23:11,1022,7905,Pipe Burst,High Wind,Yes
+832,Water Pipeline,Ermita District,City of Manila,6/13/2026 5:17,2/3/2025 18:20,901,5778,Lightning,Heavy Rain,Yes
+833,Water Pipeline,Ermita District,City of Manila,3/23/2026 2:24,10/24/2026 13:09,346,7709,Equipment Age,Clear,Yes
+834,Water Pipeline,North Bay Boulevard,Navotas City,7/22/2023 17:12,10/11/2026 9:53,309,5446,Pipe Burst,High Wind,No
+835,Electric Grid,Ermita District,City of Manila,5/22/2022 20:17,9/17/2023 14:26,821,3035,Equipment Age,Heatwave,Yes
+836,Electric Grid,North Bay Boulevard,Navotas City,4/27/2023 7:59,7/8/2023 4:23,768,558,Fallen Tree Branch,Heavy Rain,No
+837,Water Pipeline,North Bay Boulevard,Navotas City,1/4/2025 15:08,4/22/2025 16:10,997,4804,Equipment Age,Clear,Yes
+838,Electric Grid,North Bay Boulevard,Navotas City,7/8/2025 10:53,3/22/2022 9:43,960,1770,Lightning,High Wind,Yes
+839,Electric Grid,Ermita District,City of Manila,11/18/2023 21:42,2/29/2024 21:11,1215,4227,Pipe Burst,High Wind,Yes
+840,Water Pipeline,Ermita District,City of Manila,10/7/2023 23:10,5/30/2026 0:37,1296,8992,Equipment Age,Heatwave,Yes
+841,Water Pipeline,Ermita District,City of Manila,3/1/2024 7:37,1/18/2025 11:19,521,1979,Pipe Burst,Heatwave,Yes
+842,Water Pipeline,Ermita District,City of Manila,12/27/2024 18:51,4/16/2022 23:51,1174,5325,Pipe Burst,Heatwave,No
+843,Electric Grid,Ermita District,City of Manila,4/26/2026 1:59,7/13/2024 14:35,861,2073,Equipment Age,Heavy Rain,No
+844,Water Pipeline,Ermita District,City of Manila,3/12/2025 23:17,4/18/2023 12:19,1424,7469,Lightning,Heatwave,No
+845,Water Pipeline,North Bay Boulevard,Navotas City,9/18/2026 17:04,2/27/2025 3:16,547,5535,Fallen Tree Branch,Heavy Rain,No
+846,Water Pipeline,Ermita District,City of Manila,3/1/2023 23:56,7/25/2025 17:19,748,4259,Lightning,Heatwave,No
+847,Electric Grid,North Bay Boulevard,Navotas City,1/11/2023 21:22,9/17/2024 17:44,1188,9182,Equipment Age,Heavy Rain,No
+848,Electric Grid,Ermita District,City of Manila,5/22/2025 17:32,11/27/2023 12:59,631,8285,Lightning,Heatwave,No
+849,Electric Grid,North Bay Boulevard,Navotas City,12/12/2024 23:30,6/24/2024 12:01,858,1063,Lightning,Heatwave,Yes
+850,Water Pipeline,North Bay Boulevard,Navotas City,7/4/2025 23:43,5/10/2023 12:30,1313,5133,Fallen Tree Branch,Heavy Rain,No
+851,Water Pipeline,Ermita District,City of Manila,8/24/2024 11:06,9/11/2024 4:40,418,3139,Lightning,Heatwave,No
+852,Electric Grid,North Bay Boulevard,Navotas City,11/19/2025 9:08,4/12/2023 11:25,1004,3748,Equipment Age,Heavy Rain,Yes
+853,Electric Grid,North Bay Boulevard,Navotas City,7/1/2022 20:38,5/25/2023 17:22,859,4806,Pipe Burst,High Wind,No
+854,Water Pipeline,North Bay Boulevard,Navotas City,10/21/2022 21:20,1/7/2026 2:51,345,9991,Lightning,Clear,Yes
+855,Electric Grid,Ermita District,City of Manila,2/14/2023 3:25,3/2/2024 23:26,1100,7060,Pipe Burst,Clear,No
+856,Electric Grid,Ermita District,City of Manila,11/1/2025 14:25,12/15/2025 10:01,1157,7810,Fallen Tree Branch,Heavy Rain,Yes
+857,Electric Grid,North Bay Boulevard,Navotas City,11/8/2022 4:45,12/18/2026 9:51,1251,6081,Lightning,Clear,No
+858,Electric Grid,North Bay Boulevard,Navotas City,3/3/2024 0:51,3/26/2022 2:04,756,8286,Pipe Burst,High Wind,No
+859,Water Pipeline,North Bay Boulevard,Navotas City,5/31/2022 18:10,1/17/2026 20:04,706,2244,Pipe Burst,Clear,No
+860,Electric Grid,North Bay Boulevard,Navotas City,1/17/2023 12:51,2/18/2024 4:23,1141,6471,Lightning,Heavy Rain,No
+861,Electric Grid,Ermita District,City of Manila,1/30/2026 0:53,12/28/2024 12:49,395,7175,Lightning,Clear,Yes
+862,Water Pipeline,North Bay Boulevard,Navotas City,4/27/2023 16:29,9/30/2024 4:27,92,7598,Lightning,Heatwave,Yes
+863,Water Pipeline,North Bay Boulevard,Navotas City,9/20/2023 13:19,3/16/2024 13:45,1387,8913,Fallen Tree Branch,Heavy Rain,Yes
+864,Electric Grid,North Bay Boulevard,Navotas City,6/21/2022 1:09,11/30/2025 18:16,590,7258,Fallen Tree Branch,High Wind,Yes
+865,Electric Grid,North Bay Boulevard,Navotas City,8/13/2025 11:18,12/2/2025 14:06,658,6990,Pipe Burst,High Wind,No
+866,Water Pipeline,North Bay Boulevard,Navotas City,4/2/2025 6:32,10/21/2023 16:47,224,6279,Lightning,Clear,Yes
+867,Water Pipeline,North Bay Boulevard,Navotas City,7/30/2026 21:18,2/16/2022 13:32,541,1457,Equipment Age,Heavy Rain,No
+868,Water Pipeline,North Bay Boulevard,Navotas City,7/23/2025 4:52,3/29/2026 2:51,1328,8345,Lightning,Heatwave,No
+869,Water Pipeline,Ermita District,City of Manila,7/2/2026 11:45,5/24/2023 11:49,347,2547,Pipe Burst,Heatwave,Yes
+870,Electric Grid,Ermita District,City of Manila,9/8/2026 2:33,11/26/2025 21:29,751,1281,Lightning,High Wind,Yes
+871,Electric Grid,North Bay Boulevard,Navotas City,3/10/2024 14:48,3/11/2025 15:51,666,7303,Fallen Tree Branch,Clear,Yes
+872,Water Pipeline,North Bay Boulevard,Navotas City,3/3/2026 14:15,7/7/2024 16:45,1323,9471,Equipment Age,High Wind,Yes
+873,Electric Grid,Ermita District,City of Manila,11/23/2026 9:06,2/16/2024 5:20,634,8006,Pipe Burst,Clear,No
+874,Water Pipeline,Ermita District,City of Manila,7/13/2026 10:35,7/23/2025 14:25,129,5515,Pipe Burst,High Wind,Yes
+875,Electric Grid,Ermita District,City of Manila,11/4/2024 20:56,7/4/2023 19:13,238,633,Pipe Burst,Clear,No
+876,Electric Grid,North Bay Boulevard,Navotas City,1/25/2024 19:57,4/17/2025 0:38,900,9441,Fallen Tree Branch,High Wind,Yes
+877,Water Pipeline,North Bay Boulevard,Navotas City,10/12/2025 3:28,6/12/2025 20:25,340,6399,Equipment Age,Heavy Rain,No
+878,Water Pipeline,Ermita District,City of Manila,12/23/2023 1:30,7/8/2026 22:32,1235,4928,Fallen Tree Branch,Heavy Rain,Yes
+879,Electric Grid,Ermita District,City of Manila,9/16/2024 17:50,8/21/2025 0:36,547,2547,Pipe Burst,Clear,No
+880,Water Pipeline,Ermita District,City of Manila,7/6/2023 17:21,11/27/2023 13:03,1118,7439,Pipe Burst,Clear,No
+881,Water Pipeline,Ermita District,City of Manila,10/14/2026 8:21,6/17/2025 22:35,856,1212,Fallen Tree Branch,Clear,Yes
+882,Electric Grid,Ermita District,City of Manila,2/10/2024 11:51,6/12/2024 17:44,1159,4047,Lightning,Heatwave,Yes
+883,Water Pipeline,Ermita District,City of Manila,5/16/2025 5:39,12/29/2023 4:09,821,6739,Lightning,Heatwave,No
+884,Electric Grid,Ermita District,City of Manila,9/13/2024 22:28,6/19/2022 22:26,951,1495,Fallen Tree Branch,High Wind,No
+885,Water Pipeline,North Bay Boulevard,Navotas City,7/26/2026 6:14,12/18/2023 17:53,1345,8117,Lightning,Heatwave,Yes
+886,Water Pipeline,North Bay Boulevard,Navotas City,3/22/2026 23:11,8/15/2024 23:24,600,4518,Lightning,Heavy Rain,Yes
+887,Water Pipeline,Ermita District,City of Manila,9/1/2024 16:05,3/20/2024 6:48,1229,1909,Lightning,Clear,No
+888,Water Pipeline,Ermita District,City of Manila,6/26/2025 4:17,8/12/2023 0:29,1302,6967,Fallen Tree Branch,High Wind,Yes
+889,Electric Grid,Ermita District,City of Manila,10/16/2026 3:13,4/22/2023 19:13,722,4222,Lightning,Heavy Rain,Yes
+890,Water Pipeline,Ermita District,City of Manila,4/20/2025 4:55,1/10/2024 21:12,216,2541,Lightning,Heatwave,No
+891,Water Pipeline,North Bay Boulevard,Navotas City,4/23/2026 1:49,2/2/2026 8:18,582,7097,Fallen Tree Branch,Heatwave,Yes
+892,Water Pipeline,Ermita District,City of Manila,8/23/2024 12:46,3/21/2025 16:48,104,7097,Lightning,Clear,No
+893,Water Pipeline,North Bay Boulevard,Navotas City,10/9/2026 18:24,7/21/2022 14:48,40,1885,Lightning,Heatwave,No
+894,Water Pipeline,Ermita District,City of Manila,10/16/2026 4:37,2/17/2022 15:31,155,8493,Fallen Tree Branch,Heavy Rain,Yes
+895,Water Pipeline,North Bay Boulevard,Navotas City,4/27/2023 7:13,11/29/2022 22:12,515,1312,Equipment Age,Heavy Rain,No
+896,Water Pipeline,North Bay Boulevard,Navotas City,6/28/2026 6:24,5/19/2026 6:04,1208,1040,Pipe Burst,Heavy Rain,Yes
+897,Water Pipeline,North Bay Boulevard,Navotas City,9/23/2025 1:44,7/30/2026 5:01,126,2451,Fallen Tree Branch,Clear,Yes
+898,Water Pipeline,North Bay Boulevard,Navotas City,6/30/2025 21:56,6/25/2022 6:11,377,9143,Fallen Tree Branch,High Wind,Yes
+899,Water Pipeline,North Bay Boulevard,Navotas City,8/8/2022 15:58,5/1/2026 14:56,127,8691,Pipe Burst,Clear,Yes
+900,Electric Grid,Ermita District,City of Manila,12/23/2025 20:47,3/18/2025 17:37,634,2392,Lightning,Heavy Rain,Yes
+901,Water Pipeline,North Bay Boulevard,Navotas City,11/7/2024 15:43,7/22/2024 11:23,224,1015,Fallen Tree Branch,Heatwave,No
+902,Electric Grid,North Bay Boulevard,Navotas City,10/2/2022 12:39,4/9/2024 23:16,289,5779,Equipment Age,Heatwave,No
+903,Water Pipeline,North Bay Boulevard,Navotas City,12/3/2024 16:19,3/23/2025 1:07,893,566,Fallen Tree Branch,Heatwave,No
+904,Water Pipeline,North Bay Boulevard,Navotas City,7/25/2023 17:55,2/17/2025 5:09,1092,6874,Equipment Age,Heavy Rain,Yes
+905,Water Pipeline,Ermita District,City of Manila,6/7/2023 5:21,12/1/2023 20:54,1100,4764,Equipment Age,High Wind,No
+906,Electric Grid,Ermita District,City of Manila,3/27/2025 11:03,12/20/2025 17:28,1302,8801,Lightning,High Wind,No
+907,Water Pipeline,Ermita District,City of Manila,2/14/2025 5:40,7/6/2026 1:54,960,6199,Fallen Tree Branch,Heatwave,No
+908,Water Pipeline,North Bay Boulevard,Navotas City,11/23/2025 9:25,10/13/2024 14:54,1208,9450,Fallen Tree Branch,Clear,Yes
+909,Electric Grid,North Bay Boulevard,Navotas City,5/18/2025 3:06,5/31/2025 1:18,112,5509,Lightning,Clear,Yes
+910,Water Pipeline,Ermita District,City of Manila,6/11/2023 2:18,4/29/2026 19:15,833,1776,Equipment Age,Clear,No
+911,Electric Grid,North Bay Boulevard,Navotas City,9/20/2024 8:34,1/30/2022 22:30,1017,8264,Pipe Burst,Heatwave,No
+912,Water Pipeline,Ermita District,City of Manila,1/8/2026 12:05,8/17/2022 13:11,600,1356,Fallen Tree Branch,Heatwave,Yes
+913,Water Pipeline,Ermita District,City of Manila,5/2/2025 10:58,6/1/2026 3:17,544,8612,Lightning,High Wind,No
+914,Electric Grid,North Bay Boulevard,Navotas City,10/9/2024 21:39,1/25/2024 18:52,566,5169,Fallen Tree Branch,Heatwave,No
+915,Electric Grid,North Bay Boulevard,Navotas City,9/7/2024 3:41,4/2/2023 10:11,1239,1788,Lightning,High Wind,Yes
+916,Water Pipeline,Ermita District,City of Manila,8/21/2022 20:58,7/23/2023 10:17,764,3593,Lightning,Clear,Yes
+917,Electric Grid,North Bay Boulevard,Navotas City,4/10/2025 7:46,5/3/2024 17:30,609,9851,Fallen Tree Branch,High Wind,No
+918,Electric Grid,North Bay Boulevard,Navotas City,8/1/2023 0:32,5/27/2024 9:40,817,3432,Fallen Tree Branch,Heavy Rain,No
+919,Electric Grid,North Bay Boulevard,Navotas City,12/12/2026 23:56,6/29/2022 21:42,1338,3881,Pipe Burst,Heatwave,Yes
+920,Water Pipeline,Ermita District,City of Manila,8/16/2022 9:30,3/23/2024 10:50,282,7114,Lightning,High Wind,Yes
+921,Water Pipeline,North Bay Boulevard,Navotas City,1/17/2022 17:23,9/14/2026 6:33,998,6138,Fallen Tree Branch,High Wind,No
+922,Water Pipeline,Ermita District,City of Manila,6/10/2026 20:07,8/21/2025 7:30,744,1409,Fallen Tree Branch,Heavy Rain,No
+923,Electric Grid,North Bay Boulevard,Navotas City,11/16/2024 10:11,9/30/2022 0:13,309,5402,Pipe Burst,High Wind,Yes
+924,Water Pipeline,North Bay Boulevard,Navotas City,8/29/2026 20:38,2/24/2024 3:24,562,2712,Fallen Tree Branch,Heatwave,Yes
+925,Water Pipeline,North Bay Boulevard,Navotas City,6/14/2025 22:17,4/28/2025 21:19,1207,477,Equipment Age,Heatwave,No
+926,Water Pipeline,Ermita District,City of Manila,8/31/2023 20:09,3/25/2025 13:06,460,5887,Lightning,High Wind,No
+927,Water Pipeline,Ermita District,City of Manila,5/25/2023 5:22,9/3/2026 6:16,266,6602,Fallen Tree Branch,Heatwave,Yes
+928,Electric Grid,North Bay Boulevard,Navotas City,11/14/2024 23:15,11/25/2026 0:54,888,8971,Equipment Age,Clear,Yes
+929,Electric Grid,Ermita District,City of Manila,9/26/2026 8:52,6/24/2024 5:22,433,5508,Lightning,Clear,No
+930,Water Pipeline,Ermita District,City of Manila,8/13/2024 2:57,9/21/2025 1:45,358,1567,Fallen Tree Branch,Heavy Rain,Yes
+931,Electric Grid,North Bay Boulevard,Navotas City,11/26/2023 22:47,6/21/2023 13:06,604,9315,Fallen Tree Branch,Clear,No
+932,Electric Grid,Ermita District,City of Manila,12/5/2026 12:10,8/28/2026 10:51,580,800,Pipe Burst,High Wind,No
+933,Water Pipeline,North Bay Boulevard,Navotas City,12/11/2022 5:31,8/27/2023 4:54,1154,6286,Equipment Age,Heatwave,Yes
+934,Water Pipeline,North Bay Boulevard,Navotas City,1/19/2022 13:02,9/29/2026 4:46,316,9269,Lightning,Heatwave,No
+935,Electric Grid,Ermita District,City of Manila,1/26/2023 12:14,2/18/2023 21:56,366,9267,Fallen Tree Branch,Clear,Yes
+936,Water Pipeline,Ermita District,City of Manila,3/11/2023 0:50,7/11/2025 12:33,1090,3805,Lightning,High Wind,No
+937,Electric Grid,North Bay Boulevard,Navotas City,1/25/2026 3:20,5/13/2022 12:32,1244,438,Lightning,Heavy Rain,Yes
+938,Electric Grid,North Bay Boulevard,Navotas City,10/30/2022 10:37,9/10/2026 19:28,1289,4040,Lightning,High Wind,No
+939,Electric Grid,Ermita District,City of Manila,8/17/2026 16:58,4/18/2024 18:15,246,2820,Pipe Burst,High Wind,No
+940,Electric Grid,North Bay Boulevard,Navotas City,7/30/2022 20:02,7/11/2026 10:45,763,826,Lightning,Heatwave,Yes
+941,Water Pipeline,North Bay Boulevard,Navotas City,1/14/2024 7:31,12/31/2023 21:28,140,3289,Lightning,Clear,Yes
+942,Electric Grid,North Bay Boulevard,Navotas City,9/21/2023 6:12,4/29/2022 10:33,847,3525,Fallen Tree Branch,Clear,Yes
+943,Water Pipeline,North Bay Boulevard,Navotas City,6/5/2023 8:44,10/6/2023 8:11,398,6030,Lightning,High Wind,Yes
+944,Electric Grid,Ermita District,City of Manila,6/24/2026 3:13,3/10/2026 1:20,799,3007,Fallen Tree Branch,High Wind,No
+945,Electric Grid,Ermita District,City of Manila,5/4/2025 11:52,12/31/2023 19:34,1060,2374,Fallen Tree Branch,Clear,No
+946,Water Pipeline,Ermita District,City of Manila,4/12/2025 18:25,2/13/2022 15:49,528,1883,Fallen Tree Branch,Clear,No
+947,Electric Grid,Ermita District,City of Manila,6/22/2026 5:31,1/29/2024 7:46,147,8711,Pipe Burst,Heatwave,No
+948,Electric Grid,Ermita District,City of Manila,7/11/2026 10:44,3/24/2025 11:56,726,8351,Lightning,Heavy Rain,Yes
+949,Water Pipeline,Ermita District,City of Manila,9/10/2025 4:55,9/6/2022 1:25,489,7956,Equipment Age,Heavy Rain,Yes
+950,Electric Grid,North Bay Boulevard,Navotas City,1/3/2026 17:43,8/16/2022 21:49,697,6990,Equipment Age,High Wind,Yes
+951,Electric Grid,North Bay Boulevard,Navotas City,6/5/2025 9:35,1/4/2022 7:18,1166,9136,Fallen Tree Branch,High Wind,No
+952,Electric Grid,Ermita District,City of Manila,5/20/2024 20:22,3/21/2025 1:17,333,3227,Equipment Age,Clear,Yes
+953,Electric Grid,North Bay Boulevard,Navotas City,10/22/2025 14:39,8/15/2025 3:33,987,4602,Equipment Age,Heatwave,Yes
+954,Electric Grid,Ermita District,City of Manila,8/14/2026 6:08,11/21/2026 3:20,292,10000,Equipment Age,High Wind,No
+955,Electric Grid,Ermita District,City of Manila,4/18/2024 4:02,3/6/2023 1:46,782,8147,Pipe Burst,Heavy Rain,Yes
+956,Water Pipeline,North Bay Boulevard,Navotas City,7/22/2022 15:01,2/5/2024 14:08,183,8598,Equipment Age,Heatwave,Yes
+957,Water Pipeline,Ermita District,City of Manila,9/5/2025 9:03,3/23/2024 7:16,1296,7952,Fallen Tree Branch,High Wind,No
+958,Water Pipeline,Ermita District,City of Manila,4/13/2023 21:41,11/19/2022 6:33,879,4643,Lightning,Clear,No
+959,Electric Grid,North Bay Boulevard,Navotas City,6/1/2025 17:10,12/11/2022 10:58,244,1511,Lightning,Heavy Rain,Yes
+960,Electric Grid,North Bay Boulevard,Navotas City,4/20/2026 11:45,3/27/2023 8:41,341,9911,Pipe Burst,Heavy Rain,No
+961,Water Pipeline,North Bay Boulevard,Navotas City,1/4/2023 15:33,1/3/2025 23:17,1283,5620,Fallen Tree Branch,Heatwave,No
+962,Electric Grid,Ermita District,City of Manila,10/4/2024 19:24,5/15/2025 16:35,299,8658,Fallen Tree Branch,Heatwave,No
+963,Water Pipeline,Ermita District,City of Manila,4/20/2025 20:36,4/11/2022 12:41,199,2708,Equipment Age,Clear,No
+964,Electric Grid,Ermita District,City of Manila,3/16/2024 5:29,5/18/2025 5:10,870,2570,Equipment Age,Heatwave,Yes
+965,Water Pipeline,North Bay Boulevard,Navotas City,10/30/2023 3:12,1/5/2023 2:36,1094,2685,Fallen Tree Branch,Clear,Yes
+966,Electric Grid,Ermita District,City of Manila,6/1/2024 20:10,9/27/2023 21:59,209,83,Equipment Age,High Wind,Yes
+967,Water Pipeline,Ermita District,City of Manila,6/12/2023 12:21,10/15/2024 19:58,881,2986,Pipe Burst,Clear,No
+968,Electric Grid,Ermita District,City of Manila,4/16/2022 10:57,6/15/2024 21:50,1228,6128,Lightning,Heatwave,Yes
+969,Electric Grid,North Bay Boulevard,Navotas City,6/2/2026 2:42,11/8/2025 17:28,485,7738,Equipment Age,High Wind,Yes
+970,Water Pipeline,Ermita District,City of Manila,8/1/2026 21:21,11/9/2023 3:52,1126,6616,Equipment Age,Heavy Rain,Yes
+971,Water Pipeline,North Bay Boulevard,Navotas City,12/7/2026 12:20,11/7/2024 1:02,1162,2809,Lightning,High Wind,No
+972,Electric Grid,Ermita District,City of Manila,10/27/2022 14:32,5/30/2024 20:30,286,3977,Fallen Tree Branch,Heavy Rain,Yes
+973,Electric Grid,North Bay Boulevard,Navotas City,9/20/2026 4:52,5/5/2022 15:57,874,1060,Lightning,High Wind,No
+974,Electric Grid,Ermita District,City of Manila,5/1/2023 3:09,12/23/2025 15:03,45,6485,Fallen Tree Branch,Heatwave,Yes
+975,Electric Grid,Ermita District,City of Manila,2/25/2025 10:49,10/23/2025 14:56,1082,7974,Lightning,Heavy Rain,Yes
+976,Water Pipeline,Ermita District,City of Manila,1/9/2026 1:55,7/6/2026 20:49,966,7248,Fallen Tree Branch,Heavy Rain,No
+977,Water Pipeline,Ermita District,City of Manila,2/11/2026 3:23,11/6/2026 11:41,592,580,Fallen Tree Branch,Heavy Rain,No
+978,Water Pipeline,North Bay Boulevard,Navotas City,2/9/2023 8:24,7/2/2024 23:28,943,391,Equipment Age,Heavy Rain,No
+979,Electric Grid,North Bay Boulevard,Navotas City,11/1/2023 12:28,4/22/2024 13:21,945,6582,Fallen Tree Branch,Clear,No
+980,Electric Grid,Ermita District,City of Manila,1/21/2023 8:29,4/21/2025 15:20,669,6790,Equipment Age,Clear,Yes
+981,Electric Grid,Ermita District,City of Manila,8/14/2026 3:10,12/8/2022 18:18,132,8328,Lightning,Clear,Yes
+982,Water Pipeline,Ermita District,City of Manila,2/27/2022 18:04,4/21/2025 4:07,533,6399,Lightning,High Wind,Yes
+983,Water Pipeline,North Bay Boulevard,Navotas City,3/27/2025 16:18,10/5/2023 23:19,1040,5735,Equipment Age,Heavy Rain,Yes
+984,Electric Grid,North Bay Boulevard,Navotas City,12/8/2023 18:00,2/13/2023 8:23,828,1863,Lightning,Heavy Rain,No
+985,Water Pipeline,North Bay Boulevard,Navotas City,8/19/2023 1:05,12/27/2026 20:05,459,9123,Pipe Burst,Clear,Yes
+986,Electric Grid,North Bay Boulevard,Navotas City,3/29/2025 7:26,7/15/2023 22:33,993,3938,Fallen Tree Branch,Heatwave,No
+987,Electric Grid,Ermita District,City of Manila,5/27/2022 9:34,11/11/2026 13:07,660,9703,Pipe Burst,High Wind,Yes
+988,Water Pipeline,Ermita District,City of Manila,9/28/2023 9:13,1/24/2024 2:43,289,1946,Pipe Burst,Heavy Rain,No
+989,Electric Grid,North Bay Boulevard,Navotas City,10/21/2025 19:14,7/4/2023 21:21,1360,7783,Pipe Burst,Heavy Rain,Yes
+990,Electric Grid,North Bay Boulevard,Navotas City,10/11/2023 12:39,3/12/2024 8:38,466,4873,Equipment Age,Heavy Rain,No
+991,Water Pipeline,Ermita District,City of Manila,10/22/2022 19:47,9/22/2023 14:28,1337,6048,Fallen Tree Branch,Heatwave,Yes
+992,Electric Grid,North Bay Boulevard,Navotas City,6/15/2024 11:08,7/18/2023 0:57,520,4669,Lightning,Heatwave,Yes
+993,Electric Grid,Ermita District,City of Manila,7/13/2023 13:01,1/13/2022 4:34,115,1376,Fallen Tree Branch,Clear,Yes
+994,Electric Grid,North Bay Boulevard,Navotas City,2/16/2022 3:56,4/30/2022 15:45,61,7292,Lightning,High Wind,No
+995,Water Pipeline,North Bay Boulevard,Navotas City,12/16/2026 5:17,9/7/2023 2:38,817,5940,Equipment Age,High Wind,Yes
+996,Water Pipeline,Ermita District,City of Manila,1/11/2022 6:52,9/27/2026 23:30,262,9875,Lightning,Heatwave,No
+997,Water Pipeline,Ermita District,City of Manila,9/21/2024 3:47,1/10/2024 22:09,1204,8248,Pipe Burst,Heavy Rain,Yes
+998,Water Pipeline,North Bay Boulevard,Navotas City,8/26/2026 13:59,12/20/2024 18:10,1174,2624,Lightning,Clear,No
+999,Electric Grid,North Bay Boulevard,Navotas City,9/13/2026 18:42,10/25/2023 6:33,954,7169,Lightning,Heavy Rain,Yes
+1000,Water Pipeline,North Bay Boulevard,Navotas City,7/3/2022 21:23,7/3/2023 14:04,67,9566,Fallen Tree Branch,Clear,Yes

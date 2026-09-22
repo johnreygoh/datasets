@@ -1,0 +1,1001 @@
+timestamp,address,city,total_demand,outside_temperature_c,is_weekend,is_holiday,peak_hour_flag
+12/1/2022 3:35,"47 Masikap St., Brgy. BF Homes",Parañaque,20.0,30.0,TRUE,FALSE,FALSE
+8/19/2022 18:32,"84 Maligaya St., Brgy. Ermita",Manila,90.7,45.9,TRUE,FALSE,TRUE
+8/5/2022 23:14,"121 Molave St., Brgy. Sto. Niño",Marikina,25.8,31.3,FALSE,FALSE,FALSE
+6/20/2022 17:19,"158 Maligaya St., Brgy. Ususan",Taguig,46.7,36.0,TRUE,FALSE,FALSE
+6/11/2022 0:11,"195 Dahlia St., Brgy. San Antonio",Makati,29.3,32.1,TRUE,TRUE,FALSE
+9/16/2022 2:08,"232 Narra St., Brgy. Maricaban",Pasay,20.0,30.0,TRUE,FALSE,FALSE
+1/7/2022 1:02,"269 Acacia St., Brgy. Diliman",Quezon City,71.1,41.5,TRUE,FALSE,TRUE
+9/22/2022 16:42,"306 Rizal St., Brgy. Alabang",Muntinlupa,20.4,30.1,TRUE,TRUE,FALSE
+9/25/2022 0:19,"343 Acacia St., Brgy. Malinta",Valenzuela,83.6,44.3,FALSE,TRUE,TRUE
+2/14/2022 21:27,"380 Maharlika St., Brgy. Longos",Malabon,93.3,46.5,FALSE,FALSE,TRUE
+5/29/2022 11:05,"417 Mabini St., Brgy. Ugong",Pasig,47.6,36.2,TRUE,TRUE,FALSE
+5/16/2022 8:43,"454 Bonifacio St., Brgy. Camarin",Caloocan,80.9,43.7,TRUE,FALSE,TRUE
+10/21/2022 21:38,"491 Kalayaan St., Brgy. Daanghari",Navotas,97.3,47.4,FALSE,TRUE,TRUE
+10/21/2022 12:00,"528 Bonifacio St., Brgy. Sta. Ana",Pateros,69.3,41.1,FALSE,FALSE,TRUE
+8/1/2022 20:37,"565 Sampaguita St., Brgy. Highway Hills",Mandaluyong,73.3,42.0,FALSE,TRUE,TRUE
+10/15/2022 4:11,"602 Masikap St., Brgy. Greenhills",San Juan,97.3,47.4,FALSE,TRUE,TRUE
+6/7/2022 10:51,"639 Maligaya St., Brgy. Talon Uno",Las Piñas,28.0,31.8,FALSE,FALSE,FALSE
+7/16/2022 20:05,"676 Molave St., Brgy. Baclaran",Parañaque,39.1,34.3,TRUE,TRUE,FALSE
+11/14/2022 18:34,"713 Narra St., Brgy. Sampaloc",Manila,91.6,46.1,FALSE,TRUE,TRUE
+6/5/2022 0:09,"750 Dahlia St., Brgy. Parang",Marikina,41.3,34.8,FALSE,TRUE,FALSE
+4/8/2022 1:42,"787 Narra St., Brgy. Western Bicutan",Taguig,86.2,44.9,FALSE,FALSE,TRUE
+4/25/2022 11:13,"824 Acacia St., Brgy. Poblacion",Makati,59.1,38.8,FALSE,FALSE,FALSE
+3/18/2022 15:11,"861 Rizal St., Brgy. Malibay",Pasay,65.3,40.2,FALSE,FALSE,TRUE
+9/25/2022 17:02,"898 Mabini St., Brgy. Cubao",Quezon City,36.4,33.7,FALSE,TRUE,FALSE
+6/12/2022 2:22,"935 Maharlika St., Brgy. Putatan",Muntinlupa,40.9,34.7,TRUE,TRUE,FALSE
+6/2/2022 6:52,"972 Mabini St., Brgy. Marulas",Valenzuela,56.9,38.3,TRUE,FALSE,FALSE
+11/20/2022 0:15,"20 Bonifacio St., Brgy. Concepcion",Malabon,38.7,34.2,TRUE,FALSE,FALSE
+9/21/2022 6:23,"57 Kalayaan St., Brgy. San Antonio",Pasig,21.3,30.3,TRUE,FALSE,FALSE
+12/22/2022 10:37,"94 Masikap St., Brgy. Grace Park",Caloocan,69.3,41.1,TRUE,FALSE,TRUE
+1/19/2022 15:21,"131 Sampaguita St., Brgy. San Roque",Navotas,20.9,30.2,FALSE,FALSE,FALSE
+7/5/2022 13:48,"168 Masikap St., Brgy. San Roque",Pateros,83.6,44.3,TRUE,FALSE,TRUE
+10/12/2022 5:58,"205 Maligaya St., Brgy. Plainview",Mandaluyong,29.3,32.1,FALSE,TRUE,FALSE
+12/11/2022 1:42,"242 Molave St., Brgy. Addition Hills",San Juan,98.2,47.6,TRUE,FALSE,TRUE
+4/24/2022 17:57,"279 Narra St., Brgy. Pulang Lupa",Las Piñas,20.0,30.0,FALSE,FALSE,FALSE
+1/11/2022 0:11,"316 Dahlia St., Brgy. Don Bosco",Parañaque,34.7,33.3,TRUE,TRUE,FALSE
+10/30/2022 0:49,"353 Rizal St., Brgy. Malate",Manila,36.0,33.6,TRUE,FALSE,FALSE
+10/29/2022 17:25,"390 Acacia St., Brgy. Concepcion Uno",Marikina,89.8,45.7,FALSE,TRUE,TRUE
+1/10/2022 2:59,"427 Rizal St., Brgy. Fort Bonifacio",Taguig,76.0,42.6,TRUE,FALSE,TRUE
+12/17/2022 3:41,"464 Mabini St., Brgy. Bel-Air",Makati,25.8,31.3,TRUE,TRUE,FALSE
+2/18/2022 1:11,"501 Maharlika St., Brgy. San Isidro",Pasay,52.4,37.3,TRUE,FALSE,FALSE
+2/1/2022 11:19,"538 Kalayaan St., Brgy. Tandang Sora",Quezon City,92.4,46.3,FALSE,FALSE,TRUE
+7/5/2022 23:08,"575 Bonifacio St., Brgy. Tunasan",Muntinlupa,32.0,32.7,FALSE,FALSE,FALSE
+5/28/2022 22:50,"612 Kalayaan St., Brgy. Karuhatan",Valenzuela,75.1,42.4,FALSE,TRUE,TRUE
+12/16/2022 17:30,"649 Masikap St., Brgy. Potrero",Malabon,56.0,38.1,TRUE,FALSE,FALSE
+3/21/2022 11:09,"686 Sampaguita St., Brgy. Kapitolyo",Pasig,39.1,34.3,TRUE,FALSE,FALSE
+2/14/2022 8:07,"723 Molave St., Brgy. Bagong Silang",Caloocan,58.2,38.6,TRUE,TRUE,FALSE
+10/20/2022 15:25,"760 Maligaya St., Brgy. Tanza",Navotas,40.4,34.6,TRUE,TRUE,FALSE
+1/28/2022 15:42,"797 Molave St., Brgy. Aguho",Pateros,77.8,43.0,FALSE,TRUE,TRUE
+12/25/2022 18:03,"834 Narra St., Brgy. Hulo",Mandaluyong,24.4,31.0,FALSE,TRUE,FALSE
+3/11/2022 15:09,"871 Dahlia St., Brgy. Balong-Bato",San Juan,35.6,33.5,FALSE,TRUE,FALSE
+8/6/2022 4:01,"908 Rizal St., Brgy. Almanza",Las Piñas,65.3,40.2,TRUE,TRUE,TRUE
+4/18/2022 20:18,"945 Acacia St., Brgy. BF Homes",Parañaque,82.7,44.1,TRUE,TRUE,TRUE
+6/19/2022 15:43,"982 Maharlika St., Brgy. Ermita",Manila,94.7,46.8,FALSE,TRUE,TRUE
+1/2/2022 5:06,"30 Mabini St., Brgy. Sto. Niño",Marikina,51.1,37.0,FALSE,FALSE,FALSE
+9/16/2022 15:18,"67 Maharlika St., Brgy. Ususan",Taguig,39.6,34.4,FALSE,TRUE,FALSE
+5/5/2022 7:13,"104 Kalayaan St., Brgy. San Antonio",Makati,28.0,31.8,TRUE,FALSE,FALSE
+8/6/2022 9:57,"141 Bonifacio St., Brgy. Maricaban",Pasay,59.1,38.8,FALSE,FALSE,FALSE
+4/26/2022 0:46,"178 Sampaguita St., Brgy. Diliman",Quezon City,38.7,34.2,TRUE,TRUE,FALSE
+2/3/2022 17:42,"215 Masikap St., Brgy. Alabang",Muntinlupa,34.7,33.3,TRUE,FALSE,FALSE
+3/9/2022 0:32,"252 Sampaguita St., Brgy. Malinta",Valenzuela,72.9,41.9,TRUE,TRUE,TRUE
+5/20/2022 1:28,"289 Molave St., Brgy. Longos",Malabon,58.2,38.6,FALSE,FALSE,FALSE
+2/6/2022 5:25,"326 Maligaya St., Brgy. Ugong",Pasig,25.8,31.3,TRUE,TRUE,FALSE
+3/14/2022 4:07,"363 Dahlia St., Brgy. Camarin",Caloocan,96.4,47.2,FALSE,FALSE,TRUE
+3/6/2022 21:01,"400 Narra St., Brgy. Daanghari",Navotas,29.3,32.1,FALSE,FALSE,FALSE
+2/23/2022 5:12,"437 Dahlia St., Brgy. Sta. Ana",Pateros,22.7,30.6,FALSE,TRUE,FALSE
+9/6/2022 20:33,"474 Rizal St., Brgy. Highway Hills",Mandaluyong,34.2,33.2,TRUE,FALSE,FALSE
+7/6/2022 3:41,"511 Acacia St., Brgy. Greenhills",San Juan,24.4,31.0,FALSE,FALSE,FALSE
+7/28/2022 18:02,"548 Maharlika St., Brgy. Talon Uno",Las Piñas,48.4,36.4,TRUE,TRUE,FALSE
+1/12/2022 13:42,"585 Mabini St., Brgy. Baclaran",Parañaque,34.2,33.2,FALSE,TRUE,FALSE
+12/28/2022 11:54,"622 Bonifacio St., Brgy. Sampaloc",Manila,41.3,34.8,FALSE,TRUE,FALSE
+3/12/2022 18:36,"659 Kalayaan St., Brgy. Parang",Marikina,24.9,31.1,TRUE,FALSE,FALSE
+10/16/2022 16:06,"696 Bonifacio St., Brgy. Western Bicutan",Taguig,35.6,33.5,TRUE,FALSE,FALSE
+10/10/2022 7:20,"733 Sampaguita St., Brgy. Poblacion",Makati,36.4,33.7,TRUE,FALSE,FALSE
+4/18/2022 19:50,"770 Masikap St., Brgy. Malibay",Pasay,71.1,41.5,TRUE,TRUE,TRUE
+9/10/2022 21:37,"807 Maligaya St., Brgy. Cubao",Quezon City,38.7,34.2,TRUE,FALSE,FALSE
+12/4/2022 13:27,"844 Molave St., Brgy. Putatan",Muntinlupa,86.2,44.9,FALSE,TRUE,TRUE
+11/7/2022 22:29,"881 Maligaya St., Brgy. Marulas",Valenzuela,22.2,30.5,FALSE,TRUE,FALSE
+6/6/2022 11:04,"918 Dahlia St., Brgy. Concepcion",Malabon,59.1,38.8,TRUE,FALSE,FALSE
+12/23/2022 7:12,"955 Narra St., Brgy. San Antonio",Pasig,44.9,35.6,FALSE,TRUE,FALSE
+6/29/2022 8:51,"992 Acacia St., Brgy. Grace Park",Caloocan,23.1,30.7,FALSE,TRUE,FALSE
+6/2/2022 19:05,"40 Rizal St., Brgy. San Roque",Navotas,69.3,41.1,FALSE,FALSE,TRUE
+1/16/2022 6:05,"77 Acacia St., Brgy. San Roque",Pateros,22.7,30.6,TRUE,TRUE,FALSE
+12/8/2022 9:24,"114 Maharlika St., Brgy. Plainview",Mandaluyong,55.1,37.9,TRUE,FALSE,FALSE
+5/20/2022 9:57,"151 Mabini St., Brgy. Addition Hills",San Juan,27.1,31.6,TRUE,TRUE,FALSE
+8/9/2022 19:38,"188 Bonifacio St., Brgy. Pulang Lupa",Las Piñas,32.4,32.8,TRUE,TRUE,FALSE
+5/20/2022 1:52,"225 Kalayaan St., Brgy. Don Bosco",Parañaque,70.2,41.3,TRUE,FALSE,TRUE
+1/9/2022 5:30,"262 Masikap St., Brgy. Malate",Manila,69.3,41.1,TRUE,TRUE,TRUE
+10/11/2022 2:31,"299 Sampaguita St., Brgy. Concepcion Uno",Marikina,49.8,36.7,FALSE,TRUE,FALSE
+2/4/2022 15:37,"336 Masikap St., Brgy. Fort Bonifacio",Taguig,39.6,34.4,TRUE,TRUE,FALSE
+11/16/2022 8:21,"373 Maligaya St., Brgy. Bel-Air",Makati,20.4,30.1,TRUE,TRUE,FALSE
+9/15/2022 9:47,"410 Molave St., Brgy. San Isidro",Pasay,95.6,47.0,TRUE,TRUE,TRUE
+9/11/2022 0:43,"447 Narra St., Brgy. Tandang Sora",Quezon City,73.3,42.0,FALSE,TRUE,TRUE
+2/27/2022 23:39,"484 Dahlia St., Brgy. Tunasan",Muntinlupa,26.7,31.5,FALSE,TRUE,FALSE
+6/8/2022 6:42,"521 Narra St., Brgy. Karuhatan",Valenzuela,29.8,32.2,FALSE,TRUE,FALSE
+2/19/2022 14:35,"558 Acacia St., Brgy. Potrero",Malabon,40.9,34.7,FALSE,TRUE,FALSE
+10/4/2022 11:10,"595 Rizal St., Brgy. Kapitolyo",Pasig,34.7,33.3,FALSE,TRUE,FALSE
+11/26/2022 16:00,"632 Mabini St., Brgy. Bagong Silang",Caloocan,52.0,37.2,FALSE,FALSE,FALSE
+10/8/2022 21:56,"669 Maharlika St., Brgy. Tanza",Navotas,31.1,32.5,TRUE,FALSE,FALSE
+8/22/2022 20:09,"706 Mabini St., Brgy. Aguho",Pateros,98.2,47.6,TRUE,FALSE,TRUE
+2/5/2022 19:49,"743 Bonifacio St., Brgy. Hulo",Mandaluyong,20.4,30.1,TRUE,FALSE,FALSE
+7/21/2022 13:58,"780 Kalayaan St., Brgy. Balong-Bato",San Juan,40.4,34.6,FALSE,FALSE,FALSE
+3/31/2022 9:39,"817 Masikap St., Brgy. Almanza",Las Piñas,88.0,45.3,FALSE,FALSE,TRUE
+12/9/2022 16:54,"854 Sampaguita St., Brgy. BF Homes",Parañaque,21.3,30.3,FALSE,FALSE,FALSE
+1/27/2022 12:30,"891 Molave St., Brgy. Ermita",Manila,63.1,39.7,TRUE,TRUE,FALSE
+6/19/2022 13:49,"928 Maligaya St., Brgy. Sto. Niño",Marikina,58.2,38.6,TRUE,FALSE,FALSE
+7/26/2022 9:25,"965 Molave St., Brgy. Ususan",Taguig,64.4,40.0,TRUE,TRUE,FALSE
+3/2/2022 22:59,"13 Narra St., Brgy. San Antonio",Makati,94.7,46.8,TRUE,TRUE,TRUE
+6/4/2022 10:36,"50 Dahlia St., Brgy. Maricaban",Pasay,21.3,30.3,TRUE,TRUE,FALSE
+5/14/2022 11:41,"87 Rizal St., Brgy. Diliman",Quezon City,36.0,33.6,FALSE,FALSE,FALSE
+10/9/2022 13:36,"124 Acacia St., Brgy. Alabang",Muntinlupa,59.1,38.8,FALSE,TRUE,FALSE
+9/4/2022 9:58,"161 Rizal St., Brgy. Malinta",Valenzuela,99.1,47.8,TRUE,TRUE,TRUE
+1/18/2022 4:47,"198 Mabini St., Brgy. Longos",Malabon,60.0,39.0,TRUE,TRUE,FALSE
+7/21/2022 11:50,"235 Maharlika St., Brgy. Ugong",Pasig,73.3,42.0,TRUE,TRUE,TRUE
+5/19/2022 5:31,"272 Kalayaan St., Brgy. Camarin",Caloocan,23.1,30.7,FALSE,TRUE,FALSE
+1/13/2022 7:36,"309 Bonifacio St., Brgy. Daanghari",Navotas,60.0,39.0,TRUE,FALSE,FALSE
+11/12/2022 13:51,"346 Kalayaan St., Brgy. Sta. Ana",Pateros,56.9,38.3,FALSE,TRUE,FALSE
+11/16/2022 8:35,"383 Masikap St., Brgy. Highway Hills",Mandaluyong,44.0,35.4,FALSE,TRUE,FALSE
+3/3/2022 0:30,"420 Sampaguita St., Brgy. Greenhills",San Juan,21.3,30.3,FALSE,FALSE,FALSE
+11/29/2022 4:28,"457 Molave St., Brgy. Talon Uno",Las Piñas,48.4,36.4,TRUE,FALSE,FALSE
+1/3/2022 7:12,"494 Maligaya St., Brgy. Baclaran",Parañaque,36.0,33.6,FALSE,TRUE,FALSE
+3/2/2022 23:16,"531 Dahlia St., Brgy. Sampaloc",Manila,30.7,32.4,FALSE,TRUE,FALSE
+11/12/2022 18:28,"568 Narra St., Brgy. Parang",Marikina,32.0,32.7,TRUE,TRUE,FALSE
+2/9/2022 8:11,"605 Dahlia St., Brgy. Western Bicutan",Taguig,84.4,44.5,TRUE,TRUE,TRUE
+12/25/2022 2:59,"642 Rizal St., Brgy. Poblacion",Makati,39.1,34.3,TRUE,FALSE,FALSE
+7/8/2022 15:47,"679 Acacia St., Brgy. Malibay",Pasay,63.1,39.7,FALSE,TRUE,FALSE
+5/5/2022 21:11,"716 Maharlika St., Brgy. Cubao",Quezon City,48.4,36.4,FALSE,TRUE,FALSE
+2/13/2022 2:01,"753 Mabini St., Brgy. Putatan",Muntinlupa,41.3,34.8,FALSE,FALSE,FALSE
+3/20/2022 11:48,"790 Maharlika St., Brgy. Marulas",Valenzuela,32.0,32.7,FALSE,TRUE,FALSE
+8/13/2022 3:05,"827 Kalayaan St., Brgy. Concepcion",Malabon,24.9,31.1,TRUE,TRUE,FALSE
+2/13/2022 14:17,"864 Bonifacio St., Brgy. San Antonio",Pasig,23.1,30.7,TRUE,FALSE,FALSE
+3/11/2022 3:24,"901 Sampaguita St., Brgy. Grace Park",Caloocan,91.6,46.1,TRUE,TRUE,TRUE
+8/2/2022 4:12,"938 Masikap St., Brgy. San Roque",Navotas,92.4,46.3,TRUE,FALSE,TRUE
+5/7/2022 7:21,"975 Sampaguita St., Brgy. San Roque",Pateros,25.8,31.3,TRUE,TRUE,FALSE
+8/23/2022 2:50,"23 Molave St., Brgy. Plainview",Mandaluyong,37.8,34.0,FALSE,TRUE,FALSE
+4/6/2022 3:00,"60 Maligaya St., Brgy. Addition Hills",San Juan,64.4,40.0,TRUE,TRUE,FALSE
+8/1/2022 0:38,"97 Dahlia St., Brgy. Pulang Lupa",Las Piñas,50.2,36.8,TRUE,FALSE,FALSE
+8/25/2022 3:24,"134 Narra St., Brgy. Don Bosco",Parañaque,27.1,31.6,FALSE,FALSE,FALSE
+8/3/2022 16:15,"171 Acacia St., Brgy. Malate",Manila,41.3,34.8,FALSE,TRUE,FALSE
+7/30/2022 10:26,"208 Rizal St., Brgy. Concepcion Uno",Marikina,74.2,42.2,FALSE,TRUE,TRUE
+5/27/2022 2:18,"245 Acacia St., Brgy. Fort Bonifacio",Taguig,100.0,48.0,FALSE,TRUE,TRUE
+9/6/2022 23:49,"282 Maharlika St., Brgy. Bel-Air",Makati,66.2,40.4,TRUE,TRUE,TRUE
+2/27/2022 22:13,"319 Mabini St., Brgy. San Isidro",Pasay,22.7,30.6,FALSE,FALSE,FALSE
+12/2/2022 20:21,"356 Bonifacio St., Brgy. Tandang Sora",Quezon City,75.1,42.4,FALSE,FALSE,TRUE
+8/19/2022 0:52,"393 Kalayaan St., Brgy. Tunasan",Muntinlupa,87.1,45.1,FALSE,FALSE,TRUE
+12/1/2022 19:30,"430 Bonifacio St., Brgy. Karuhatan",Valenzuela,52.0,37.2,TRUE,FALSE,FALSE
+3/22/2022 10:19,"467 Sampaguita St., Brgy. Potrero",Malabon,72.9,41.9,FALSE,TRUE,TRUE
+8/27/2022 14:36,"504 Masikap St., Brgy. Kapitolyo",Pasig,40.9,34.7,TRUE,TRUE,FALSE
+6/8/2022 18:29,"541 Maligaya St., Brgy. Bagong Silang",Caloocan,72.0,41.7,FALSE,FALSE,TRUE
+3/24/2022 4:33,"578 Molave St., Brgy. Tanza",Navotas,35.6,33.5,TRUE,TRUE,FALSE
+1/10/2022 4:28,"615 Maligaya St., Brgy. Aguho",Pateros,32.4,32.8,TRUE,TRUE,FALSE
+9/14/2022 11:21,"652 Dahlia St., Brgy. Hulo",Mandaluyong,24.4,31.0,FALSE,TRUE,FALSE
+3/3/2022 1:54,"689 Narra St., Brgy. Balong-Bato",San Juan,85.3,44.7,TRUE,TRUE,TRUE
+5/29/2022 9:36,"726 Acacia St., Brgy. Almanza",Las Piñas,24.0,30.9,TRUE,TRUE,FALSE
+9/19/2022 20:47,"763 Rizal St., Brgy. BF Homes",Parañaque,88.9,45.5,FALSE,FALSE,TRUE
+2/16/2022 14:13,"800 Mabini St., Brgy. Ermita",Manila,72.0,41.7,FALSE,FALSE,TRUE
+6/28/2022 14:53,"837 Maharlika St., Brgy. Sto. Niño",Marikina,20.0,30.0,TRUE,TRUE,FALSE
+1/22/2022 0:42,"874 Mabini St., Brgy. Ususan",Taguig,21.8,30.4,TRUE,TRUE,FALSE
+6/26/2022 14:56,"911 Bonifacio St., Brgy. San Antonio",Makati,35.6,33.5,TRUE,FALSE,FALSE
+3/12/2022 11:55,"948 Kalayaan St., Brgy. Maricaban",Pasay,87.1,45.1,FALSE,TRUE,TRUE
+5/12/2022 14:02,"985 Masikap St., Brgy. Diliman",Quezon City,87.1,45.1,FALSE,FALSE,TRUE
+4/14/2022 12:19,"33 Sampaguita St., Brgy. Alabang",Muntinlupa,82.2,44.0,TRUE,FALSE,TRUE
+2/22/2022 14:00,"70 Masikap St., Brgy. Malinta",Valenzuela,39.1,34.3,TRUE,TRUE,FALSE
+7/5/2022 9:26,"107 Maligaya St., Brgy. Longos",Malabon,21.8,30.4,TRUE,TRUE,FALSE
+12/28/2022 17:54,"144 Molave St., Brgy. Ugong",Pasig,52.4,37.3,TRUE,FALSE,FALSE
+10/25/2022 8:46,"181 Narra St., Brgy. Camarin",Caloocan,61.3,39.3,TRUE,FALSE,FALSE
+3/26/2022 15:35,"218 Dahlia St., Brgy. Daanghari",Navotas,29.3,32.1,FALSE,FALSE,FALSE
+11/22/2022 0:37,"255 Narra St., Brgy. Sta. Ana",Pateros,88.0,45.3,FALSE,FALSE,TRUE
+6/11/2022 17:39,"292 Acacia St., Brgy. Highway Hills",Mandaluyong,21.3,30.3,FALSE,FALSE,FALSE
+2/17/2022 9:24,"329 Rizal St., Brgy. Greenhills",San Juan,46.2,35.9,TRUE,TRUE,FALSE
+6/16/2022 11:21,"366 Mabini St., Brgy. Talon Uno",Las Piñas,100.0,48.0,TRUE,FALSE,TRUE
+10/31/2022 9:03,"403 Maharlika St., Brgy. Baclaran",Parañaque,20.4,30.1,FALSE,TRUE,FALSE
+1/26/2022 21:21,"440 Kalayaan St., Brgy. Sampaloc",Manila,26.2,31.4,FALSE,FALSE,FALSE
+6/11/2022 0:34,"477 Bonifacio St., Brgy. Parang",Marikina,38.7,34.2,FALSE,FALSE,FALSE
+10/11/2022 6:15,"514 Kalayaan St., Brgy. Western Bicutan",Taguig,63.1,39.7,FALSE,FALSE,FALSE
+8/18/2022 0:08,"551 Masikap St., Brgy. Poblacion",Makati,25.8,31.3,FALSE,TRUE,FALSE
+10/31/2022 13:54,"588 Sampaguita St., Brgy. Malibay",Pasay,20.4,30.1,FALSE,FALSE,FALSE
+6/30/2022 10:01,"625 Molave St., Brgy. Cubao",Quezon City,20.0,30.0,TRUE,TRUE,FALSE
+2/11/2022 3:21,"662 Maligaya St., Brgy. Putatan",Muntinlupa,28.4,31.9,FALSE,FALSE,FALSE
+10/20/2022 4:58,"699 Molave St., Brgy. Marulas",Valenzuela,46.2,35.9,FALSE,TRUE,FALSE
+12/6/2022 22:45,"736 Narra St., Brgy. Concepcion",Malabon,28.0,31.8,FALSE,FALSE,FALSE
+3/15/2022 5:38,"773 Dahlia St., Brgy. San Antonio",Pasig,20.0,30.0,FALSE,FALSE,FALSE
+4/24/2022 14:47,"810 Rizal St., Brgy. Grace Park",Caloocan,54.7,37.8,FALSE,FALSE,FALSE
+4/26/2022 22:25,"847 Acacia St., Brgy. San Roque",Navotas,46.7,36.0,TRUE,TRUE,FALSE
+2/14/2022 9:07,"884 Rizal St., Brgy. San Roque",Pateros,85.3,44.7,TRUE,FALSE,TRUE
+4/15/2022 0:46,"921 Mabini St., Brgy. Plainview",Mandaluyong,44.0,35.4,FALSE,TRUE,FALSE
+6/19/2022 2:35,"958 Maharlika St., Brgy. Addition Hills",San Juan,48.4,36.4,TRUE,FALSE,FALSE
+12/18/2022 2:51,"995 Kalayaan St., Brgy. Pulang Lupa",Las Piñas,85.3,44.7,FALSE,FALSE,TRUE
+2/1/2022 5:53,"43 Bonifacio St., Brgy. Don Bosco",Parañaque,67.1,40.6,TRUE,FALSE,TRUE
+7/16/2022 21:24,"80 Sampaguita St., Brgy. Malate",Manila,22.2,30.5,FALSE,FALSE,FALSE
+8/24/2022 2:26,"117 Masikap St., Brgy. Concepcion Uno",Marikina,47.6,36.2,TRUE,TRUE,FALSE
+2/25/2022 15:19,"154 Sampaguita St., Brgy. Fort Bonifacio",Taguig,53.8,37.6,FALSE,FALSE,FALSE
+12/7/2022 22:21,"191 Molave St., Brgy. Bel-Air",Makati,27.1,31.6,FALSE,TRUE,FALSE
+2/15/2022 13:26,"228 Maligaya St., Brgy. San Isidro",Pasay,26.2,31.4,TRUE,TRUE,FALSE
+1/9/2022 10:50,"265 Dahlia St., Brgy. Tandang Sora",Quezon City,82.2,44.0,TRUE,TRUE,TRUE
+8/12/2022 17:38,"302 Narra St., Brgy. Tunasan",Muntinlupa,42.7,35.1,FALSE,TRUE,FALSE
+9/23/2022 22:22,"339 Dahlia St., Brgy. Karuhatan",Valenzuela,28.4,31.9,TRUE,TRUE,FALSE
+3/12/2022 8:39,"376 Rizal St., Brgy. Potrero",Malabon,25.8,31.3,TRUE,FALSE,FALSE
+8/13/2022 18:15,"413 Acacia St., Brgy. Kapitolyo",Pasig,31.6,32.6,FALSE,TRUE,FALSE
+4/24/2022 7:44,"450 Maharlika St., Brgy. Bagong Silang",Caloocan,33.8,33.1,TRUE,TRUE,FALSE
+1/28/2022 12:11,"487 Mabini St., Brgy. Tanza",Navotas,72.9,41.9,FALSE,TRUE,TRUE
+9/2/2022 11:45,"524 Maharlika St., Brgy. Aguho",Pateros,48.4,36.4,FALSE,TRUE,FALSE
+5/15/2022 17:15,"561 Kalayaan St., Brgy. Hulo",Mandaluyong,42.2,35.0,TRUE,TRUE,FALSE
+5/15/2022 9:58,"598 Bonifacio St., Brgy. Balong-Bato",San Juan,65.3,40.2,TRUE,FALSE,TRUE
+7/6/2022 11:02,"635 Sampaguita St., Brgy. Almanza",Las Piñas,37.3,33.9,TRUE,FALSE,FALSE
+7/18/2022 16:10,"672 Masikap St., Brgy. BF Homes",Parañaque,39.1,34.3,FALSE,TRUE,FALSE
+10/23/2022 23:38,"709 Maligaya St., Brgy. Ermita",Manila,80.4,43.6,FALSE,TRUE,TRUE
+1/7/2022 8:55,"746 Molave St., Brgy. Sto. Niño",Marikina,26.7,31.5,FALSE,TRUE,FALSE
+8/7/2022 1:57,"783 Maligaya St., Brgy. Ususan",Taguig,69.3,41.1,FALSE,TRUE,TRUE
+3/18/2022 2:56,"820 Dahlia St., Brgy. San Antonio",Makati,21.8,30.4,FALSE,FALSE,FALSE
+12/21/2022 17:16,"857 Narra St., Brgy. Maricaban",Pasay,24.0,30.9,TRUE,FALSE,FALSE
+7/22/2022 6:04,"894 Acacia St., Brgy. Diliman",Quezon City,42.2,35.0,FALSE,TRUE,FALSE
+4/1/2022 18:42,"931 Rizal St., Brgy. Alabang",Muntinlupa,43.6,35.3,TRUE,TRUE,FALSE
+3/24/2022 23:29,"968 Acacia St., Brgy. Malinta",Valenzuela,94.7,46.8,TRUE,TRUE,TRUE
+12/11/2022 4:42,"16 Maharlika St., Brgy. Longos",Malabon,40.9,34.7,TRUE,TRUE,FALSE
+7/27/2022 6:58,"53 Mabini St., Brgy. Ugong",Pasig,82.7,44.1,TRUE,TRUE,TRUE
+1/9/2022 7:15,"90 Bonifacio St., Brgy. Camarin",Caloocan,78.7,43.2,TRUE,TRUE,TRUE
+11/1/2022 15:06,"127 Kalayaan St., Brgy. Daanghari",Navotas,37.8,34.0,FALSE,TRUE,FALSE
+6/19/2022 14:16,"164 Bonifacio St., Brgy. Sta. Ana",Pateros,23.1,30.7,FALSE,TRUE,FALSE
+4/7/2022 4:29,"201 Sampaguita St., Brgy. Highway Hills",Mandaluyong,20.0,30.0,FALSE,TRUE,FALSE
+9/9/2022 0:33,"238 Masikap St., Brgy. Greenhills",San Juan,65.3,40.2,TRUE,FALSE,TRUE
+3/30/2022 3:31,"275 Maligaya St., Brgy. Talon Uno",Las Piñas,73.3,42.0,TRUE,FALSE,TRUE
+8/7/2022 10:05,"312 Molave St., Brgy. Baclaran",Parañaque,28.9,32.0,FALSE,FALSE,FALSE
+11/18/2022 10:51,"349 Narra St., Brgy. Sampaloc",Manila,70.2,41.3,FALSE,TRUE,TRUE
+8/1/2022 17:17,"386 Dahlia St., Brgy. Parang",Marikina,24.9,31.1,TRUE,TRUE,FALSE
+3/28/2022 17:04,"423 Narra St., Brgy. Western Bicutan",Taguig,46.7,36.0,FALSE,TRUE,FALSE
+9/18/2022 11:11,"460 Acacia St., Brgy. Poblacion",Makati,45.3,35.7,FALSE,FALSE,FALSE
+6/1/2022 15:03,"497 Rizal St., Brgy. Malibay",Pasay,52.0,37.2,FALSE,FALSE,FALSE
+6/13/2022 4:04,"534 Mabini St., Brgy. Cubao",Quezon City,89.8,45.7,TRUE,FALSE,TRUE
+2/23/2022 17:51,"571 Maharlika St., Brgy. Putatan",Muntinlupa,72.0,41.7,TRUE,FALSE,TRUE
+7/30/2022 13:08,"608 Mabini St., Brgy. Marulas",Valenzuela,66.2,40.4,TRUE,FALSE,TRUE
+2/10/2022 22:32,"645 Bonifacio St., Brgy. Concepcion",Malabon,41.3,34.8,TRUE,TRUE,FALSE
+11/28/2022 13:34,"682 Kalayaan St., Brgy. San Antonio",Pasig,64.4,40.0,FALSE,FALSE,FALSE
+12/1/2022 22:01,"719 Masikap St., Brgy. Grace Park",Caloocan,73.3,42.0,FALSE,FALSE,TRUE
+11/10/2022 16:00,"756 Sampaguita St., Brgy. San Roque",Navotas,35.6,33.5,FALSE,TRUE,FALSE
+8/16/2022 1:14,"793 Masikap St., Brgy. San Roque",Pateros,88.0,45.3,FALSE,FALSE,TRUE
+7/6/2022 5:23,"830 Maligaya St., Brgy. Plainview",Mandaluyong,67.6,40.7,FALSE,TRUE,TRUE
+11/21/2022 20:35,"867 Molave St., Brgy. Addition Hills",San Juan,99.1,47.8,TRUE,TRUE,TRUE
+4/6/2022 15:22,"904 Narra St., Brgy. Pulang Lupa",Las Piñas,32.0,32.7,TRUE,FALSE,FALSE
+7/26/2022 15:36,"941 Dahlia St., Brgy. Don Bosco",Parañaque,69.3,41.1,TRUE,TRUE,TRUE
+8/3/2022 10:39,"978 Rizal St., Brgy. Malate",Manila,37.3,33.9,FALSE,FALSE,FALSE
+12/26/2022 22:14,"26 Acacia St., Brgy. Concepcion Uno",Marikina,20.9,30.2,TRUE,TRUE,FALSE
+5/11/2022 1:13,"63 Rizal St., Brgy. Fort Bonifacio",Taguig,59.1,38.8,FALSE,TRUE,FALSE
+9/15/2022 12:39,"100 Mabini St., Brgy. Bel-Air",Makati,20.4,30.1,FALSE,FALSE,FALSE
+12/24/2022 14:44,"137 Maharlika St., Brgy. San Isidro",Pasay,41.3,34.8,TRUE,FALSE,FALSE
+6/2/2022 12:51,"174 Kalayaan St., Brgy. Tandang Sora",Quezon City,20.4,30.1,TRUE,TRUE,FALSE
+12/16/2022 15:28,"211 Bonifacio St., Brgy. Tunasan",Muntinlupa,64.4,40.0,TRUE,FALSE,FALSE
+11/24/2022 14:50,"248 Kalayaan St., Brgy. Karuhatan",Valenzuela,20.4,30.1,FALSE,TRUE,FALSE
+1/3/2022 15:05,"285 Masikap St., Brgy. Potrero",Malabon,89.8,45.7,FALSE,TRUE,TRUE
+1/11/2022 4:03,"322 Sampaguita St., Brgy. Kapitolyo",Pasig,56.0,38.1,TRUE,TRUE,FALSE
+3/10/2022 1:19,"359 Molave St., Brgy. Bagong Silang",Caloocan,64.4,40.0,FALSE,FALSE,FALSE
+4/6/2022 0:39,"396 Maligaya St., Brgy. Tanza",Navotas,77.8,43.0,TRUE,TRUE,TRUE
+7/21/2022 9:52,"433 Molave St., Brgy. Aguho",Pateros,46.2,35.9,FALSE,TRUE,FALSE
+9/5/2022 3:35,"470 Narra St., Brgy. Hulo",Mandaluyong,82.2,44.0,TRUE,TRUE,TRUE
+2/4/2022 10:25,"507 Dahlia St., Brgy. Balong-Bato",San Juan,90.7,45.9,FALSE,FALSE,TRUE
+2/19/2022 21:42,"544 Rizal St., Brgy. Almanza",Las Piñas,43.6,35.3,TRUE,TRUE,FALSE
+8/16/2022 22:34,"581 Acacia St., Brgy. BF Homes",Parañaque,25.8,31.3,FALSE,TRUE,FALSE
+10/17/2022 10:06,"618 Maharlika St., Brgy. Ermita",Manila,23.6,30.8,TRUE,TRUE,FALSE
+8/31/2022 11:24,"655 Mabini St., Brgy. Sto. Niño",Marikina,54.7,37.8,FALSE,TRUE,FALSE
+6/19/2022 19:34,"692 Maharlika St., Brgy. Ususan",Taguig,20.4,30.1,TRUE,FALSE,FALSE
+1/1/2022 2:22,"729 Kalayaan St., Brgy. San Antonio",Makati,40.9,34.7,FALSE,FALSE,FALSE
+6/5/2022 11:14,"766 Bonifacio St., Brgy. Maricaban",Pasay,22.7,30.6,TRUE,TRUE,FALSE
+2/15/2022 17:31,"803 Sampaguita St., Brgy. Diliman",Quezon City,25.8,31.3,TRUE,TRUE,FALSE
+10/8/2022 4:50,"840 Masikap St., Brgy. Alabang",Muntinlupa,80.9,43.7,FALSE,TRUE,TRUE
+11/5/2022 10:32,"877 Sampaguita St., Brgy. Malinta",Valenzuela,76.9,42.8,TRUE,FALSE,TRUE
+4/11/2022 15:36,"914 Molave St., Brgy. Longos",Malabon,34.7,33.3,FALSE,TRUE,FALSE
+5/6/2022 13:29,"951 Maligaya St., Brgy. Ugong",Pasig,29.8,32.2,TRUE,FALSE,FALSE
+8/14/2022 0:13,"988 Dahlia St., Brgy. Camarin",Caloocan,35.6,33.5,FALSE,TRUE,FALSE
+12/23/2022 1:08,"36 Narra St., Brgy. Daanghari",Navotas,95.6,47.0,FALSE,FALSE,TRUE
+1/15/2022 3:59,"73 Dahlia St., Brgy. Sta. Ana",Pateros,24.4,31.0,FALSE,FALSE,FALSE
+5/2/2022 3:39,"110 Rizal St., Brgy. Highway Hills",Mandaluyong,82.2,44.0,TRUE,TRUE,TRUE
+6/7/2022 14:56,"147 Acacia St., Brgy. Greenhills",San Juan,31.6,32.6,FALSE,FALSE,FALSE
+11/11/2022 13:41,"184 Maharlika St., Brgy. Talon Uno",Las Piñas,46.2,35.9,TRUE,TRUE,FALSE
+1/18/2022 17:59,"221 Mabini St., Brgy. Baclaran",Parañaque,37.8,34.0,TRUE,FALSE,FALSE
+9/10/2022 6:48,"258 Bonifacio St., Brgy. Sampaloc",Manila,21.8,30.4,FALSE,FALSE,FALSE
+8/18/2022 18:18,"295 Kalayaan St., Brgy. Parang",Marikina,70.2,41.3,FALSE,FALSE,TRUE
+1/28/2022 7:13,"332 Bonifacio St., Brgy. Western Bicutan",Taguig,44.9,35.6,FALSE,TRUE,FALSE
+8/16/2022 20:24,"369 Sampaguita St., Brgy. Poblacion",Makati,41.3,34.8,TRUE,TRUE,FALSE
+3/22/2022 9:18,"406 Masikap St., Brgy. Malibay",Pasay,73.3,42.0,TRUE,TRUE,TRUE
+10/28/2022 14:22,"443 Maligaya St., Brgy. Cubao",Quezon City,56.0,38.1,FALSE,TRUE,FALSE
+11/16/2022 22:28,"480 Molave St., Brgy. Putatan",Muntinlupa,85.3,44.7,FALSE,TRUE,TRUE
+3/10/2022 15:08,"517 Maligaya St., Brgy. Marulas",Valenzuela,78.7,43.2,FALSE,TRUE,TRUE
+10/25/2022 16:04,"554 Dahlia St., Brgy. Concepcion",Malabon,70.2,41.3,TRUE,TRUE,TRUE
+11/25/2022 4:05,"591 Narra St., Brgy. San Antonio",Pasig,72.0,41.7,TRUE,FALSE,TRUE
+12/16/2022 2:06,"628 Acacia St., Brgy. Grace Park",Caloocan,38.7,34.2,TRUE,TRUE,FALSE
+10/2/2022 12:22,"665 Rizal St., Brgy. San Roque",Navotas,25.8,31.3,TRUE,TRUE,FALSE
+4/3/2022 16:27,"702 Acacia St., Brgy. San Roque",Pateros,23.6,30.8,TRUE,FALSE,FALSE
+7/30/2022 17:35,"739 Maharlika St., Brgy. Plainview",Mandaluyong,64.0,39.9,FALSE,TRUE,FALSE
+11/27/2022 3:23,"776 Mabini St., Brgy. Addition Hills",San Juan,53.8,37.6,TRUE,FALSE,FALSE
+7/22/2022 17:03,"813 Bonifacio St., Brgy. Pulang Lupa",Las Piñas,89.8,45.7,FALSE,TRUE,TRUE
+12/13/2022 2:18,"850 Kalayaan St., Brgy. Don Bosco",Parañaque,46.2,35.9,TRUE,TRUE,FALSE
+12/13/2022 22:56,"887 Masikap St., Brgy. Malate",Manila,69.3,41.1,FALSE,FALSE,TRUE
+3/22/2022 18:31,"924 Sampaguita St., Brgy. Concepcion Uno",Marikina,44.9,35.6,FALSE,FALSE,FALSE
+1/6/2022 13:30,"961 Masikap St., Brgy. Fort Bonifacio",Taguig,56.9,38.3,TRUE,TRUE,FALSE
+12/7/2022 14:01,"998 Maligaya St., Brgy. Bel-Air",Makati,47.6,36.2,FALSE,FALSE,FALSE
+3/8/2022 23:58,"46 Molave St., Brgy. San Isidro",Pasay,99.1,47.8,FALSE,TRUE,TRUE
+2/27/2022 0:53,"83 Narra St., Brgy. Tandang Sora",Quezon City,88.9,45.5,TRUE,FALSE,TRUE
+12/29/2022 0:19,"120 Dahlia St., Brgy. Tunasan",Muntinlupa,20.9,30.2,FALSE,FALSE,FALSE
+2/9/2022 5:42,"157 Narra St., Brgy. Karuhatan",Valenzuela,43.6,35.3,TRUE,TRUE,FALSE
+9/5/2022 17:41,"194 Acacia St., Brgy. Potrero",Malabon,40.9,34.7,TRUE,TRUE,FALSE
+9/23/2022 16:16,"231 Rizal St., Brgy. Kapitolyo",Pasig,24.4,31.0,FALSE,TRUE,FALSE
+12/22/2022 2:32,"268 Mabini St., Brgy. Bagong Silang",Caloocan,22.7,30.6,FALSE,FALSE,FALSE
+7/9/2022 19:32,"305 Maharlika St., Brgy. Tanza",Navotas,95.6,47.0,TRUE,FALSE,TRUE
+4/7/2022 4:36,"342 Mabini St., Brgy. Aguho",Pateros,56.9,38.3,TRUE,TRUE,FALSE
+5/25/2022 18:17,"379 Bonifacio St., Brgy. Hulo",Mandaluyong,34.2,33.2,TRUE,TRUE,FALSE
+7/26/2022 3:13,"416 Kalayaan St., Brgy. Balong-Bato",San Juan,33.8,33.1,TRUE,FALSE,FALSE
+1/31/2022 23:11,"453 Masikap St., Brgy. Almanza",Las Piñas,39.6,34.4,TRUE,FALSE,FALSE
+10/29/2022 23:28,"490 Sampaguita St., Brgy. BF Homes",Parañaque,50.2,36.8,TRUE,TRUE,FALSE
+8/11/2022 5:37,"527 Molave St., Brgy. Ermita",Manila,28.0,31.8,TRUE,FALSE,FALSE
+3/25/2022 23:17,"564 Maligaya St., Brgy. Sto. Niño",Marikina,28.0,31.8,FALSE,FALSE,FALSE
+11/19/2022 7:17,"601 Molave St., Brgy. Ususan",Taguig,71.1,41.5,FALSE,FALSE,TRUE
+10/22/2022 23:38,"638 Narra St., Brgy. San Antonio",Makati,58.2,38.6,FALSE,TRUE,FALSE
+12/22/2022 5:39,"675 Dahlia St., Brgy. Maricaban",Pasay,66.2,40.4,TRUE,FALSE,TRUE
+5/24/2022 11:11,"712 Rizal St., Brgy. Diliman",Quezon City,99.1,47.8,TRUE,FALSE,TRUE
+6/26/2022 9:20,"749 Acacia St., Brgy. Alabang",Muntinlupa,22.2,30.5,TRUE,TRUE,FALSE
+2/16/2022 3:55,"786 Rizal St., Brgy. Malinta",Valenzuela,46.2,35.9,TRUE,TRUE,FALSE
+1/30/2022 7:07,"823 Mabini St., Brgy. Longos",Malabon,82.7,44.1,FALSE,TRUE,TRUE
+12/12/2022 3:10,"860 Maharlika St., Brgy. Ugong",Pasig,34.7,33.3,TRUE,FALSE,FALSE
+6/6/2022 17:55,"897 Kalayaan St., Brgy. Camarin",Caloocan,72.9,41.9,FALSE,FALSE,TRUE
+6/10/2022 14:56,"934 Bonifacio St., Brgy. Daanghari",Navotas,60.4,39.1,TRUE,FALSE,FALSE
+9/5/2022 13:35,"971 Kalayaan St., Brgy. Sta. Ana",Pateros,20.9,30.2,TRUE,FALSE,FALSE
+11/15/2022 12:22,"19 Masikap St., Brgy. Highway Hills",Mandaluyong,22.7,30.6,TRUE,TRUE,FALSE
+9/29/2022 10:50,"56 Sampaguita St., Brgy. Greenhills",San Juan,37.8,34.0,FALSE,FALSE,FALSE
+7/1/2022 16:09,"93 Molave St., Brgy. Talon Uno",Las Piñas,28.4,31.9,FALSE,FALSE,FALSE
+11/28/2022 7:48,"130 Maligaya St., Brgy. Baclaran",Parañaque,76.9,42.8,TRUE,FALSE,TRUE
+10/26/2022 4:24,"167 Dahlia St., Brgy. Sampaloc",Manila,56.9,38.3,FALSE,TRUE,FALSE
+8/4/2022 19:14,"204 Narra St., Brgy. Parang",Marikina,39.1,34.3,TRUE,FALSE,FALSE
+6/27/2022 16:39,"241 Dahlia St., Brgy. Western Bicutan",Taguig,76.9,42.8,FALSE,TRUE,TRUE
+8/8/2022 1:53,"278 Rizal St., Brgy. Poblacion",Makati,40.4,34.6,FALSE,TRUE,FALSE
+11/11/2022 11:09,"315 Acacia St., Brgy. Malibay",Pasay,42.2,35.0,TRUE,FALSE,FALSE
+7/19/2022 17:21,"352 Maharlika St., Brgy. Cubao",Quezon City,60.0,39.0,FALSE,TRUE,FALSE
+8/12/2022 14:18,"389 Mabini St., Brgy. Putatan",Muntinlupa,39.6,34.4,FALSE,TRUE,FALSE
+7/23/2022 9:06,"426 Maharlika St., Brgy. Marulas",Valenzuela,59.1,38.8,TRUE,FALSE,FALSE
+9/16/2022 9:09,"463 Kalayaan St., Brgy. Concepcion",Malabon,32.0,32.7,FALSE,TRUE,FALSE
+2/2/2022 8:36,"500 Bonifacio St., Brgy. San Antonio",Pasig,29.8,32.2,TRUE,FALSE,FALSE
+11/14/2022 2:35,"537 Sampaguita St., Brgy. Grace Park",Caloocan,39.6,34.4,TRUE,FALSE,FALSE
+5/2/2022 18:56,"574 Masikap St., Brgy. San Roque",Navotas,28.0,31.8,FALSE,FALSE,FALSE
+2/23/2022 4:21,"611 Sampaguita St., Brgy. San Roque",Pateros,90.7,45.9,FALSE,FALSE,TRUE
+7/9/2022 5:33,"648 Molave St., Brgy. Plainview",Mandaluyong,85.3,44.7,TRUE,FALSE,TRUE
+2/11/2022 6:40,"685 Maligaya St., Brgy. Addition Hills",San Juan,28.4,31.9,TRUE,FALSE,FALSE
+3/7/2022 5:44,"722 Dahlia St., Brgy. Pulang Lupa",Las Piñas,71.1,41.5,TRUE,TRUE,TRUE
+4/28/2022 7:01,"759 Narra St., Brgy. Don Bosco",Parañaque,85.3,44.7,TRUE,FALSE,TRUE
+11/5/2022 19:18,"796 Acacia St., Brgy. Malate",Manila,39.1,34.3,TRUE,TRUE,FALSE
+1/7/2022 13:59,"833 Rizal St., Brgy. Concepcion Uno",Marikina,93.3,46.5,TRUE,FALSE,TRUE
+5/13/2022 13:27,"870 Acacia St., Brgy. Fort Bonifacio",Taguig,64.4,40.0,TRUE,FALSE,FALSE
+6/23/2022 3:11,"907 Maharlika St., Brgy. Bel-Air",Makati,99.1,47.8,TRUE,TRUE,TRUE
+6/13/2022 13:50,"944 Mabini St., Brgy. San Isidro",Pasay,64.0,39.9,TRUE,FALSE,FALSE
+11/28/2022 21:30,"981 Bonifacio St., Brgy. Tandang Sora",Quezon City,58.2,38.6,TRUE,FALSE,FALSE
+5/14/2022 21:50,"29 Kalayaan St., Brgy. Tunasan",Muntinlupa,46.7,36.0,FALSE,FALSE,FALSE
+11/23/2022 2:38,"66 Bonifacio St., Brgy. Karuhatan",Valenzuela,25.8,31.3,FALSE,TRUE,FALSE
+11/25/2022 8:26,"103 Sampaguita St., Brgy. Potrero",Malabon,74.2,42.2,FALSE,FALSE,TRUE
+7/1/2022 0:08,"140 Masikap St., Brgy. Kapitolyo",Pasig,26.2,31.4,FALSE,FALSE,FALSE
+5/30/2022 5:56,"177 Maligaya St., Brgy. Bagong Silang",Caloocan,64.4,40.0,FALSE,TRUE,FALSE
+5/10/2022 10:54,"214 Molave St., Brgy. Tanza",Navotas,26.2,31.4,FALSE,FALSE,FALSE
+11/4/2022 20:40,"251 Maligaya St., Brgy. Aguho",Pateros,89.8,45.7,TRUE,FALSE,TRUE
+7/1/2022 19:23,"288 Dahlia St., Brgy. Hulo",Mandaluyong,97.3,47.4,TRUE,TRUE,TRUE
+8/2/2022 7:00,"325 Narra St., Brgy. Balong-Bato",San Juan,88.0,45.3,FALSE,FALSE,TRUE
+6/26/2022 21:23,"362 Acacia St., Brgy. Almanza",Las Piñas,48.4,36.4,TRUE,FALSE,FALSE
+2/24/2022 22:10,"399 Rizal St., Brgy. BF Homes",Parañaque,83.6,44.3,FALSE,FALSE,TRUE
+5/30/2022 14:34,"436 Mabini St., Brgy. Ermita",Manila,33.3,33.0,TRUE,FALSE,FALSE
+8/3/2022 6:21,"473 Maharlika St., Brgy. Sto. Niño",Marikina,20.4,30.1,TRUE,TRUE,FALSE
+4/27/2022 18:05,"510 Mabini St., Brgy. Ususan",Taguig,44.0,35.4,TRUE,FALSE,FALSE
+2/8/2022 8:03,"547 Bonifacio St., Brgy. San Antonio",Makati,60.0,39.0,TRUE,TRUE,FALSE
+12/9/2022 13:47,"584 Kalayaan St., Brgy. Maricaban",Pasay,32.0,32.7,TRUE,TRUE,FALSE
+12/6/2022 5:33,"621 Masikap St., Brgy. Diliman",Quezon City,47.6,36.2,TRUE,FALSE,FALSE
+1/23/2022 5:43,"658 Sampaguita St., Brgy. Alabang",Muntinlupa,20.4,30.1,FALSE,FALSE,FALSE
+11/28/2022 18:51,"695 Masikap St., Brgy. Malinta",Valenzuela,86.2,44.9,TRUE,TRUE,TRUE
+12/8/2022 5:07,"732 Maligaya St., Brgy. Longos",Malabon,53.3,37.5,FALSE,TRUE,FALSE
+12/19/2022 15:26,"769 Molave St., Brgy. Ugong",Pasig,89.8,45.7,FALSE,FALSE,TRUE
+5/27/2022 18:09,"806 Narra St., Brgy. Camarin",Caloocan,68.4,40.9,TRUE,FALSE,TRUE
+11/11/2022 10:03,"843 Dahlia St., Brgy. Daanghari",Navotas,36.0,33.6,TRUE,TRUE,FALSE
+1/7/2022 17:13,"880 Narra St., Brgy. Sta. Ana",Pateros,93.3,46.5,TRUE,FALSE,TRUE
+8/22/2022 5:28,"917 Acacia St., Brgy. Highway Hills",Mandaluyong,22.2,30.5,TRUE,FALSE,FALSE
+3/30/2022 21:23,"954 Rizal St., Brgy. Greenhills",San Juan,93.3,46.5,FALSE,FALSE,TRUE
+8/15/2022 4:21,"991 Mabini St., Brgy. Talon Uno",Las Piñas,97.3,47.4,FALSE,FALSE,TRUE
+10/27/2022 12:56,"39 Maharlika St., Brgy. Baclaran",Parañaque,28.4,31.9,TRUE,FALSE,FALSE
+12/6/2022 20:12,"76 Kalayaan St., Brgy. Sampaloc",Manila,61.3,39.3,TRUE,FALSE,FALSE
+12/23/2022 2:31,"113 Bonifacio St., Brgy. Parang",Marikina,71.1,41.5,FALSE,TRUE,TRUE
+5/29/2022 12:36,"150 Kalayaan St., Brgy. Western Bicutan",Taguig,36.4,33.7,TRUE,TRUE,FALSE
+5/22/2022 9:32,"187 Masikap St., Brgy. Poblacion",Makati,41.3,34.8,TRUE,FALSE,FALSE
+4/30/2022 11:31,"224 Sampaguita St., Brgy. Malibay",Pasay,44.0,35.4,TRUE,TRUE,FALSE
+9/13/2022 18:37,"261 Molave St., Brgy. Cubao",Quezon City,52.4,37.3,FALSE,FALSE,FALSE
+9/22/2022 23:54,"298 Maligaya St., Brgy. Putatan",Muntinlupa,29.3,32.1,TRUE,FALSE,FALSE
+1/1/2022 11:41,"335 Molave St., Brgy. Marulas",Valenzuela,21.8,30.4,FALSE,FALSE,FALSE
+9/12/2022 22:46,"372 Narra St., Brgy. Concepcion",Malabon,52.4,37.3,FALSE,FALSE,FALSE
+10/17/2022 15:19,"409 Dahlia St., Brgy. San Antonio",Pasig,99.1,47.8,FALSE,TRUE,TRUE
+5/19/2022 7:24,"446 Rizal St., Brgy. Grace Park",Caloocan,86.2,44.9,FALSE,TRUE,TRUE
+4/13/2022 15:13,"483 Acacia St., Brgy. San Roque",Navotas,56.9,38.3,TRUE,TRUE,FALSE
+8/24/2022 2:09,"520 Rizal St., Brgy. San Roque",Pateros,90.7,45.9,FALSE,TRUE,TRUE
+3/27/2022 1:54,"557 Mabini St., Brgy. Plainview",Mandaluyong,26.2,31.4,FALSE,TRUE,FALSE
+11/30/2022 3:23,"594 Maharlika St., Brgy. Addition Hills",San Juan,76.9,42.8,FALSE,TRUE,TRUE
+3/7/2022 6:24,"631 Kalayaan St., Brgy. Pulang Lupa",Las Piñas,34.2,33.2,TRUE,FALSE,FALSE
+1/24/2022 21:40,"668 Bonifacio St., Brgy. Don Bosco",Parañaque,44.0,35.4,FALSE,FALSE,FALSE
+5/1/2022 6:41,"705 Sampaguita St., Brgy. Malate",Manila,91.6,46.1,FALSE,TRUE,TRUE
+3/28/2022 23:19,"742 Masikap St., Brgy. Concepcion Uno",Marikina,25.3,31.2,FALSE,FALSE,FALSE
+2/18/2022 5:00,"779 Sampaguita St., Brgy. Fort Bonifacio",Taguig,36.4,33.7,FALSE,TRUE,FALSE
+11/18/2022 15:14,"816 Molave St., Brgy. Bel-Air",Makati,65.3,40.2,TRUE,FALSE,TRUE
+4/15/2022 19:03,"853 Maligaya St., Brgy. San Isidro",Pasay,60.0,39.0,FALSE,FALSE,FALSE
+4/28/2022 3:09,"890 Dahlia St., Brgy. Tandang Sora",Quezon City,76.0,42.6,TRUE,FALSE,TRUE
+10/22/2022 11:26,"927 Narra St., Brgy. Tunasan",Muntinlupa,20.4,30.1,TRUE,FALSE,FALSE
+3/26/2022 10:24,"964 Dahlia St., Brgy. Karuhatan",Valenzuela,28.4,31.9,FALSE,TRUE,FALSE
+5/28/2022 10:35,"12 Rizal St., Brgy. Potrero",Malabon,58.2,38.6,TRUE,FALSE,FALSE
+8/7/2022 1:59,"49 Acacia St., Brgy. Kapitolyo",Pasig,40.9,34.7,TRUE,TRUE,FALSE
+6/10/2022 10:04,"86 Maharlika St., Brgy. Bagong Silang",Caloocan,76.9,42.8,FALSE,TRUE,TRUE
+10/13/2022 13:03,"123 Mabini St., Brgy. Tanza",Navotas,63.1,39.7,TRUE,TRUE,FALSE
+8/30/2022 10:31,"160 Maharlika St., Brgy. Aguho",Pateros,27.1,31.6,TRUE,TRUE,FALSE
+10/31/2022 0:35,"197 Kalayaan St., Brgy. Hulo",Mandaluyong,85.3,44.7,FALSE,TRUE,TRUE
+3/3/2022 9:32,"234 Bonifacio St., Brgy. Balong-Bato",San Juan,50.2,36.8,FALSE,FALSE,FALSE
+9/30/2022 1:11,"271 Sampaguita St., Brgy. Almanza",Las Piñas,67.1,40.6,TRUE,FALSE,TRUE
+7/2/2022 9:41,"308 Masikap St., Brgy. BF Homes",Parañaque,99.1,47.8,FALSE,FALSE,TRUE
+5/10/2022 7:57,"345 Maligaya St., Brgy. Ermita",Manila,95.6,47.0,TRUE,FALSE,TRUE
+8/9/2022 15:23,"382 Molave St., Brgy. Sto. Niño",Marikina,96.4,47.2,TRUE,TRUE,TRUE
+7/24/2022 11:37,"419 Maligaya St., Brgy. Ususan",Taguig,72.0,41.7,FALSE,FALSE,TRUE
+3/12/2022 2:23,"456 Dahlia St., Brgy. San Antonio",Makati,67.6,40.7,TRUE,TRUE,TRUE
+2/25/2022 16:42,"493 Narra St., Brgy. Maricaban",Pasay,89.8,45.7,TRUE,FALSE,TRUE
+9/8/2022 0:45,"530 Acacia St., Brgy. Diliman",Quezon City,70.2,41.3,TRUE,TRUE,TRUE
+6/21/2022 5:23,"567 Rizal St., Brgy. Alabang",Muntinlupa,44.9,35.6,TRUE,FALSE,FALSE
+2/6/2022 13:30,"604 Acacia St., Brgy. Malinta",Valenzuela,48.9,36.5,FALSE,TRUE,FALSE
+9/23/2022 18:46,"641 Maharlika St., Brgy. Longos",Malabon,32.0,32.7,FALSE,TRUE,FALSE
+7/10/2022 10:47,"678 Mabini St., Brgy. Ugong",Pasig,91.6,46.1,TRUE,FALSE,TRUE
+2/21/2022 19:24,"715 Bonifacio St., Brgy. Camarin",Caloocan,22.7,30.6,TRUE,FALSE,FALSE
+2/23/2022 8:53,"752 Kalayaan St., Brgy. Daanghari",Navotas,28.9,32.0,TRUE,FALSE,FALSE
+7/15/2022 4:12,"789 Bonifacio St., Brgy. Sta. Ana",Pateros,86.2,44.9,FALSE,FALSE,TRUE
+12/18/2022 5:57,"826 Sampaguita St., Brgy. Highway Hills",Mandaluyong,33.3,33.0,FALSE,TRUE,FALSE
+9/9/2022 6:02,"863 Masikap St., Brgy. Greenhills",San Juan,32.4,32.8,FALSE,FALSE,FALSE
+1/4/2022 18:07,"900 Maligaya St., Brgy. Talon Uno",Las Piñas,88.0,45.3,TRUE,TRUE,TRUE
+9/7/2022 13:15,"937 Molave St., Brgy. Baclaran",Parañaque,21.3,30.3,TRUE,FALSE,FALSE
+3/25/2022 8:33,"974 Narra St., Brgy. Sampaloc",Manila,62.2,39.5,TRUE,TRUE,FALSE
+6/12/2022 2:20,"22 Dahlia St., Brgy. Parang",Marikina,80.9,43.7,FALSE,TRUE,TRUE
+2/7/2022 18:23,"59 Narra St., Brgy. Western Bicutan",Taguig,39.6,34.4,TRUE,FALSE,FALSE
+7/10/2022 0:06,"96 Acacia St., Brgy. Poblacion",Makati,67.6,40.7,TRUE,TRUE,TRUE
+9/29/2022 3:16,"133 Rizal St., Brgy. Malibay",Pasay,30.7,32.4,FALSE,TRUE,FALSE
+8/12/2022 4:49,"170 Mabini St., Brgy. Cubao",Quezon City,48.9,36.5,TRUE,TRUE,FALSE
+2/16/2022 14:28,"207 Maharlika St., Brgy. Putatan",Muntinlupa,20.0,30.0,TRUE,TRUE,FALSE
+3/1/2022 18:17,"244 Mabini St., Brgy. Marulas",Valenzuela,88.0,45.3,FALSE,FALSE,TRUE
+6/25/2022 4:27,"281 Bonifacio St., Brgy. Concepcion",Malabon,20.4,30.1,FALSE,TRUE,FALSE
+1/28/2022 1:42,"318 Kalayaan St., Brgy. San Antonio",Pasig,56.9,38.3,TRUE,FALSE,FALSE
+10/21/2022 8:51,"355 Masikap St., Brgy. Grace Park",Caloocan,40.9,34.7,TRUE,FALSE,FALSE
+9/19/2022 8:05,"392 Sampaguita St., Brgy. San Roque",Navotas,87.1,45.1,FALSE,FALSE,TRUE
+6/22/2022 14:57,"429 Masikap St., Brgy. San Roque",Pateros,45.3,35.7,TRUE,TRUE,FALSE
+12/15/2022 0:49,"466 Maligaya St., Brgy. Plainview",Mandaluyong,21.3,30.3,FALSE,FALSE,FALSE
+5/8/2022 6:53,"503 Molave St., Brgy. Addition Hills",San Juan,53.8,37.6,TRUE,FALSE,FALSE
+8/18/2022 20:28,"540 Narra St., Brgy. Pulang Lupa",Las Piñas,28.4,31.9,FALSE,FALSE,FALSE
+10/5/2022 17:11,"577 Dahlia St., Brgy. Don Bosco",Parañaque,55.1,37.9,FALSE,FALSE,FALSE
+11/21/2022 19:21,"614 Rizal St., Brgy. Malate",Manila,46.7,36.0,TRUE,FALSE,FALSE
+7/12/2022 8:32,"651 Acacia St., Brgy. Concepcion Uno",Marikina,51.1,37.0,TRUE,FALSE,FALSE
+2/6/2022 10:15,"688 Rizal St., Brgy. Fort Bonifacio",Taguig,68.4,40.9,FALSE,TRUE,TRUE
+5/24/2022 18:54,"725 Mabini St., Brgy. Bel-Air",Makati,96.4,47.2,TRUE,FALSE,TRUE
+9/9/2022 11:12,"762 Maharlika St., Brgy. San Isidro",Pasay,65.3,40.2,FALSE,FALSE,TRUE
+4/6/2022 19:49,"799 Kalayaan St., Brgy. Tandang Sora",Quezon City,88.9,45.5,FALSE,TRUE,TRUE
+1/9/2022 9:48,"836 Bonifacio St., Brgy. Tunasan",Muntinlupa,86.2,44.9,FALSE,FALSE,TRUE
+3/23/2022 23:55,"873 Kalayaan St., Brgy. Karuhatan",Valenzuela,44.0,35.4,FALSE,TRUE,FALSE
+4/13/2022 13:13,"910 Masikap St., Brgy. Potrero",Malabon,63.1,39.7,FALSE,FALSE,FALSE
+7/23/2022 12:54,"947 Sampaguita St., Brgy. Kapitolyo",Pasig,40.4,34.6,FALSE,FALSE,FALSE
+11/22/2022 8:10,"984 Molave St., Brgy. Bagong Silang",Caloocan,23.6,30.8,FALSE,TRUE,FALSE
+11/28/2022 23:28,"32 Maligaya St., Brgy. Tanza",Navotas,36.4,33.7,FALSE,FALSE,FALSE
+1/2/2022 8:00,"69 Molave St., Brgy. Aguho",Pateros,44.0,35.4,TRUE,TRUE,FALSE
+9/9/2022 22:55,"106 Narra St., Brgy. Hulo",Mandaluyong,93.3,46.5,FALSE,TRUE,TRUE
+9/15/2022 19:05,"143 Dahlia St., Brgy. Balong-Bato",San Juan,21.3,30.3,FALSE,TRUE,FALSE
+2/16/2022 21:55,"180 Rizal St., Brgy. Almanza",Las Piñas,62.2,39.5,TRUE,FALSE,FALSE
+5/8/2022 13:24,"217 Acacia St., Brgy. BF Homes",Parañaque,74.2,42.2,TRUE,FALSE,TRUE
+11/4/2022 9:32,"254 Maharlika St., Brgy. Ermita",Manila,44.0,35.4,TRUE,FALSE,FALSE
+6/27/2022 12:35,"291 Mabini St., Brgy. Sto. Niño",Marikina,59.1,38.8,FALSE,FALSE,FALSE
+8/30/2022 11:36,"328 Maharlika St., Brgy. Ususan",Taguig,94.7,46.8,FALSE,TRUE,TRUE
+3/22/2022 21:39,"365 Kalayaan St., Brgy. San Antonio",Makati,91.6,46.1,TRUE,TRUE,TRUE
+11/9/2022 18:39,"402 Bonifacio St., Brgy. Maricaban",Pasay,28.4,31.9,FALSE,TRUE,FALSE
+12/4/2022 21:49,"439 Sampaguita St., Brgy. Diliman",Quezon City,33.8,33.1,TRUE,FALSE,FALSE
+10/24/2022 7:33,"476 Masikap St., Brgy. Alabang",Muntinlupa,90.7,45.9,FALSE,FALSE,TRUE
+5/19/2022 4:48,"513 Sampaguita St., Brgy. Malinta",Valenzuela,75.1,42.4,TRUE,FALSE,TRUE
+9/19/2022 11:15,"550 Molave St., Brgy. Longos",Malabon,65.3,40.2,TRUE,TRUE,TRUE
+6/30/2022 8:59,"587 Maligaya St., Brgy. Ugong",Pasig,59.1,38.8,FALSE,TRUE,FALSE
+1/16/2022 12:56,"624 Dahlia St., Brgy. Camarin",Caloocan,48.4,36.4,TRUE,FALSE,FALSE
+10/8/2022 3:33,"661 Narra St., Brgy. Daanghari",Navotas,22.7,30.6,FALSE,FALSE,FALSE
+1/27/2022 12:19,"698 Dahlia St., Brgy. Sta. Ana",Pateros,85.3,44.7,TRUE,FALSE,TRUE
+9/27/2022 4:44,"735 Rizal St., Brgy. Highway Hills",Mandaluyong,53.3,37.5,FALSE,TRUE,FALSE
+9/15/2022 19:53,"772 Acacia St., Brgy. Greenhills",San Juan,60.4,39.1,FALSE,FALSE,FALSE
+9/11/2022 13:55,"809 Maharlika St., Brgy. Talon Uno",Las Piñas,89.8,45.7,TRUE,FALSE,TRUE
+10/30/2022 5:01,"846 Mabini St., Brgy. Baclaran",Parañaque,29.3,32.1,TRUE,TRUE,FALSE
+7/6/2022 2:48,"883 Bonifacio St., Brgy. Sampaloc",Manila,56.0,38.1,FALSE,TRUE,FALSE
+11/2/2022 22:02,"920 Kalayaan St., Brgy. Parang",Marikina,22.7,30.6,FALSE,FALSE,FALSE
+9/6/2022 23:12,"957 Bonifacio St., Brgy. Western Bicutan",Taguig,80.4,43.6,TRUE,TRUE,TRUE
+4/6/2022 11:51,"994 Sampaguita St., Brgy. Poblacion",Makati,53.3,37.5,FALSE,TRUE,FALSE
+4/13/2022 0:02,"42 Masikap St., Brgy. Malibay",Pasay,29.8,32.2,FALSE,FALSE,FALSE
+10/22/2022 8:02,"79 Maligaya St., Brgy. Cubao",Quezon City,91.6,46.1,FALSE,TRUE,TRUE
+5/14/2022 2:40,"116 Molave St., Brgy. Putatan",Muntinlupa,48.9,36.5,TRUE,FALSE,FALSE
+7/24/2022 10:43,"153 Maligaya St., Brgy. Marulas",Valenzuela,52.4,37.3,TRUE,TRUE,FALSE
+8/7/2022 21:08,"190 Dahlia St., Brgy. Concepcion",Malabon,84.4,44.5,FALSE,TRUE,TRUE
+12/12/2022 12:28,"227 Narra St., Brgy. San Antonio",Pasig,94.7,46.8,TRUE,FALSE,TRUE
+11/21/2022 3:59,"264 Acacia St., Brgy. Grace Park",Caloocan,20.0,30.0,TRUE,TRUE,FALSE
+8/13/2022 5:54,"301 Rizal St., Brgy. San Roque",Navotas,48.4,36.4,FALSE,TRUE,FALSE
+7/28/2022 16:36,"338 Acacia St., Brgy. San Roque",Pateros,36.4,33.7,FALSE,TRUE,FALSE
+9/2/2022 8:59,"375 Maharlika St., Brgy. Plainview",Mandaluyong,21.3,30.3,TRUE,TRUE,FALSE
+6/22/2022 22:21,"412 Mabini St., Brgy. Addition Hills",San Juan,83.6,44.3,FALSE,TRUE,TRUE
+7/20/2022 19:06,"449 Bonifacio St., Brgy. Pulang Lupa",Las Piñas,48.4,36.4,TRUE,TRUE,FALSE
+9/12/2022 23:29,"486 Kalayaan St., Brgy. Don Bosco",Parañaque,41.3,34.8,FALSE,FALSE,FALSE
+10/22/2022 8:23,"523 Masikap St., Brgy. Malate",Manila,66.2,40.4,FALSE,TRUE,TRUE
+5/7/2022 5:07,"560 Sampaguita St., Brgy. Concepcion Uno",Marikina,40.9,34.7,TRUE,FALSE,FALSE
+11/4/2022 13:16,"597 Masikap St., Brgy. Fort Bonifacio",Taguig,70.2,41.3,TRUE,FALSE,TRUE
+8/16/2022 14:11,"634 Maligaya St., Brgy. Bel-Air",Makati,23.1,30.7,TRUE,FALSE,FALSE
+9/25/2022 22:45,"671 Molave St., Brgy. San Isidro",Pasay,35.6,33.5,FALSE,TRUE,FALSE
+3/26/2022 4:11,"708 Narra St., Brgy. Tandang Sora",Quezon City,24.0,30.9,TRUE,TRUE,FALSE
+7/20/2022 2:37,"745 Dahlia St., Brgy. Tunasan",Muntinlupa,25.8,31.3,TRUE,TRUE,FALSE
+3/14/2022 14:18,"782 Narra St., Brgy. Karuhatan",Valenzuela,64.4,40.0,FALSE,TRUE,FALSE
+7/16/2022 22:40,"819 Acacia St., Brgy. Potrero",Malabon,88.9,45.5,TRUE,TRUE,TRUE
+12/26/2022 20:23,"856 Rizal St., Brgy. Kapitolyo",Pasig,53.3,37.5,TRUE,FALSE,FALSE
+7/20/2022 17:40,"893 Mabini St., Brgy. Bagong Silang",Caloocan,99.1,47.8,TRUE,FALSE,TRUE
+1/29/2022 10:42,"930 Maharlika St., Brgy. Tanza",Navotas,84.4,44.5,TRUE,FALSE,TRUE
+5/30/2022 19:40,"967 Mabini St., Brgy. Aguho",Pateros,22.7,30.6,FALSE,FALSE,FALSE
+2/13/2022 21:12,"15 Bonifacio St., Brgy. Hulo",Mandaluyong,23.1,30.7,TRUE,TRUE,FALSE
+10/18/2022 4:27,"52 Kalayaan St., Brgy. Balong-Bato",San Juan,42.7,35.1,TRUE,FALSE,FALSE
+8/28/2022 3:49,"89 Masikap St., Brgy. Almanza",Las Piñas,67.6,40.7,TRUE,TRUE,TRUE
+5/24/2022 6:08,"126 Sampaguita St., Brgy. BF Homes",Parañaque,92.4,46.3,TRUE,TRUE,TRUE
+3/28/2022 21:57,"163 Molave St., Brgy. Ermita",Manila,67.1,40.6,TRUE,FALSE,TRUE
+3/9/2022 10:43,"200 Maligaya St., Brgy. Sto. Niño",Marikina,85.3,44.7,FALSE,FALSE,TRUE
+8/22/2022 14:48,"237 Molave St., Brgy. Ususan",Taguig,28.9,32.0,FALSE,FALSE,FALSE
+11/6/2022 15:27,"274 Narra St., Brgy. San Antonio",Makati,28.4,31.9,TRUE,TRUE,FALSE
+8/29/2022 15:14,"311 Dahlia St., Brgy. Maricaban",Pasay,91.6,46.1,TRUE,FALSE,TRUE
+10/7/2022 13:41,"348 Rizal St., Brgy. Diliman",Quezon City,32.4,32.8,TRUE,FALSE,FALSE
+8/29/2022 0:24,"385 Acacia St., Brgy. Alabang",Muntinlupa,53.8,37.6,TRUE,FALSE,FALSE
+12/15/2022 1:00,"422 Rizal St., Brgy. Malinta",Valenzuela,82.2,44.0,TRUE,TRUE,TRUE
+4/23/2022 22:45,"459 Mabini St., Brgy. Longos",Malabon,21.3,30.3,TRUE,TRUE,FALSE
+12/17/2022 22:06,"496 Maharlika St., Brgy. Ugong",Pasig,85.3,44.7,FALSE,FALSE,TRUE
+1/5/2022 23:54,"533 Kalayaan St., Brgy. Camarin",Caloocan,63.1,39.7,FALSE,FALSE,FALSE
+5/9/2022 3:31,"570 Bonifacio St., Brgy. Daanghari",Navotas,24.9,31.1,FALSE,TRUE,FALSE
+11/26/2022 23:39,"607 Kalayaan St., Brgy. Sta. Ana",Pateros,78.7,43.2,FALSE,TRUE,TRUE
+10/13/2022 20:23,"644 Masikap St., Brgy. Highway Hills",Mandaluyong,43.6,35.3,FALSE,FALSE,FALSE
+11/10/2022 15:50,"681 Sampaguita St., Brgy. Greenhills",San Juan,51.1,37.0,FALSE,FALSE,FALSE
+11/16/2022 22:14,"718 Molave St., Brgy. Talon Uno",Las Piñas,53.3,37.5,TRUE,TRUE,FALSE
+8/2/2022 0:19,"755 Maligaya St., Brgy. Baclaran",Parañaque,86.2,44.9,TRUE,FALSE,TRUE
+11/26/2022 0:36,"792 Dahlia St., Brgy. Sampaloc",Manila,71.1,41.5,TRUE,FALSE,TRUE
+9/18/2022 11:27,"829 Narra St., Brgy. Parang",Marikina,20.4,30.1,FALSE,TRUE,FALSE
+10/6/2022 17:40,"866 Dahlia St., Brgy. Western Bicutan",Taguig,46.2,35.9,TRUE,FALSE,FALSE
+11/4/2022 21:00,"903 Rizal St., Brgy. Poblacion",Makati,30.7,32.4,TRUE,TRUE,FALSE
+9/2/2022 1:37,"940 Acacia St., Brgy. Malibay",Pasay,89.8,45.7,TRUE,FALSE,TRUE
+3/15/2022 21:52,"977 Maharlika St., Brgy. Cubao",Quezon City,82.7,44.1,TRUE,FALSE,TRUE
+1/5/2022 19:28,"25 Mabini St., Brgy. Putatan",Muntinlupa,33.3,33.0,TRUE,FALSE,FALSE
+3/27/2022 17:22,"62 Maharlika St., Brgy. Marulas",Valenzuela,47.6,36.2,TRUE,FALSE,FALSE
+3/12/2022 18:48,"99 Kalayaan St., Brgy. Concepcion",Malabon,84.4,44.5,TRUE,TRUE,TRUE
+4/4/2022 4:55,"136 Bonifacio St., Brgy. San Antonio",Pasig,56.9,38.3,FALSE,TRUE,FALSE
+10/13/2022 4:15,"173 Sampaguita St., Brgy. Grace Park",Caloocan,93.3,46.5,FALSE,TRUE,TRUE
+7/17/2022 20:04,"210 Masikap St., Brgy. San Roque",Navotas,80.4,43.6,TRUE,FALSE,TRUE
+2/16/2022 5:47,"247 Sampaguita St., Brgy. San Roque",Pateros,69.3,41.1,TRUE,FALSE,TRUE
+4/23/2022 2:51,"284 Molave St., Brgy. Plainview",Mandaluyong,68.4,40.9,TRUE,FALSE,TRUE
+6/20/2022 9:56,"321 Maligaya St., Brgy. Addition Hills",San Juan,20.9,30.2,FALSE,FALSE,FALSE
+5/2/2022 7:47,"358 Dahlia St., Brgy. Pulang Lupa",Las Piñas,70.2,41.3,FALSE,TRUE,TRUE
+7/14/2022 18:13,"395 Narra St., Brgy. Don Bosco",Parañaque,90.7,45.9,FALSE,FALSE,TRUE
+5/10/2022 11:20,"432 Acacia St., Brgy. Malate",Manila,84.4,44.5,FALSE,TRUE,TRUE
+7/20/2022 10:53,"469 Rizal St., Brgy. Concepcion Uno",Marikina,24.9,31.1,FALSE,FALSE,FALSE
+4/19/2022 23:47,"506 Acacia St., Brgy. Fort Bonifacio",Taguig,64.4,40.0,TRUE,TRUE,FALSE
+4/22/2022 6:09,"543 Maharlika St., Brgy. Bel-Air",Makati,47.6,36.2,FALSE,FALSE,FALSE
+5/12/2022 9:07,"580 Mabini St., Brgy. San Isidro",Pasay,35.6,33.5,TRUE,FALSE,FALSE
+6/27/2022 16:10,"617 Bonifacio St., Brgy. Tandang Sora",Quezon City,50.2,36.8,FALSE,FALSE,FALSE
+5/12/2022 9:06,"654 Kalayaan St., Brgy. Tunasan",Muntinlupa,93.3,46.5,FALSE,TRUE,TRUE
+11/14/2022 5:15,"691 Bonifacio St., Brgy. Karuhatan",Valenzuela,24.9,31.1,FALSE,FALSE,FALSE
+6/25/2022 10:38,"728 Sampaguita St., Brgy. Potrero",Malabon,28.0,31.8,FALSE,FALSE,FALSE
+12/22/2022 23:03,"765 Masikap St., Brgy. Kapitolyo",Pasig,29.8,32.2,FALSE,TRUE,FALSE
+8/18/2022 19:01,"802 Maligaya St., Brgy. Bagong Silang",Caloocan,61.3,39.3,FALSE,TRUE,FALSE
+3/4/2022 15:21,"839 Molave St., Brgy. Tanza",Navotas,33.3,33.0,TRUE,TRUE,FALSE
+1/29/2022 3:46,"876 Maligaya St., Brgy. Aguho",Pateros,31.6,32.6,FALSE,FALSE,FALSE
+9/23/2022 14:37,"913 Dahlia St., Brgy. Hulo",Mandaluyong,35.6,33.5,TRUE,TRUE,FALSE
+2/5/2022 13:56,"950 Narra St., Brgy. Balong-Bato",San Juan,34.7,33.3,TRUE,FALSE,FALSE
+7/8/2022 11:03,"987 Acacia St., Brgy. Almanza",Las Piñas,65.3,40.2,TRUE,FALSE,TRUE
+6/3/2022 13:01,"35 Rizal St., Brgy. BF Homes",Parañaque,63.1,39.7,TRUE,TRUE,FALSE
+1/14/2022 18:05,"72 Mabini St., Brgy. Ermita",Manila,48.4,36.4,FALSE,FALSE,FALSE
+5/24/2022 11:43,"109 Maharlika St., Brgy. Sto. Niño",Marikina,27.6,31.7,FALSE,FALSE,FALSE
+7/23/2022 10:34,"146 Mabini St., Brgy. Ususan",Taguig,70.2,41.3,FALSE,TRUE,TRUE
+4/7/2022 18:18,"183 Bonifacio St., Brgy. San Antonio",Makati,25.8,31.3,FALSE,TRUE,FALSE
+2/9/2022 4:52,"220 Kalayaan St., Brgy. Maricaban",Pasay,75.1,42.4,TRUE,FALSE,TRUE
+3/21/2022 21:07,"257 Masikap St., Brgy. Diliman",Quezon City,96.4,47.2,FALSE,TRUE,TRUE
+9/2/2022 7:07,"294 Sampaguita St., Brgy. Alabang",Muntinlupa,51.1,37.0,TRUE,FALSE,FALSE
+7/8/2022 21:43,"331 Masikap St., Brgy. Malinta",Valenzuela,52.4,37.3,FALSE,TRUE,FALSE
+6/29/2022 1:40,"368 Maligaya St., Brgy. Longos",Malabon,39.1,34.3,TRUE,FALSE,FALSE
+4/14/2022 7:48,"405 Molave St., Brgy. Ugong",Pasig,32.4,32.8,TRUE,TRUE,FALSE
+11/2/2022 2:51,"442 Narra St., Brgy. Camarin",Caloocan,76.9,42.8,FALSE,FALSE,TRUE
+4/19/2022 0:36,"479 Dahlia St., Brgy. Daanghari",Navotas,50.2,36.8,TRUE,FALSE,FALSE
+11/3/2022 13:46,"516 Narra St., Brgy. Sta. Ana",Pateros,61.3,39.3,TRUE,FALSE,FALSE
+9/16/2022 23:46,"553 Acacia St., Brgy. Highway Hills",Mandaluyong,46.7,36.0,TRUE,TRUE,FALSE
+1/7/2022 14:08,"590 Rizal St., Brgy. Greenhills",San Juan,100.0,48.0,TRUE,FALSE,TRUE
+3/22/2022 13:43,"627 Mabini St., Brgy. Talon Uno",Las Piñas,43.6,35.3,TRUE,FALSE,FALSE
+6/6/2022 18:22,"664 Maharlika St., Brgy. Baclaran",Parañaque,28.9,32.0,FALSE,FALSE,FALSE
+11/20/2022 4:08,"701 Kalayaan St., Brgy. Sampaloc",Manila,57.8,38.5,TRUE,TRUE,FALSE
+6/25/2022 18:32,"738 Bonifacio St., Brgy. Parang",Marikina,24.4,31.0,TRUE,TRUE,FALSE
+11/18/2022 15:47,"775 Kalayaan St., Brgy. Western Bicutan",Taguig,76.9,42.8,TRUE,TRUE,TRUE
+7/5/2022 17:43,"812 Masikap St., Brgy. Poblacion",Makati,33.8,33.1,FALSE,TRUE,FALSE
+11/14/2022 11:26,"849 Sampaguita St., Brgy. Malibay",Pasay,91.6,46.1,TRUE,TRUE,TRUE
+12/1/2022 19:46,"886 Molave St., Brgy. Cubao",Quezon City,67.1,40.6,FALSE,FALSE,TRUE
+6/29/2022 2:08,"923 Maligaya St., Brgy. Putatan",Muntinlupa,67.6,40.7,FALSE,TRUE,TRUE
+11/6/2022 22:11,"960 Molave St., Brgy. Marulas",Valenzuela,73.3,42.0,FALSE,TRUE,TRUE
+1/27/2022 6:03,"997 Narra St., Brgy. Concepcion",Malabon,75.1,42.4,TRUE,FALSE,TRUE
+11/1/2022 13:49,"45 Dahlia St., Brgy. San Antonio",Pasig,21.3,30.3,TRUE,TRUE,FALSE
+8/10/2022 18:51,"82 Rizal St., Brgy. Grace Park",Caloocan,27.6,31.7,FALSE,TRUE,FALSE
+10/1/2022 13:29,"119 Acacia St., Brgy. San Roque",Navotas,55.1,37.9,FALSE,FALSE,FALSE
+8/17/2022 11:35,"156 Rizal St., Brgy. San Roque",Pateros,56.0,38.1,FALSE,FALSE,FALSE
+10/2/2022 4:01,"193 Mabini St., Brgy. Plainview",Mandaluyong,53.3,37.5,TRUE,TRUE,FALSE
+8/31/2022 1:07,"230 Maharlika St., Brgy. Addition Hills",San Juan,39.6,34.4,FALSE,TRUE,FALSE
+4/27/2022 6:21,"267 Kalayaan St., Brgy. Pulang Lupa",Las Piñas,76.0,42.6,FALSE,TRUE,TRUE
+1/3/2022 6:38,"304 Bonifacio St., Brgy. Don Bosco",Parañaque,67.6,40.7,TRUE,TRUE,TRUE
+3/2/2022 1:43,"341 Sampaguita St., Brgy. Malate",Manila,44.9,35.6,TRUE,TRUE,FALSE
+11/10/2022 6:08,"378 Masikap St., Brgy. Concepcion Uno",Marikina,53.3,37.5,TRUE,TRUE,FALSE
+4/26/2022 5:17,"415 Sampaguita St., Brgy. Fort Bonifacio",Taguig,27.6,31.7,TRUE,FALSE,FALSE
+2/26/2022 4:37,"452 Molave St., Brgy. Bel-Air",Makati,91.6,46.1,TRUE,TRUE,TRUE
+9/25/2022 16:53,"489 Maligaya St., Brgy. San Isidro",Pasay,53.3,37.5,TRUE,TRUE,FALSE
+1/27/2022 11:16,"526 Dahlia St., Brgy. Tandang Sora",Quezon City,33.8,33.1,FALSE,FALSE,FALSE
+8/12/2022 23:40,"563 Narra St., Brgy. Tunasan",Muntinlupa,28.9,32.0,TRUE,TRUE,FALSE
+8/26/2022 1:48,"600 Dahlia St., Brgy. Karuhatan",Valenzuela,48.4,36.4,FALSE,TRUE,FALSE
+12/9/2022 22:01,"637 Rizal St., Brgy. Potrero",Malabon,42.2,35.0,TRUE,TRUE,FALSE
+5/15/2022 9:41,"674 Acacia St., Brgy. Kapitolyo",Pasig,80.4,43.6,TRUE,FALSE,TRUE
+2/1/2022 17:23,"711 Maharlika St., Brgy. Bagong Silang",Caloocan,100.0,48.0,TRUE,FALSE,TRUE
+4/4/2022 18:30,"748 Mabini St., Brgy. Tanza",Navotas,52.0,37.2,TRUE,TRUE,FALSE
+8/27/2022 3:45,"785 Maharlika St., Brgy. Aguho",Pateros,60.0,39.0,TRUE,TRUE,FALSE
+9/19/2022 15:15,"822 Kalayaan St., Brgy. Hulo",Mandaluyong,72.9,41.9,FALSE,TRUE,TRUE
+3/20/2022 21:00,"859 Bonifacio St., Brgy. Balong-Bato",San Juan,73.3,42.0,FALSE,FALSE,TRUE
+10/18/2022 2:34,"896 Sampaguita St., Brgy. Almanza",Las Piñas,36.0,33.6,TRUE,FALSE,FALSE
+8/25/2022 8:43,"933 Masikap St., Brgy. BF Homes",Parañaque,46.7,36.0,FALSE,TRUE,FALSE
+1/8/2022 16:15,"970 Maligaya St., Brgy. Ermita",Manila,51.1,37.0,TRUE,TRUE,FALSE
+8/18/2022 21:12,"18 Molave St., Brgy. Sto. Niño",Marikina,28.9,32.0,FALSE,FALSE,FALSE
+1/17/2022 18:18,"55 Maligaya St., Brgy. Ususan",Taguig,29.8,32.2,TRUE,FALSE,FALSE
+7/4/2022 2:25,"92 Dahlia St., Brgy. San Antonio",Makati,48.4,36.4,TRUE,FALSE,FALSE
+9/25/2022 2:23,"129 Narra St., Brgy. Maricaban",Pasay,71.1,41.5,FALSE,FALSE,TRUE
+11/9/2022 9:06,"166 Acacia St., Brgy. Diliman",Quezon City,23.1,30.7,FALSE,TRUE,FALSE
+12/23/2022 21:26,"203 Rizal St., Brgy. Alabang",Muntinlupa,89.8,45.7,TRUE,TRUE,TRUE
+9/27/2022 12:10,"240 Acacia St., Brgy. Malinta",Valenzuela,20.4,30.1,FALSE,TRUE,FALSE
+7/23/2022 14:40,"277 Maharlika St., Brgy. Longos",Malabon,56.0,38.1,TRUE,FALSE,FALSE
+5/30/2022 8:41,"314 Mabini St., Brgy. Ugong",Pasig,68.4,40.9,FALSE,TRUE,TRUE
+5/25/2022 2:47,"351 Bonifacio St., Brgy. Camarin",Caloocan,34.7,33.3,FALSE,TRUE,FALSE
+3/9/2022 19:46,"388 Kalayaan St., Brgy. Daanghari",Navotas,24.9,31.1,FALSE,TRUE,FALSE
+10/1/2022 3:09,"425 Bonifacio St., Brgy. Sta. Ana",Pateros,78.7,43.2,FALSE,FALSE,TRUE
+4/10/2022 3:31,"462 Sampaguita St., Brgy. Highway Hills",Mandaluyong,25.8,31.3,TRUE,TRUE,FALSE
+1/2/2022 3:43,"499 Masikap St., Brgy. Greenhills",San Juan,66.2,40.4,FALSE,FALSE,TRUE
+9/21/2022 16:52,"536 Maligaya St., Brgy. Talon Uno",Las Piñas,32.0,32.7,FALSE,FALSE,FALSE
+6/30/2022 13:50,"573 Molave St., Brgy. Baclaran",Parañaque,66.2,40.4,FALSE,FALSE,TRUE
+5/27/2022 13:32,"610 Narra St., Brgy. Sampaloc",Manila,29.8,32.2,TRUE,TRUE,FALSE
+12/17/2022 3:36,"647 Dahlia St., Brgy. Parang",Marikina,88.0,45.3,TRUE,FALSE,TRUE
+7/26/2022 21:08,"684 Narra St., Brgy. Western Bicutan",Taguig,42.2,35.0,TRUE,FALSE,FALSE
+10/6/2022 17:20,"721 Acacia St., Brgy. Poblacion",Makati,80.9,43.7,FALSE,FALSE,TRUE
+12/24/2022 6:31,"758 Rizal St., Brgy. Malibay",Pasay,84.4,44.5,TRUE,TRUE,TRUE
+2/4/2022 9:06,"795 Mabini St., Brgy. Cubao",Quezon City,88.0,45.3,FALSE,TRUE,TRUE
+5/20/2022 10:21,"832 Maharlika St., Brgy. Putatan",Muntinlupa,23.1,30.7,FALSE,TRUE,FALSE
+11/18/2022 18:24,"869 Mabini St., Brgy. Marulas",Valenzuela,76.0,42.6,TRUE,FALSE,TRUE
+5/19/2022 22:26,"906 Bonifacio St., Brgy. Concepcion",Malabon,74.2,42.2,TRUE,TRUE,TRUE
+3/10/2022 14:08,"943 Kalayaan St., Brgy. San Antonio",Pasig,33.3,33.0,TRUE,TRUE,FALSE
+8/28/2022 7:19,"980 Masikap St., Brgy. Grace Park",Caloocan,42.7,35.1,TRUE,FALSE,FALSE
+12/29/2022 13:13,"28 Sampaguita St., Brgy. San Roque",Navotas,25.3,31.2,TRUE,FALSE,FALSE
+7/6/2022 14:56,"65 Masikap St., Brgy. San Roque",Pateros,53.8,37.6,FALSE,TRUE,FALSE
+7/11/2022 0:14,"102 Maligaya St., Brgy. Plainview",Mandaluyong,56.9,38.3,FALSE,FALSE,FALSE
+12/18/2022 20:48,"139 Molave St., Brgy. Addition Hills",San Juan,24.4,31.0,FALSE,TRUE,FALSE
+10/21/2022 15:53,"176 Narra St., Brgy. Pulang Lupa",Las Piñas,20.4,30.1,TRUE,FALSE,FALSE
+9/13/2022 20:32,"213 Dahlia St., Brgy. Don Bosco",Parañaque,72.9,41.9,FALSE,FALSE,TRUE
+11/3/2022 8:34,"250 Rizal St., Brgy. Malate",Manila,48.4,36.4,TRUE,FALSE,FALSE
+1/8/2022 1:22,"287 Acacia St., Brgy. Concepcion Uno",Marikina,44.9,35.6,TRUE,FALSE,FALSE
+5/31/2022 9:45,"324 Rizal St., Brgy. Fort Bonifacio",Taguig,77.8,43.0,FALSE,TRUE,TRUE
+5/4/2022 1:29,"361 Mabini St., Brgy. Bel-Air",Makati,36.4,33.7,FALSE,FALSE,FALSE
+1/6/2022 2:43,"398 Maharlika St., Brgy. San Isidro",Pasay,76.0,42.6,TRUE,TRUE,TRUE
+6/17/2022 15:51,"435 Kalayaan St., Brgy. Tandang Sora",Quezon City,60.0,39.0,FALSE,TRUE,FALSE
+12/29/2022 8:49,"472 Bonifacio St., Brgy. Tunasan",Muntinlupa,86.2,44.9,FALSE,TRUE,TRUE
+10/13/2022 21:34,"509 Kalayaan St., Brgy. Karuhatan",Valenzuela,55.1,37.9,TRUE,TRUE,FALSE
+3/20/2022 5:26,"546 Masikap St., Brgy. Potrero",Malabon,20.4,30.1,FALSE,FALSE,FALSE
+3/22/2022 15:28,"583 Sampaguita St., Brgy. Kapitolyo",Pasig,28.4,31.9,FALSE,FALSE,FALSE
+5/30/2022 18:38,"620 Molave St., Brgy. Bagong Silang",Caloocan,38.7,34.2,TRUE,FALSE,FALSE
+6/25/2022 15:50,"657 Maligaya St., Brgy. Tanza",Navotas,95.6,47.0,FALSE,FALSE,TRUE
+12/29/2022 13:31,"694 Molave St., Brgy. Aguho",Pateros,42.2,35.0,FALSE,FALSE,FALSE
+5/2/2022 2:09,"731 Narra St., Brgy. Hulo",Mandaluyong,48.4,36.4,TRUE,FALSE,FALSE
+6/8/2022 18:51,"768 Dahlia St., Brgy. Balong-Bato",San Juan,79.6,43.4,TRUE,TRUE,TRUE
+2/6/2022 10:44,"805 Rizal St., Brgy. Almanza",Las Piñas,79.6,43.4,TRUE,FALSE,TRUE
+8/4/2022 0:13,"842 Acacia St., Brgy. BF Homes",Parañaque,95.6,47.0,TRUE,TRUE,TRUE
+1/9/2022 18:51,"879 Maharlika St., Brgy. Ermita",Manila,20.4,30.1,FALSE,TRUE,FALSE
+10/15/2022 2:18,"916 Mabini St., Brgy. Sto. Niño",Marikina,31.1,32.5,FALSE,TRUE,FALSE
+11/30/2022 23:19,"953 Maharlika St., Brgy. Ususan",Taguig,76.0,42.6,FALSE,TRUE,TRUE
+3/29/2022 19:25,"990 Kalayaan St., Brgy. San Antonio",Makati,22.7,30.6,TRUE,TRUE,FALSE
+8/21/2022 1:18,"38 Bonifacio St., Brgy. Maricaban",Pasay,32.0,32.7,TRUE,FALSE,FALSE
+2/14/2022 8:44,"75 Sampaguita St., Brgy. Diliman",Quezon City,96.4,47.2,FALSE,FALSE,TRUE
+11/2/2022 6:18,"112 Masikap St., Brgy. Alabang",Muntinlupa,21.3,30.3,FALSE,TRUE,FALSE
+6/20/2022 7:20,"149 Sampaguita St., Brgy. Malinta",Valenzuela,70.2,41.3,FALSE,FALSE,TRUE
+5/16/2022 9:17,"186 Molave St., Brgy. Longos",Malabon,57.8,38.5,FALSE,FALSE,FALSE
+2/19/2022 3:43,"223 Maligaya St., Brgy. Ugong",Pasig,78.7,43.2,TRUE,FALSE,TRUE
+6/9/2022 12:52,"260 Dahlia St., Brgy. Camarin",Caloocan,100.0,48.0,TRUE,TRUE,TRUE
+4/25/2022 13:23,"297 Narra St., Brgy. Daanghari",Navotas,78.7,43.2,FALSE,TRUE,TRUE
+9/25/2022 3:14,"334 Dahlia St., Brgy. Sta. Ana",Pateros,56.0,38.1,FALSE,FALSE,FALSE
+5/12/2022 14:52,"371 Rizal St., Brgy. Highway Hills",Mandaluyong,24.0,30.9,FALSE,FALSE,FALSE
+5/26/2022 21:35,"408 Acacia St., Brgy. Greenhills",San Juan,95.6,47.0,TRUE,TRUE,TRUE
+10/6/2022 3:24,"445 Maharlika St., Brgy. Talon Uno",Las Piñas,90.7,45.9,TRUE,TRUE,TRUE
+7/6/2022 22:57,"482 Mabini St., Brgy. Baclaran",Parañaque,34.2,33.2,TRUE,TRUE,FALSE
+6/11/2022 10:54,"519 Bonifacio St., Brgy. Sampaloc",Manila,65.3,40.2,FALSE,FALSE,TRUE
+10/10/2022 2:06,"556 Kalayaan St., Brgy. Parang",Marikina,29.3,32.1,TRUE,TRUE,FALSE
+3/20/2022 19:08,"593 Bonifacio St., Brgy. Western Bicutan",Taguig,44.9,35.6,FALSE,FALSE,FALSE
+10/4/2022 4:12,"630 Sampaguita St., Brgy. Poblacion",Makati,62.2,39.5,FALSE,TRUE,FALSE
+10/1/2022 10:43,"667 Masikap St., Brgy. Malibay",Pasay,86.2,44.9,FALSE,FALSE,TRUE
+10/29/2022 16:55,"704 Maligaya St., Brgy. Cubao",Quezon City,78.7,43.2,TRUE,FALSE,TRUE
+2/16/2022 3:53,"741 Molave St., Brgy. Putatan",Muntinlupa,87.1,45.1,TRUE,TRUE,TRUE
+8/23/2022 5:49,"778 Maligaya St., Brgy. Marulas",Valenzuela,37.3,33.9,TRUE,TRUE,FALSE
+10/2/2022 7:06,"815 Dahlia St., Brgy. Concepcion",Malabon,86.2,44.9,FALSE,FALSE,TRUE
+1/19/2022 3:46,"852 Narra St., Brgy. San Antonio",Pasig,63.1,39.7,FALSE,FALSE,FALSE
+11/6/2022 3:41,"889 Acacia St., Brgy. Grace Park",Caloocan,92.4,46.3,TRUE,TRUE,TRUE
+6/14/2022 9:08,"926 Rizal St., Brgy. San Roque",Navotas,72.0,41.7,TRUE,TRUE,TRUE
+4/5/2022 17:18,"963 Acacia St., Brgy. San Roque",Pateros,46.2,35.9,FALSE,FALSE,FALSE
+1/22/2022 1:07,"11 Maharlika St., Brgy. Plainview",Mandaluyong,79.6,43.4,TRUE,FALSE,TRUE
+4/3/2022 21:27,"48 Mabini St., Brgy. Addition Hills",San Juan,28.9,32.0,TRUE,FALSE,FALSE
+6/15/2022 5:58,"85 Bonifacio St., Brgy. Pulang Lupa",Las Piñas,87.1,45.1,FALSE,TRUE,TRUE
+1/18/2022 10:22,"122 Kalayaan St., Brgy. Don Bosco",Parañaque,31.6,32.6,TRUE,FALSE,FALSE
+6/26/2022 7:38,"159 Masikap St., Brgy. Malate",Manila,83.6,44.3,TRUE,TRUE,TRUE
+7/26/2022 8:18,"196 Sampaguita St., Brgy. Concepcion Uno",Marikina,60.4,39.1,FALSE,FALSE,FALSE
+6/20/2022 17:43,"233 Masikap St., Brgy. Fort Bonifacio",Taguig,79.6,43.4,FALSE,TRUE,TRUE
+2/17/2022 5:32,"270 Maligaya St., Brgy. Bel-Air",Makati,74.2,42.2,TRUE,TRUE,TRUE
+11/15/2022 7:09,"307 Molave St., Brgy. San Isidro",Pasay,78.7,43.2,FALSE,FALSE,TRUE
+3/4/2022 12:32,"344 Narra St., Brgy. Tandang Sora",Quezon City,32.4,32.8,FALSE,TRUE,FALSE
+12/13/2022 19:24,"381 Dahlia St., Brgy. Tunasan",Muntinlupa,48.4,36.4,FALSE,FALSE,FALSE
+6/10/2022 15:43,"418 Narra St., Brgy. Karuhatan",Valenzuela,32.0,32.7,FALSE,TRUE,FALSE
+12/30/2022 11:49,"455 Acacia St., Brgy. Potrero",Malabon,53.8,37.6,FALSE,FALSE,FALSE
+9/15/2022 1:55,"492 Rizal St., Brgy. Kapitolyo",Pasig,46.7,36.0,FALSE,TRUE,FALSE
+10/27/2022 12:34,"529 Mabini St., Brgy. Bagong Silang",Caloocan,69.3,41.1,FALSE,TRUE,TRUE
+6/18/2022 8:14,"566 Maharlika St., Brgy. Tanza",Navotas,27.1,31.6,FALSE,TRUE,FALSE
+11/11/2022 3:56,"603 Mabini St., Brgy. Aguho",Pateros,67.6,40.7,TRUE,FALSE,TRUE
+5/12/2022 22:12,"640 Bonifacio St., Brgy. Hulo",Mandaluyong,60.0,39.0,TRUE,TRUE,FALSE
+5/17/2022 23:32,"677 Kalayaan St., Brgy. Balong-Bato",San Juan,98.2,47.6,TRUE,TRUE,TRUE
+6/8/2022 17:07,"714 Masikap St., Brgy. Almanza",Las Piñas,92.4,46.3,FALSE,FALSE,TRUE
+8/9/2022 20:11,"751 Sampaguita St., Brgy. BF Homes",Parañaque,70.2,41.3,TRUE,FALSE,TRUE
+12/18/2022 15:59,"788 Molave St., Brgy. Ermita",Manila,54.7,37.8,FALSE,FALSE,FALSE
+4/20/2022 23:12,"825 Maligaya St., Brgy. Sto. Niño",Marikina,88.0,45.3,TRUE,TRUE,TRUE
+6/30/2022 23:42,"862 Molave St., Brgy. Ususan",Taguig,29.3,32.1,FALSE,TRUE,FALSE
+5/27/2022 16:33,"899 Narra St., Brgy. San Antonio",Makati,24.9,31.1,FALSE,TRUE,FALSE
+2/27/2022 13:08,"936 Dahlia St., Brgy. Maricaban",Pasay,67.1,40.6,FALSE,FALSE,TRUE
+2/15/2022 11:25,"973 Rizal St., Brgy. Diliman",Quezon City,58.2,38.6,FALSE,FALSE,FALSE
+9/12/2022 13:37,"21 Acacia St., Brgy. Alabang",Muntinlupa,21.3,30.3,FALSE,FALSE,FALSE
+6/26/2022 6:55,"58 Rizal St., Brgy. Malinta",Valenzuela,24.0,30.9,TRUE,FALSE,FALSE
+6/1/2022 13:38,"95 Mabini St., Brgy. Longos",Malabon,48.9,36.5,TRUE,TRUE,FALSE
+1/5/2022 13:55,"132 Maharlika St., Brgy. Ugong",Pasig,75.1,42.4,TRUE,TRUE,TRUE
+8/22/2022 1:54,"169 Kalayaan St., Brgy. Camarin",Caloocan,22.2,30.5,TRUE,FALSE,FALSE
+1/1/2022 6:41,"206 Bonifacio St., Brgy. Daanghari",Navotas,27.1,31.6,TRUE,FALSE,FALSE
+8/28/2022 18:37,"243 Kalayaan St., Brgy. Sta. Ana",Pateros,71.1,41.5,TRUE,FALSE,TRUE
+10/31/2022 17:39,"280 Masikap St., Brgy. Highway Hills",Mandaluyong,82.2,44.0,TRUE,TRUE,TRUE
+3/3/2022 18:54,"317 Sampaguita St., Brgy. Greenhills",San Juan,34.7,33.3,TRUE,FALSE,FALSE
+7/27/2022 11:11,"354 Molave St., Brgy. Talon Uno",Las Piñas,76.9,42.8,FALSE,TRUE,TRUE
+1/4/2022 7:42,"391 Maligaya St., Brgy. Baclaran",Parañaque,48.9,36.5,TRUE,FALSE,FALSE
+2/6/2022 4:41,"428 Dahlia St., Brgy. Sampaloc",Manila,26.7,31.5,TRUE,TRUE,FALSE
+11/15/2022 5:45,"465 Narra St., Brgy. Parang",Marikina,25.3,31.2,FALSE,TRUE,FALSE
+8/6/2022 17:55,"502 Dahlia St., Brgy. Western Bicutan",Taguig,22.7,30.6,FALSE,FALSE,FALSE
+1/2/2022 7:59,"539 Rizal St., Brgy. Poblacion",Makati,24.0,30.9,TRUE,FALSE,FALSE
+3/6/2022 18:18,"576 Acacia St., Brgy. Malibay",Pasay,60.0,39.0,TRUE,TRUE,FALSE
+4/27/2022 14:22,"613 Maharlika St., Brgy. Cubao",Quezon City,22.7,30.6,TRUE,FALSE,FALSE
+2/15/2022 19:19,"650 Mabini St., Brgy. Putatan",Muntinlupa,39.6,34.4,TRUE,FALSE,FALSE
+10/14/2022 0:35,"687 Maharlika St., Brgy. Marulas",Valenzuela,42.7,35.1,TRUE,TRUE,FALSE
+9/8/2022 2:16,"724 Kalayaan St., Brgy. Concepcion",Malabon,27.6,31.7,TRUE,TRUE,FALSE
+7/22/2022 9:11,"761 Bonifacio St., Brgy. San Antonio",Pasig,57.8,38.5,FALSE,FALSE,FALSE
+2/14/2022 5:39,"798 Sampaguita St., Brgy. Grace Park",Caloocan,33.3,33.0,FALSE,TRUE,FALSE
+1/27/2022 18:09,"835 Masikap St., Brgy. San Roque",Navotas,20.0,30.0,FALSE,FALSE,FALSE
+8/28/2022 17:42,"872 Sampaguita St., Brgy. San Roque",Pateros,34.2,33.2,TRUE,FALSE,FALSE
+10/13/2022 19:56,"909 Molave St., Brgy. Plainview",Mandaluyong,84.4,44.5,FALSE,TRUE,TRUE
+7/6/2022 16:40,"946 Maligaya St., Brgy. Addition Hills",San Juan,21.8,30.4,FALSE,TRUE,FALSE
+10/14/2022 9:19,"983 Dahlia St., Brgy. Pulang Lupa",Las Piñas,60.4,39.1,FALSE,TRUE,FALSE
+6/1/2022 8:51,"31 Narra St., Brgy. Don Bosco",Parañaque,21.3,30.3,TRUE,FALSE,FALSE
+2/7/2022 4:25,"68 Acacia St., Brgy. Malate",Manila,24.9,31.1,FALSE,FALSE,FALSE
+1/30/2022 0:20,"105 Rizal St., Brgy. Concepcion Uno",Marikina,90.7,45.9,FALSE,TRUE,TRUE
+1/29/2022 15:21,"142 Acacia St., Brgy. Fort Bonifacio",Taguig,32.4,32.8,TRUE,FALSE,FALSE
+3/11/2022 15:00,"179 Maharlika St., Brgy. Bel-Air",Makati,97.3,47.4,FALSE,TRUE,TRUE
+12/23/2022 10:29,"216 Mabini St., Brgy. San Isidro",Pasay,72.9,41.9,FALSE,TRUE,TRUE
+8/10/2022 4:29,"253 Bonifacio St., Brgy. Tandang Sora",Quezon City,40.4,34.6,TRUE,FALSE,FALSE
+10/12/2022 13:05,"290 Kalayaan St., Brgy. Tunasan",Muntinlupa,63.1,39.7,FALSE,TRUE,FALSE
+9/30/2022 12:33,"327 Bonifacio St., Brgy. Karuhatan",Valenzuela,20.4,30.1,TRUE,TRUE,FALSE
+10/4/2022 21:23,"364 Sampaguita St., Brgy. Potrero",Malabon,48.9,36.5,FALSE,TRUE,FALSE
+4/2/2022 21:05,"401 Masikap St., Brgy. Kapitolyo",Pasig,41.3,34.8,FALSE,FALSE,FALSE
+2/6/2022 7:02,"438 Maligaya St., Brgy. Bagong Silang",Caloocan,41.3,34.8,TRUE,TRUE,FALSE
+10/6/2022 10:01,"475 Molave St., Brgy. Tanza",Navotas,45.3,35.7,TRUE,TRUE,FALSE
+1/4/2022 6:22,"512 Maligaya St., Brgy. Aguho",Pateros,43.6,35.3,FALSE,TRUE,FALSE
+9/27/2022 3:39,"549 Dahlia St., Brgy. Hulo",Mandaluyong,79.6,43.4,TRUE,TRUE,TRUE
+7/23/2022 14:30,"586 Narra St., Brgy. Balong-Bato",San Juan,97.3,47.4,FALSE,FALSE,TRUE
+10/7/2022 5:23,"623 Acacia St., Brgy. Almanza",Las Piñas,72.9,41.9,TRUE,TRUE,TRUE
+2/2/2022 11:15,"660 Rizal St., Brgy. BF Homes",Parañaque,55.1,37.9,TRUE,TRUE,FALSE
+4/2/2022 13:48,"697 Mabini St., Brgy. Ermita",Manila,88.0,45.3,TRUE,FALSE,TRUE
+5/11/2022 20:34,"734 Maharlika St., Brgy. Sto. Niño",Marikina,30.7,32.4,TRUE,TRUE,FALSE
+8/13/2022 17:25,"771 Mabini St., Brgy. Ususan",Taguig,45.3,35.7,TRUE,TRUE,FALSE
+4/16/2022 8:48,"808 Bonifacio St., Brgy. San Antonio",Makati,32.4,32.8,FALSE,FALSE,FALSE
+3/24/2022 15:34,"845 Kalayaan St., Brgy. Maricaban",Pasay,84.4,44.5,FALSE,TRUE,TRUE
+2/11/2022 6:44,"882 Masikap St., Brgy. Diliman",Quezon City,23.6,30.8,TRUE,FALSE,FALSE
+6/1/2022 21:41,"919 Sampaguita St., Brgy. Alabang",Muntinlupa,20.4,30.1,TRUE,FALSE,FALSE
+9/10/2022 4:00,"956 Masikap St., Brgy. Malinta",Valenzuela,88.0,45.3,FALSE,FALSE,TRUE
+11/10/2022 10:19,"993 Maligaya St., Brgy. Longos",Malabon,60.0,39.0,TRUE,TRUE,FALSE
+11/3/2022 10:24,"41 Molave St., Brgy. Ugong",Pasig,31.6,32.6,TRUE,FALSE,FALSE
+5/30/2022 7:27,"78 Narra St., Brgy. Camarin",Caloocan,41.3,34.8,TRUE,FALSE,FALSE
+6/27/2022 1:50,"115 Dahlia St., Brgy. Daanghari",Navotas,93.3,46.5,TRUE,TRUE,TRUE
+12/24/2022 6:40,"152 Narra St., Brgy. Sta. Ana",Pateros,65.3,40.2,FALSE,TRUE,TRUE
+2/12/2022 0:17,"189 Acacia St., Brgy. Highway Hills",Mandaluyong,97.3,47.4,TRUE,FALSE,TRUE
+9/5/2022 2:39,"226 Rizal St., Brgy. Greenhills",San Juan,100.0,48.0,FALSE,FALSE,TRUE
+2/5/2022 8:33,"263 Mabini St., Brgy. Talon Uno",Las Piñas,43.6,35.3,TRUE,FALSE,FALSE
+8/24/2022 10:37,"300 Maharlika St., Brgy. Baclaran",Parañaque,70.2,41.3,TRUE,FALSE,TRUE
+11/23/2022 16:21,"337 Kalayaan St., Brgy. Sampaloc",Manila,20.0,30.0,FALSE,TRUE,FALSE
+4/11/2022 18:27,"374 Bonifacio St., Brgy. Parang",Marikina,48.4,36.4,TRUE,TRUE,FALSE
+12/2/2022 12:15,"411 Kalayaan St., Brgy. Western Bicutan",Taguig,70.2,41.3,TRUE,TRUE,TRUE
+10/2/2022 16:20,"448 Masikap St., Brgy. Poblacion",Makati,64.4,40.0,FALSE,TRUE,FALSE
+5/9/2022 0:31,"485 Sampaguita St., Brgy. Malibay",Pasay,25.8,31.3,TRUE,TRUE,FALSE
+4/28/2022 5:26,"522 Molave St., Brgy. Cubao",Quezon City,34.2,33.2,FALSE,TRUE,FALSE
+5/8/2022 8:02,"559 Maligaya St., Brgy. Putatan",Muntinlupa,20.4,30.1,TRUE,FALSE,FALSE
+9/6/2022 10:52,"596 Molave St., Brgy. Marulas",Valenzuela,67.1,40.6,FALSE,FALSE,TRUE
+3/10/2022 14:17,"633 Narra St., Brgy. Concepcion",Malabon,31.6,32.6,TRUE,TRUE,FALSE
+8/3/2022 22:46,"670 Dahlia St., Brgy. San Antonio",Pasig,46.2,35.9,FALSE,TRUE,FALSE
+3/29/2022 4:40,"707 Rizal St., Brgy. Grace Park",Caloocan,96.4,47.2,FALSE,FALSE,TRUE
+10/7/2022 5:09,"744 Acacia St., Brgy. San Roque",Navotas,37.8,34.0,TRUE,TRUE,FALSE
+12/22/2022 15:53,"781 Rizal St., Brgy. San Roque",Pateros,76.0,42.6,FALSE,TRUE,TRUE
+7/19/2022 2:37,"818 Mabini St., Brgy. Plainview",Mandaluyong,21.3,30.3,FALSE,FALSE,FALSE
+4/25/2022 19:01,"855 Maharlika St., Brgy. Addition Hills",San Juan,64.4,40.0,FALSE,TRUE,FALSE
+4/28/2022 0:10,"892 Kalayaan St., Brgy. Pulang Lupa",Las Piñas,32.0,32.7,TRUE,TRUE,FALSE
+6/22/2022 21:45,"929 Bonifacio St., Brgy. Don Bosco",Parañaque,21.8,30.4,FALSE,TRUE,FALSE
+11/29/2022 16:56,"966 Sampaguita St., Brgy. Malate",Manila,37.3,33.9,FALSE,TRUE,FALSE
+3/4/2022 18:45,"14 Masikap St., Brgy. Concepcion Uno",Marikina,60.4,39.1,FALSE,TRUE,FALSE
+7/31/2022 4:59,"51 Sampaguita St., Brgy. Fort Bonifacio",Taguig,65.3,40.2,TRUE,TRUE,TRUE
+1/27/2022 2:23,"88 Molave St., Brgy. Bel-Air",Makati,76.9,42.8,TRUE,FALSE,TRUE
+4/24/2022 12:03,"125 Maligaya St., Brgy. San Isidro",Pasay,34.7,33.3,FALSE,TRUE,FALSE
+9/6/2022 7:32,"162 Dahlia St., Brgy. Tandang Sora",Quezon City,20.0,30.0,TRUE,TRUE,FALSE
+4/1/2022 6:53,"199 Narra St., Brgy. Tunasan",Muntinlupa,29.8,32.2,FALSE,FALSE,FALSE
+9/26/2022 13:22,"236 Dahlia St., Brgy. Karuhatan",Valenzuela,75.1,42.4,FALSE,TRUE,TRUE
+12/25/2022 19:25,"273 Rizal St., Brgy. Potrero",Malabon,20.9,30.2,TRUE,TRUE,FALSE
+10/12/2022 18:50,"310 Acacia St., Brgy. Kapitolyo",Pasig,23.6,30.8,FALSE,FALSE,FALSE
+2/28/2022 22:14,"347 Maharlika St., Brgy. Bagong Silang",Caloocan,57.8,38.5,FALSE,FALSE,FALSE
+6/13/2022 2:41,"384 Mabini St., Brgy. Tanza",Navotas,51.1,37.0,TRUE,FALSE,FALSE
+8/14/2022 8:46,"421 Maharlika St., Brgy. Aguho",Pateros,28.4,31.9,TRUE,TRUE,FALSE
+6/24/2022 18:37,"458 Kalayaan St., Brgy. Hulo",Mandaluyong,56.0,38.1,FALSE,FALSE,FALSE
+12/11/2022 21:39,"495 Bonifacio St., Brgy. Balong-Bato",San Juan,26.7,31.5,FALSE,FALSE,FALSE
+6/14/2022 14:34,"532 Sampaguita St., Brgy. Almanza",Las Piñas,51.1,37.0,TRUE,TRUE,FALSE
+11/8/2022 0:09,"569 Masikap St., Brgy. BF Homes",Parañaque,32.4,32.8,TRUE,TRUE,FALSE
+8/15/2022 16:35,"606 Maligaya St., Brgy. Ermita",Manila,62.2,39.5,TRUE,TRUE,FALSE
+11/12/2022 22:57,"643 Molave St., Brgy. Sto. Niño",Marikina,97.3,47.4,FALSE,FALSE,TRUE
+5/18/2022 20:00,"680 Maligaya St., Brgy. Ususan",Taguig,89.8,45.7,TRUE,TRUE,TRUE
+9/3/2022 15:33,"717 Dahlia St., Brgy. San Antonio",Makati,80.9,43.7,TRUE,TRUE,TRUE
+7/10/2022 5:21,"754 Narra St., Brgy. Maricaban",Pasay,20.9,30.2,FALSE,TRUE,FALSE
+6/20/2022 16:40,"791 Acacia St., Brgy. Diliman",Quezon City,43.6,35.3,TRUE,TRUE,FALSE
+7/12/2022 4:06,"828 Rizal St., Brgy. Alabang",Muntinlupa,96.4,47.2,FALSE,FALSE,TRUE
+5/7/2022 21:40,"865 Acacia St., Brgy. Malinta",Valenzuela,24.4,31.0,TRUE,FALSE,FALSE
+9/18/2022 13:45,"902 Maharlika St., Brgy. Longos",Malabon,35.6,33.5,FALSE,TRUE,FALSE
+1/22/2022 11:34,"939 Mabini St., Brgy. Ugong",Pasig,91.6,46.1,FALSE,FALSE,TRUE
+3/12/2022 22:27,"976 Bonifacio St., Brgy. Camarin",Caloocan,33.8,33.1,FALSE,FALSE,FALSE
+9/23/2022 3:35,"24 Kalayaan St., Brgy. Daanghari",Navotas,64.0,39.9,TRUE,FALSE,FALSE
+11/6/2022 15:45,"61 Bonifacio St., Brgy. Sta. Ana",Pateros,37.8,34.0,TRUE,TRUE,FALSE
+7/9/2022 8:23,"98 Sampaguita St., Brgy. Highway Hills",Mandaluyong,21.8,30.4,TRUE,FALSE,FALSE
+9/6/2022 20:02,"135 Masikap St., Brgy. Greenhills",San Juan,21.3,30.3,TRUE,FALSE,FALSE
+5/16/2022 0:17,"172 Maligaya St., Brgy. Talon Uno",Las Piñas,22.7,30.6,TRUE,FALSE,FALSE
+7/30/2022 15:59,"209 Molave St., Brgy. Baclaran",Parañaque,23.6,30.8,TRUE,FALSE,FALSE
+6/24/2022 13:34,"246 Narra St., Brgy. Sampaloc",Manila,32.4,32.8,TRUE,TRUE,FALSE
+1/25/2022 10:06,"283 Dahlia St., Brgy. Parang",Marikina,39.6,34.4,TRUE,TRUE,FALSE
+9/6/2022 0:26,"320 Narra St., Brgy. Western Bicutan",Taguig,21.3,30.3,TRUE,FALSE,FALSE
+3/27/2022 23:19,"357 Acacia St., Brgy. Poblacion",Makati,64.4,40.0,FALSE,TRUE,FALSE
+5/10/2022 22:07,"394 Rizal St., Brgy. Malibay",Pasay,41.3,34.8,FALSE,FALSE,FALSE
+5/1/2022 8:37,"431 Mabini St., Brgy. Cubao",Quezon City,20.9,30.2,FALSE,TRUE,FALSE
+4/22/2022 20:14,"468 Maharlika St., Brgy. Putatan",Muntinlupa,37.3,33.9,FALSE,TRUE,FALSE
+2/28/2022 5:15,"505 Mabini St., Brgy. Marulas",Valenzuela,34.7,33.3,FALSE,FALSE,FALSE
+7/29/2022 22:46,"542 Bonifacio St., Brgy. Concepcion",Malabon,22.7,30.6,TRUE,TRUE,FALSE
+10/22/2022 21:03,"579 Kalayaan St., Brgy. San Antonio",Pasig,35.6,33.5,TRUE,TRUE,FALSE
+5/23/2022 21:53,"616 Masikap St., Brgy. Grace Park",Caloocan,36.0,33.6,TRUE,TRUE,FALSE
+7/12/2022 23:17,"653 Sampaguita St., Brgy. San Roque",Navotas,72.9,41.9,TRUE,FALSE,TRUE
+6/5/2022 10:14,"690 Masikap St., Brgy. San Roque",Pateros,20.4,30.1,FALSE,TRUE,FALSE
+10/25/2022 19:46,"727 Maligaya St., Brgy. Plainview",Mandaluyong,37.8,34.0,TRUE,FALSE,FALSE
+1/8/2022 13:27,"764 Molave St., Brgy. Addition Hills",San Juan,70.2,41.3,FALSE,TRUE,TRUE
+12/14/2022 16:07,"801 Narra St., Brgy. Pulang Lupa",Las Piñas,80.9,43.7,TRUE,TRUE,TRUE
+12/6/2022 22:48,"838 Dahlia St., Brgy. Don Bosco",Parañaque,76.9,42.8,FALSE,FALSE,TRUE
+4/1/2022 19:45,"875 Rizal St., Brgy. Malate",Manila,27.1,31.6,FALSE,FALSE,FALSE
+8/15/2022 13:33,"912 Acacia St., Brgy. Concepcion Uno",Marikina,21.3,30.3,FALSE,TRUE,FALSE
+6/30/2022 14:00,"949 Rizal St., Brgy. Fort Bonifacio",Taguig,93.3,46.5,TRUE,TRUE,TRUE
+3/24/2022 14:32,"986 Mabini St., Brgy. Bel-Air",Makati,26.7,31.5,TRUE,TRUE,FALSE
+4/29/2022 4:39,"34 Maharlika St., Brgy. San Isidro",Pasay,65.3,40.2,TRUE,TRUE,TRUE
+4/3/2022 23:02,"71 Kalayaan St., Brgy. Tandang Sora",Quezon City,61.3,39.3,FALSE,FALSE,FALSE
+10/30/2022 7:21,"108 Bonifacio St., Brgy. Tunasan",Muntinlupa,52.4,37.3,FALSE,FALSE,FALSE
+10/30/2022 11:42,"145 Kalayaan St., Brgy. Karuhatan",Valenzuela,25.3,31.2,TRUE,TRUE,FALSE
+8/27/2022 23:49,"182 Masikap St., Brgy. Potrero",Malabon,85.3,44.7,TRUE,FALSE,TRUE
+7/12/2022 19:35,"219 Sampaguita St., Brgy. Kapitolyo",Pasig,33.3,33.0,FALSE,FALSE,FALSE
+11/15/2022 20:42,"256 Molave St., Brgy. Bagong Silang",Caloocan,41.3,34.8,TRUE,FALSE,FALSE
+12/15/2022 9:44,"293 Maligaya St., Brgy. Tanza",Navotas,55.1,37.9,FALSE,FALSE,FALSE
+5/16/2022 4:35,"330 Molave St., Brgy. Aguho",Pateros,60.0,39.0,TRUE,FALSE,FALSE
+5/18/2022 0:05,"367 Narra St., Brgy. Hulo",Mandaluyong,37.3,33.9,TRUE,FALSE,FALSE
+5/3/2022 20:56,"404 Dahlia St., Brgy. Balong-Bato",San Juan,24.4,31.0,TRUE,FALSE,FALSE
+5/23/2022 21:21,"441 Rizal St., Brgy. Almanza",Las Piñas,37.3,33.9,FALSE,FALSE,FALSE
+10/8/2022 13:26,"478 Acacia St., Brgy. BF Homes",Parañaque,46.7,36.0,TRUE,FALSE,FALSE
+6/27/2022 22:59,"515 Maharlika St., Brgy. Ermita",Manila,25.8,31.3,FALSE,FALSE,FALSE
+8/28/2022 6:16,"552 Mabini St., Brgy. Sto. Niño",Marikina,24.4,31.0,TRUE,TRUE,FALSE
+1/15/2022 21:42,"589 Maharlika St., Brgy. Ususan",Taguig,67.6,40.7,FALSE,TRUE,TRUE
+12/13/2022 8:16,"626 Kalayaan St., Brgy. San Antonio",Makati,33.3,33.0,FALSE,TRUE,FALSE
+7/21/2022 22:33,"663 Bonifacio St., Brgy. Maricaban",Pasay,32.0,32.7,FALSE,FALSE,FALSE
+6/10/2022 11:05,"700 Sampaguita St., Brgy. Diliman",Quezon City,24.0,30.9,TRUE,TRUE,FALSE
+7/23/2022 7:00,"737 Masikap St., Brgy. Alabang",Muntinlupa,20.9,30.2,TRUE,TRUE,FALSE
+6/3/2022 0:00,"774 Sampaguita St., Brgy. Malinta",Valenzuela,42.2,35.0,TRUE,FALSE,FALSE
+4/15/2022 7:48,"811 Molave St., Brgy. Longos",Malabon,20.0,30.0,FALSE,TRUE,FALSE
+11/4/2022 11:31,"848 Maligaya St., Brgy. Ugong",Pasig,48.9,36.5,FALSE,TRUE,FALSE
+5/22/2022 7:28,"885 Dahlia St., Brgy. Camarin",Caloocan,72.0,41.7,FALSE,TRUE,TRUE
+6/11/2022 23:55,"922 Narra St., Brgy. Daanghari",Navotas,73.3,42.0,TRUE,FALSE,TRUE
+7/14/2022 1:51,"959 Dahlia St., Brgy. Sta. Ana",Pateros,22.2,30.5,FALSE,FALSE,FALSE
+12/10/2022 11:45,"996 Rizal St., Brgy. Highway Hills",Mandaluyong,26.7,31.5,FALSE,TRUE,FALSE
+11/6/2022 6:19,"44 Acacia St., Brgy. Greenhills",San Juan,80.4,43.6,TRUE,FALSE,TRUE
+2/13/2022 11:23,"81 Maharlika St., Brgy. Talon Uno",Las Piñas,77.8,43.0,TRUE,TRUE,TRUE
+11/19/2022 14:11,"118 Mabini St., Brgy. Baclaran",Parañaque,79.6,43.4,FALSE,FALSE,TRUE
+4/20/2022 2:33,"155 Bonifacio St., Brgy. Sampaloc",Manila,94.7,46.8,FALSE,TRUE,TRUE
+9/10/2022 5:27,"192 Kalayaan St., Brgy. Parang",Marikina,24.4,31.0,TRUE,TRUE,FALSE
+2/18/2022 12:31,"229 Bonifacio St., Brgy. Western Bicutan",Taguig,34.2,33.2,TRUE,FALSE,FALSE
+1/21/2022 1:36,"266 Sampaguita St., Brgy. Poblacion",Makati,88.0,45.3,FALSE,TRUE,TRUE
+2/28/2022 12:52,"303 Masikap St., Brgy. Malibay",Pasay,72.9,41.9,FALSE,FALSE,TRUE
+9/30/2022 17:03,"340 Maligaya St., Brgy. Cubao",Quezon City,60.0,39.0,TRUE,TRUE,FALSE
+8/13/2022 3:16,"377 Molave St., Brgy. Putatan",Muntinlupa,48.4,36.4,FALSE,FALSE,FALSE
+10/23/2022 17:38,"414 Maligaya St., Brgy. Marulas",Valenzuela,24.4,31.0,TRUE,FALSE,FALSE
+8/23/2022 2:40,"451 Dahlia St., Brgy. Concepcion",Malabon,20.0,30.0,FALSE,TRUE,FALSE
+9/19/2022 12:46,"488 Narra St., Brgy. San Antonio",Pasig,22.7,30.6,FALSE,TRUE,FALSE
+7/3/2022 11:04,"525 Acacia St., Brgy. Grace Park",Caloocan,26.7,31.5,TRUE,TRUE,FALSE
+7/19/2022 12:41,"562 Rizal St., Brgy. San Roque",Navotas,42.7,35.1,TRUE,FALSE,FALSE
+5/20/2022 12:21,"599 Acacia St., Brgy. San Roque",Pateros,92.4,46.3,FALSE,TRUE,TRUE
+1/10/2022 23:55,"636 Maharlika St., Brgy. Plainview",Mandaluyong,23.1,30.7,TRUE,FALSE,FALSE
+6/26/2022 0:33,"673 Mabini St., Brgy. Addition Hills",San Juan,76.9,42.8,TRUE,FALSE,TRUE
+5/2/2022 8:20,"710 Bonifacio St., Brgy. Pulang Lupa",Las Piñas,22.2,30.5,FALSE,FALSE,FALSE
+6/22/2022 1:10,"747 Kalayaan St., Brgy. Don Bosco",Parañaque,26.2,31.4,FALSE,TRUE,FALSE
+8/8/2022 9:55,"784 Masikap St., Brgy. Malate",Manila,23.1,30.7,FALSE,TRUE,FALSE
+5/12/2022 10:51,"821 Sampaguita St., Brgy. Concepcion Uno",Marikina,65.3,40.2,FALSE,TRUE,TRUE
+2/18/2022 17:36,"858 Masikap St., Brgy. Fort Bonifacio",Taguig,90.7,45.9,FALSE,FALSE,TRUE
+11/12/2022 3:21,"895 Maligaya St., Brgy. Bel-Air",Makati,20.4,30.1,FALSE,TRUE,FALSE
+4/12/2022 12:14,"932 Molave St., Brgy. San Isidro",Pasay,21.8,30.4,FALSE,FALSE,FALSE
+5/26/2022 6:42,"969 Narra St., Brgy. Tandang Sora",Quezon City,94.7,46.8,TRUE,FALSE,TRUE
+2/15/2022 7:37,"17 Dahlia St., Brgy. Tunasan",Muntinlupa,26.2,31.4,TRUE,TRUE,FALSE
+1/14/2022 5:36,"54 Narra St., Brgy. Karuhatan",Valenzuela,77.8,43.0,TRUE,TRUE,TRUE
+6/6/2022 22:34,"91 Acacia St., Brgy. Potrero",Malabon,58.2,38.6,TRUE,FALSE,FALSE
+8/17/2022 5:14,"128 Rizal St., Brgy. Kapitolyo",Pasig,67.1,40.6,TRUE,FALSE,TRUE
+4/8/2022 4:37,"165 Mabini St., Brgy. Bagong Silang",Caloocan,20.4,30.1,FALSE,FALSE,FALSE
+8/7/2022 2:26,"202 Maharlika St., Brgy. Tanza",Navotas,58.2,38.6,TRUE,TRUE,FALSE
+10/8/2022 10:34,"239 Mabini St., Brgy. Aguho",Pateros,66.2,40.4,TRUE,FALSE,TRUE
+5/23/2022 20:18,"276 Bonifacio St., Brgy. Hulo",Mandaluyong,53.8,37.6,TRUE,TRUE,FALSE
+6/4/2022 13:02,"313 Kalayaan St., Brgy. Balong-Bato",San Juan,34.2,33.2,TRUE,TRUE,FALSE
+6/20/2022 14:02,"350 Masikap St., Brgy. Almanza",Las Piñas,24.4,31.0,FALSE,TRUE,FALSE
+2/3/2022 13:39,"387 Sampaguita St., Brgy. BF Homes",Parañaque,66.2,40.4,TRUE,TRUE,TRUE
+3/2/2022 6:13,"424 Molave St., Brgy. Ermita",Manila,24.0,30.9,TRUE,FALSE,FALSE
+4/2/2022 11:17,"461 Maligaya St., Brgy. Sto. Niño",Marikina,36.0,33.6,TRUE,TRUE,FALSE
+12/13/2022 11:30,"498 Molave St., Brgy. Ususan",Taguig,52.0,37.2,FALSE,FALSE,FALSE
+1/9/2022 10:57,"535 Narra St., Brgy. San Antonio",Makati,92.4,46.3,TRUE,FALSE,TRUE
+4/15/2022 9:48,"572 Dahlia St., Brgy. Maricaban",Pasay,64.0,39.9,TRUE,TRUE,FALSE
+2/10/2022 7:21,"609 Rizal St., Brgy. Diliman",Quezon City,35.6,33.5,FALSE,FALSE,FALSE
+8/6/2022 14:07,"646 Acacia St., Brgy. Alabang",Muntinlupa,21.3,30.3,FALSE,FALSE,FALSE
+11/14/2022 20:49,"683 Rizal St., Brgy. Malinta",Valenzuela,50.2,36.8,TRUE,TRUE,FALSE
+12/3/2022 20:55,"720 Mabini St., Brgy. Longos",Malabon,98.2,47.6,TRUE,FALSE,TRUE
+8/24/2022 7:48,"757 Maharlika St., Brgy. Ugong",Pasig,65.3,40.2,FALSE,TRUE,TRUE
+8/22/2022 15:43,"794 Kalayaan St., Brgy. Camarin",Caloocan,20.4,30.1,FALSE,TRUE,FALSE
+6/19/2022 0:04,"831 Bonifacio St., Brgy. Daanghari",Navotas,75.1,42.4,FALSE,FALSE,TRUE
+1/5/2022 9:38,"868 Kalayaan St., Brgy. Sta. Ana",Pateros,42.7,35.1,FALSE,TRUE,FALSE
+8/11/2022 11:09,"905 Masikap St., Brgy. Highway Hills",Mandaluyong,20.0,30.0,FALSE,TRUE,FALSE
+1/8/2022 13:40,"942 Sampaguita St., Brgy. Greenhills",San Juan,20.0,30.0,TRUE,FALSE,FALSE
+11/5/2022 8:46,"979 Molave St., Brgy. Talon Uno",Las Piñas,51.1,37.0,FALSE,FALSE,FALSE
+1/14/2022 2:48,"27 Maligaya St., Brgy. Baclaran",Parañaque,44.9,35.6,TRUE,FALSE,FALSE
+11/10/2022 8:58,"64 Dahlia St., Brgy. Sampaloc",Manila,100.0,48.0,TRUE,TRUE,TRUE
+3/10/2022 16:21,"101 Narra St., Brgy. Parang",Marikina,97.3,47.4,TRUE,TRUE,TRUE
+9/21/2022 23:53,"138 Dahlia St., Brgy. Western Bicutan",Taguig,20.4,30.1,FALSE,TRUE,FALSE
+2/17/2022 1:39,"175 Rizal St., Brgy. Poblacion",Makati,20.0,30.0,FALSE,FALSE,FALSE
+7/8/2022 8:51,"212 Acacia St., Brgy. Malibay",Pasay,48.9,36.5,TRUE,FALSE,FALSE
+4/13/2022 3:53,"249 Maharlika St., Brgy. Cubao",Quezon City,62.2,39.5,TRUE,FALSE,FALSE
+7/12/2022 23:03,"286 Mabini St., Brgy. Putatan",Muntinlupa,36.4,33.7,FALSE,FALSE,FALSE
+12/22/2022 11:05,"323 Maharlika St., Brgy. Marulas",Valenzuela,20.4,30.1,FALSE,FALSE,FALSE
+5/16/2022 2:37,"360 Kalayaan St., Brgy. Concepcion",Malabon,20.0,30.0,FALSE,FALSE,FALSE
+4/1/2022 7:20,"397 Bonifacio St., Brgy. San Antonio",Pasig,82.7,44.1,FALSE,FALSE,TRUE
+3/22/2022 23:21,"434 Sampaguita St., Brgy. Grace Park",Caloocan,29.3,32.1,FALSE,FALSE,FALSE
+4/6/2022 12:33,"471 Masikap St., Brgy. San Roque",Navotas,56.9,38.3,FALSE,TRUE,FALSE
+6/23/2022 9:12,"508 Sampaguita St., Brgy. San Roque",Pateros,34.2,33.2,FALSE,TRUE,FALSE
+4/14/2022 8:44,"545 Molave St., Brgy. Plainview",Mandaluyong,36.4,33.7,TRUE,FALSE,FALSE
+10/24/2022 23:35,"582 Maligaya St., Brgy. Addition Hills",San Juan,32.4,32.8,TRUE,FALSE,FALSE
+10/18/2022 20:29,"619 Dahlia St., Brgy. Pulang Lupa",Las Piñas,67.1,40.6,FALSE,FALSE,TRUE
+3/19/2022 7:49,"656 Narra St., Brgy. Don Bosco",Parañaque,46.7,36.0,FALSE,FALSE,FALSE
+8/2/2022 16:00,"693 Acacia St., Brgy. Malate",Manila,32.0,32.7,FALSE,TRUE,FALSE
+7/2/2022 11:56,"730 Rizal St., Brgy. Concepcion Uno",Marikina,22.2,30.5,FALSE,FALSE,FALSE
+9/5/2022 18:07,"767 Acacia St., Brgy. Fort Bonifacio",Taguig,26.2,31.4,FALSE,FALSE,FALSE
+6/28/2022 5:50,"804 Maharlika St., Brgy. Bel-Air",Makati,64.4,40.0,FALSE,TRUE,FALSE
+6/23/2022 20:25,"841 Mabini St., Brgy. San Isidro",Pasay,80.9,43.7,TRUE,TRUE,TRUE
+6/3/2022 14:20,"878 Bonifacio St., Brgy. Tandang Sora",Quezon City,62.2,39.5,TRUE,FALSE,FALSE
+1/24/2022 7:32,"915 Kalayaan St., Brgy. Tunasan",Muntinlupa,58.2,38.6,TRUE,FALSE,FALSE
+5/5/2022 15:11,"952 Bonifacio St., Brgy. Karuhatan",Valenzuela,24.4,31.0,TRUE,TRUE,FALSE
+8/13/2022 22:32,"989 Sampaguita St., Brgy. Potrero",Malabon,74.2,42.2,TRUE,FALSE,TRUE
+8/1/2022 2:33,"37 Masikap St., Brgy. Kapitolyo",Pasig,61.3,39.3,TRUE,TRUE,FALSE
+1/20/2022 6:28,"74 Maligaya St., Brgy. Bagong Silang",Caloocan,44.9,35.6,TRUE,TRUE,FALSE
+10/20/2022 6:12,"111 Molave St., Brgy. Tanza",Navotas,88.9,45.5,FALSE,TRUE,TRUE
+2/9/2022 3:01,"148 Maligaya St., Brgy. Aguho",Pateros,22.7,30.6,FALSE,TRUE,FALSE
+11/11/2022 10:40,"185 Dahlia St., Brgy. Hulo",Mandaluyong,78.7,43.2,FALSE,TRUE,TRUE
+5/31/2022 5:45,"222 Narra St., Brgy. Balong-Bato",San Juan,80.4,43.6,FALSE,FALSE,TRUE
+6/9/2022 0:56,"259 Acacia St., Brgy. Almanza",Las Piñas,32.4,32.8,FALSE,FALSE,FALSE
+12/3/2022 14:06,"296 Rizal St., Brgy. BF Homes",Parañaque,99.1,47.8,TRUE,TRUE,TRUE
+11/11/2022 8:04,"333 Mabini St., Brgy. Ermita",Manila,22.7,30.6,TRUE,TRUE,FALSE
+12/11/2022 14:58,"370 Maharlika St., Brgy. Sto. Niño",Marikina,29.3,32.1,TRUE,FALSE,FALSE
+11/7/2022 0:06,"407 Mabini St., Brgy. Ususan",Taguig,31.1,32.5,TRUE,TRUE,FALSE
+9/18/2022 10:30,"444 Bonifacio St., Brgy. San Antonio",Makati,30.7,32.4,TRUE,TRUE,FALSE
+7/19/2022 0:10,"481 Kalayaan St., Brgy. Maricaban",Pasay,90.7,45.9,FALSE,FALSE,TRUE
+6/15/2022 11:24,"518 Masikap St., Brgy. Diliman",Quezon City,82.2,44.0,TRUE,FALSE,TRUE
+12/27/2022 22:42,"555 Sampaguita St., Brgy. Alabang",Muntinlupa,55.1,37.9,TRUE,FALSE,FALSE
+3/21/2022 23:37,"592 Masikap St., Brgy. Malinta",Valenzuela,27.6,31.7,TRUE,TRUE,FALSE
+2/23/2022 7:00,"629 Maligaya St., Brgy. Longos",Malabon,34.7,33.3,FALSE,FALSE,FALSE
+11/30/2022 20:11,"666 Molave St., Brgy. Ugong",Pasig,48.4,36.4,TRUE,TRUE,FALSE
+4/6/2022 23:26,"703 Narra St., Brgy. Camarin",Caloocan,24.0,30.9,FALSE,TRUE,FALSE
+11/7/2022 18:22,"740 Dahlia St., Brgy. Daanghari",Navotas,60.4,39.1,FALSE,FALSE,FALSE
+10/25/2022 6:34,"777 Narra St., Brgy. Sta. Ana",Pateros,40.9,34.7,FALSE,TRUE,FALSE
+10/16/2022 4:47,"814 Acacia St., Brgy. Highway Hills",Mandaluyong,32.0,32.7,FALSE,TRUE,FALSE
+1/21/2022 23:43,"851 Rizal St., Brgy. Greenhills",San Juan,61.3,39.3,TRUE,FALSE,FALSE
+12/26/2022 19:20,"888 Mabini St., Brgy. Talon Uno",Las Piñas,92.4,46.3,FALSE,FALSE,TRUE
+8/31/2022 16:10,"925 Maharlika St., Brgy. Baclaran",Parañaque,20.0,30.0,TRUE,TRUE,FALSE
+11/25/2022 12:26,"962 Kalayaan St., Brgy. Sampaloc",Manila,24.9,31.1,TRUE,TRUE,FALSE
+11/27/2022 7:57,"10 Bonifacio St., Brgy. Parang",Marikina,34.7,33.3,TRUE,FALSE,FALSE
+11/12/2022 6:55,"47 Kalayaan St., Brgy. Western Bicutan",Taguig,35.6,33.5,FALSE,TRUE,FALSE
+6/1/2022 10:04,"84 Masikap St., Brgy. Poblacion",Makati,56.0,38.1,TRUE,TRUE,FALSE
+4/16/2022 12:26,"121 Sampaguita St., Brgy. Malibay",Pasay,55.1,37.9,FALSE,TRUE,FALSE
+4/25/2022 14:12,"158 Molave St., Brgy. Cubao",Quezon City,73.3,42.0,FALSE,TRUE,TRUE
+1/23/2022 7:06,"195 Maligaya St., Brgy. Putatan",Muntinlupa,89.8,45.7,TRUE,TRUE,TRUE
+8/30/2022 0:00,"232 Molave St., Brgy. Marulas",Valenzuela,86.2,44.9,FALSE,FALSE,TRUE
+4/15/2022 22:20,"269 Narra St., Brgy. Concepcion",Malabon,20.4,30.1,TRUE,FALSE,FALSE
+11/21/2022 18:55,"306 Dahlia St., Brgy. San Antonio",Pasig,42.2,35.0,TRUE,FALSE,FALSE
+12/23/2022 8:25,"343 Rizal St., Brgy. Grace Park",Caloocan,20.9,30.2,FALSE,FALSE,FALSE
+8/18/2022 17:08,"380 Acacia St., Brgy. San Roque",Navotas,93.3,46.5,TRUE,FALSE,TRUE
+5/17/2022 6:56,"417 Rizal St., Brgy. San Roque",Pateros,100.0,48.0,FALSE,TRUE,TRUE
